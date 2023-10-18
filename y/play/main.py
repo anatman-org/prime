@@ -19,7 +19,7 @@ def main():
         1920,
         1080,
         fullscreen=PLAY_FULLSCREEN,
-        style=MatWindow.WINDOW_STYLE_OVERLAY,
+        # style=MatWindow.WINDOW_STYLE_OVERLAY,         # transparent window
         screen=screens[PLAY_SCREEN],
         background_image=BACK_IMAGE,
         stage_image=STAGE_IMAGE,

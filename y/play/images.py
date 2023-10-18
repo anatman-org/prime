@@ -41,8 +41,8 @@ class ImageStatic(AbstractImage):
 
     _image = None
 
-    def __init__(self, width, height, anchor_x=0, anchor_y=0, *args, **kwargs):
-        super().__init__(width, height)
+    def __init__(self, *args, **kwargs):
+        super().__init__(0, 0)
 
         # Set up glob
         self.file = kwargs.get("file")
@@ -67,10 +67,6 @@ class ImageStatic(AbstractImage):
 
     def prev(self):
         pass
-
-
-
-
 
 
 class ImageSequence(AbstractImage):

@@ -1,3 +1,11 @@
 10-18-2023 10:19:54 | INFO | Added glob self.glob='m/marks*.png'
 10-18-2023 10:19:54 | ERROR | Loading image 0 of 0
 10-18-2023 10:44:52 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 10:55:34 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 10:56:32 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 10:56:51 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 10:56:51 | INFO | Added static file self.file='media/background.png'
+10-18-2023 10:59:40 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 10:59:40 | INFO | Added static file self.file='media/background.png'
+10-18-2023 11:00:36 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 11:00:36 | INFO | Added static file self.file='media/background.png'
