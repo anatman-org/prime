@@ -37,6 +37,42 @@ class ImageNull(AbstractImage):
         pass
 
 
+class ImageStatic(AbstractImage):
+
+    _image = None
+
+    def __init__(self, width, height, anchor_x=0, anchor_y=0, *args, **kwargs):
+        super().__init__(width, height)
+
+        # Set up glob
+        self.file = kwargs.get("file")
+        if not self.file:
+            log.error(f"No file passed to {self.__class__}")
+            raise Exception("Invalid File exception")
+
+        self._image = image_load(self.file)
+        log.info(f"Added static file {self.file=}")
+
+    def __len__(self):
+        return 0
+
+    def blit(self, x, y, z=0):
+        self._image.blit(x, y, z=z)
+
+    def blit_into(self, source, x, y, z=0):
+        self._image.blit(source, x, y, z=z)
+
+    def next(self):
+        pass
+
+    def prev(self):
+        pass
+
+
+
+
+
+
 class ImageSequence(AbstractImage):
 
     _image = None

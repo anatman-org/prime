@@ -1,13 +1,15 @@
-from y.play.images import ImageGlobSequence, ImageGlobCarousel, ImageGlobRandom, ImageNull
+from y.play.images import ImageStatic, ImageGlobSequence, ImageGlobCarousel, ImageGlobRandom, ImageNull
 
 STAGE_SEQUENCE_GLOB = "media/marks*.png"
 STAGE_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
 
-BACK_SEQUENCE_GLOB = "media/*.png"
-BACK_SEQUENCE_GLOB_INDEX = 0
+# BACK_SEQUENCE_GLOB = "media/back/*.png"
+# BACK_SEQUENCE_GLOB_INDEX = 0
 # BACK_IMAGE = ImageGlobRandom( glob=BACK_SEQUENCE_GLOB, index=BACK_SEQUENCE_GLOB_INDEX)
 # BACK_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
-BACK_IMAGE = ImageNull()
+
+# BACK_IMAGE = ImageNull()
+BACK_IMAGE = ImageStatic(file="media/background.png")
 
 FNAME_TEMPLATE = "out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
