@@ -6,6 +6,9 @@ from retry import retry
 from pyglet.image import AbstractImage, codecs
 from pyglet.image import load as image_load
 
+from pyglet.media import Player, StreamingSource
+from pyglet.media import load as media_load
+
 from . import log
 
 
@@ -37,6 +40,34 @@ class ImageNull(AbstractImage):
         pass
 
 
+class VideoStatic(Player):
+
+    def __init__(self, *args, **kwargs):
+        super().__init__()
+
+        self.file = kwargs.get("file")
+
+        self._source = StreamingSource()
+        self._media = media_load(self.file)
+        self.queue(self._media)
+        self.play()
+
+    def blit(self, x, y, z=0):
+        self.get_texture().blit()
+
+    def blit_into(self, source, x, y, z=0):
+        self.blit()
+
+    def __len__(self):
+        return 0
+
+
+    def next(self):
+        pass
+
+    def prev(self):
+        pass
+
 class ImageStatic(AbstractImage):
 
     _image = None
@@ -44,7 +75,6 @@ class ImageStatic(AbstractImage):
     def __init__(self, *args, **kwargs):
         super().__init__(0, 0)
 
-        # Set up glob
         self.file = kwargs.get("file")
         if not self.file:
             log.error(f"No file passed to {self.__class__}")
@@ -67,7 +97,6 @@ class ImageStatic(AbstractImage):
 
     def prev(self):
         pass
-
 
 class ImageSequence(AbstractImage):
 

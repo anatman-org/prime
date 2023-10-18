@@ -9,3 +9,8 @@
 10-18-2023 10:59:40 | INFO | Added static file self.file='media/background.png'
 10-18-2023 11:00:36 | INFO | Added glob self.glob='media/marks*.png'
 10-18-2023 11:00:36 | INFO | Added static file self.file='media/background.png'
+10-18-2023 11:25:58 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 11:25:58 | ERROR | No file passed to <class 'y.play.images.VideoStatic'>
+10-18-2023 11:26:50 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 11:27:07 | INFO | Added glob self.glob='media/marks*.png'
+10-18-2023 11:28:00 | INFO | Added glob self.glob='media/marks*.png'
