@@ -5,7 +5,7 @@ import pyglet
 window= pyglet.window.Window()
 player = pyglet.media.Player()
 source = pyglet.media.StreamingSource()
-MediaLoad = pyglet.media.load( "copy/Observing the Sun [5518376507001].mp4")
+MediaLoad = pyglet.media.load( "copy/Observing the Sun [5518376507001]a.mp4")
 player.queue(MediaLoad)
 
 player.play()

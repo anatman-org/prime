@@ -9,9 +9,9 @@ STAGE_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
 # BACK_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
 
 # BACK_IMAGE = ImageNull()
-# BACK_IMAGE = ImageStatic(file="media/background.png")
+BACK_IMAGE = ImageStatic(file="media/background.png")
 
-BACK_IMAGE = VideoStatic(file="copy/Observing the Sun [5518376507001].mp4")
+# BACK_IMAGE = VideoStatic(file="copy/Observing the Sun [5518376507001]a.mp4")
 
 FNAME_TEMPLATE = "out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
@@ -25,7 +25,7 @@ CAMERA = 1
 CAMERA_SLEEP = 0.5
 
 
-DEBUG = True
+DEBUG = False
 if DEBUG:
     DASH_SCREEN = 0
     PLAY_SCREEN = 0
