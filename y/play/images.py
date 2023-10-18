@@ -41,7 +41,6 @@ class ImageNull(AbstractImage):
 
 
 class VideoStatic(Player):
-
     def __init__(self, *args, **kwargs):
         super().__init__()
 
@@ -61,12 +60,12 @@ class VideoStatic(Player):
     def __len__(self):
         return 0
 
-
     def next(self):
         pass
 
     def prev(self):
         pass
+
 
 class ImageStatic(AbstractImage):
 
@@ -97,6 +96,7 @@ class ImageStatic(AbstractImage):
 
     def prev(self):
         pass
+
 
 class ImageSequence(AbstractImage):
 

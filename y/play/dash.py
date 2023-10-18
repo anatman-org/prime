@@ -66,20 +66,14 @@ class DashWindow(Window):
 
             self.mat.show_stage = not self.mat.show_stage
 
-            self.mat.switch_to()
-            self.mat.dispatch_events()
-            self.mat.dispatch_event("on_draw")
-            self.mat.flip()
+            self.mat()
 
         elif key == key_code.X:
             exit()
 
     def loop(self):
 
-        self.mat.switch_to()
-        self.mat.dispatch_events()
-        self.mat.dispatch_event("on_draw")
-        self.mat.flip()
+        self.mat()
 
         self.switch_to()
         self.dispatch_events()

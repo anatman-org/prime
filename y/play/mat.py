@@ -18,8 +18,9 @@ from . import log
 from config import *
 
 
-class MatWindow(Window):
+class Mat:
 
+    window = None
     background = None
     stage = None
     show_stage = False
@@ -27,28 +28,27 @@ class MatWindow(Window):
     fname_list = []
     pos = 0
 
-    def __init__(self, *args, **kwargs):
-        super().__init__(
-            *args,
-            **{
-                k: kwargs[k]
-                for k in kwargs
-                if k not in ["background_image", "stage_image"]
-            }
-        )
+    def __init__(self, window, background, stage, *args, **kwargs):
 
-        self.config.alpha_size = 8
+        self.window = window
+        self.window.config.alpha_size = 8
 
-        self.background = kwargs.get("background_image")
-        self.stage = kwargs.get("stage_image")
+        self.background = background
+        self.stage = stage
         self.show_stage = False
 
-        self.switch_to()
+        self.window.on_draw = self.on_draw
+
+    def __call__(self, *args, **kwargs):
+        self.window.switch_to()
+        self.window.dispatch_events()
+        self.window.dispatch_event("on_draw")
+        self.window.flip()
 
     def on_draw(self):
-        self.switch_to()
+        self.window.switch_to()
 
-        self.clear()
+        self.window.clear()
         glEnable(GL_BLEND)
 
         glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)

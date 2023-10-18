@@ -25,7 +25,7 @@ CAMERA = 1
 CAMERA_SLEEP = 0.5
 
 
-DEBUG = False
+DEBUG = True
 if DEBUG:
     DASH_SCREEN = 0
     PLAY_SCREEN = 0
