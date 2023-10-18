@@ -12,7 +12,6 @@ from pyglet.window import key as key_code
 os.environ["OPENCV_LOG_LEVEL"] = "FATAL"
 from cv2 import VideoCapture, imwrite, imshow
 
-from .media import *
 from . import log
 
 from config import *
@@ -116,9 +115,9 @@ class DashWindow(Window):
 
         self.loop()
 
-        snd_shutter_start.play()
+        SND_shutter_start.play()
         self.take_photo(fname)
-        snd_shutter_end.play()
+        SND_shutter_end.play()
 
         self.mat.show_stage = old_mat_state
         self.loop()

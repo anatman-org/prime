@@ -6,7 +6,6 @@ from pyglet.app import platform_event_loop
 from . import log
 from .mat import Mat
 from .dash import DashWindow
-from .images import ImageGlobSequence, ImageGlobCarousel
 
 from config import *
 
@@ -24,7 +23,7 @@ def main():
         # style=MatWindow.WINDOW_STYLE_OVERLAY,         # transparent window
     )
 
-    mat = Mat(win_mat, BACK_IMAGE, STAGE_IMAGE)
+    mat = Mat(win_mat, BACK, STAGE)
 
     dash = DashWindow(fullscreen=DASH_FULLSCREEN, screen=screens[DASH_SCREEN])
     dash.mat = mat

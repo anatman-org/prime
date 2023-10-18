@@ -1,19 +1,19 @@
-from y.play.images import ImageStatic, ImageGlobSequence, ImageGlobCarousel, ImageGlobRandom, ImageNull, VideoStatic
+from pyglet.media import load as media_load
+from pyglet.media import StaticSource
 
-STAGE_SEQUENCE_GLOB = "media/marks*.png"
-STAGE_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
+from y.play.media import *
 
-# BACK_SEQUENCE_GLOB = "media/back/*.png"
-# BACK_SEQUENCE_GLOB_INDEX = 0
-# BACK_IMAGE = ImageGlobRandom( glob=BACK_SEQUENCE_GLOB, index=BACK_SEQUENCE_GLOB_INDEX)
-# BACK_IMAGE = ImageGlobCarousel(glob=STAGE_SEQUENCE_GLOB, autoincrement=False)
+SND_buzz = StaticSource(media_load("media/buzz.wav"))
+SND_shutter_start = StaticSource(media_load("media/shutter_start.wav"))
+SND_shutter_end = StaticSource(media_load("media/shutter_end.wav"))
 
-# BACK_IMAGE = ImageNull()
-BACK_IMAGE = ImageStatic(file="media/background.png")
+#BACK = MatImage("media/background.png")
+BACK = MatVideo("media/background.mp4")
 
-# BACK_IMAGE = VideoStatic(file="copy/Observing the Sun [5518376507001]a.mp4")
+STAGE = MatImage("media/marks-1a.png")
 
-FNAME_TEMPLATE = "out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+
+FNAME_TEMPLATE = "media/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 DASH_SCREEN = 2
 PLAY_SCREEN = 1

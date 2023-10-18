@@ -52,11 +52,9 @@ class Mat:
         glEnable(GL_BLEND)
 
         glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
-        self.background.blit(0, 0)
+        self.background()
 
         if self.show_stage:
-            try:
-                glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
-                self.stage.blit(0, 0)
-            except:
-                log.error("Couldn't show stage")
+            glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
+            self.stage()
+
