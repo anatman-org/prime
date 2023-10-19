@@ -62,7 +62,7 @@ class MatVideo(MatMedium):
 
     autoincrement = False
 
-    def __init__(self, file, loop=False, mute=False, *args, **kwargs):
+    def __init__(self, file, loop=False, volume=0, *args, **kwargs):
         super().__init__()
 
         self.player = Player()
@@ -73,8 +73,7 @@ class MatVideo(MatMedium):
         self._media = media_load(self.file)
 
         self.player.queue(self._media)
-        if mute:
-            self.player.volume = 0
+        self.player.volume = volume
         self.player.play()
 
     @property
