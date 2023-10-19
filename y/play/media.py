@@ -59,6 +59,9 @@ class MatImage(MatMedium):
 
 
 class MatVideo(MatMedium):
+
+    autoincrement = False
+
     def __init__(self, file, loop=False, mute=False, *args, **kwargs):
         super().__init__()
 
@@ -104,12 +107,17 @@ class MatVideo(MatMedium):
             log.debug(f"resume {self}")
 
     def next(self):
-        # self.player.play()
-        log.debug(f"next {self} <None>")
+        # self.player.seek(self.pos + 1)
+        log.error(f"next {self} NO seek + 1")
 
     def prev(self):
-        self.player.seek(0)
-        log.debug(f"prev {self} seek 0")
+
+        position = self.pos - 1
+        if position < 0:
+            position = 0
+
+        self.player.seek(position)
+        log.debug(f"prev {self} seek -1")
 
 
 class MatImageList(MatImage):
@@ -156,13 +164,3 @@ class MatImageList(MatImage):
 
         self.file = self._filelist[self.pos]
         log.debug(f"prev {self}@{self.pos}")
-
-
-class MatImageListRandom(MatImageList):
-
-    _image = None
-
-    def __init__(self, image_file_list, pos=0, loop=True, *args, **kwargs):
-
-        shuffle(image_file_list)
-        super().__init__(image_file_list, pos, loop, *args, **kwargs)

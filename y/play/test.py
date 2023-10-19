@@ -62,8 +62,7 @@ def video_dump():
 def config_test():
     from config import BACK
 
-    for x in BACK._filelist:
-        print(x)
+    print(BACK)
 
 
 if __name__ == "__main__":

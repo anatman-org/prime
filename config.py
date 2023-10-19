@@ -9,7 +9,7 @@ from y.play.media import *
 
 DEBUG = False
 # MEDIA_BASE_DIR = str(Path().home())
-MEDIA_BASE_DIR = "/data"
+MEDIA_BASE_DIR = "/run/media/bean/bean-stash"
 
 FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
