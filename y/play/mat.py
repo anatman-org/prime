@@ -57,4 +57,3 @@ class Mat:
         if self.show_stage:
             glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)
             self.stage()
-

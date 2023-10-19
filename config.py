@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from pyglet.media import load as media_load
 from pyglet.media import StaticSource
 
@@ -10,8 +12,8 @@ SND_shutter_end = StaticSource(media_load("media/shutter_end.wav"))
 #BACK = MatImage("media/background.png")
 BACK = MatVideo("media/background.mp4")
 
-STAGE = MatImage("media/marks-1a.png")
-
+#STAGE = MatImage("media/marks-1a.png")
+STAGE = MatImageList( [ str(f) for f in Path.cwd().glob("media/marks-*.png") ] )
 
 FNAME_TEMPLATE = "media/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
@@ -25,7 +27,7 @@ CAMERA = 1
 CAMERA_SLEEP = 0.5
 
 
-DEBUG = True
+DEBUG = False
 if DEBUG:
     DASH_SCREEN = 0
     PLAY_SCREEN = 0

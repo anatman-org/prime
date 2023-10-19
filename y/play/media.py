@@ -11,11 +11,14 @@ from pyglet.media import load as media_load
 
 from . import log
 
+STATE = {"NONE": 0, "SET": 1, "PLAYING": -1}
+
 
 class MatMedium:
 
     autoincrement = False
     pos = 0
+    state = STATE["NONE"]
 
     def __len__(self):
         log.debug(f"q_len {self} = 0")
@@ -35,7 +38,7 @@ class MatImage(MatMedium):
 
     _image = None
 
-    def __init__(self, image_filename, *args, **kwargs):
+    def __init__(self, image_filename=None, *args, **kwargs):
         super()
         self.file = image_filename
 
@@ -55,10 +58,12 @@ class MatImage(MatMedium):
 
 
 class MatVideo(MatMedium):
-    def __init__(self, file, *args, **kwargs):
+    def __init__(self, file, loop=False, *args, **kwargs):
         super().__init__()
 
         self.player = Player()
+        self.player.loop = loop
+
         self.source = StreamingSource()
         self.file = file
         self._media = media_load(self.file)
@@ -66,62 +71,76 @@ class MatVideo(MatMedium):
         self.player.queue(self._media)
         self.player.play()
 
+    @property
+    def state(self):
+        if self.player.playing:
+            return STATE["PLAYING"]
+        elif self.file:
+            return STATE["SET"]
+        else:
+            return STATE["NONE"]
+
+    @property
+    def pos(self):
+        return self.player.time
+
     def __repr__(self):
-        return f"MatVideo({self.file})"
+        return f"MatVideo({self.file}@{self.pos})"
 
     def __call__(self, *args, **kwargs):
         if self.player.source and self.player.source.video_format:
             self.player.get_texture().blit(0, 0)
 
+    def pause(self):
 
-class MatImageSequence(MatImage):
+        if self.player.playing:
+            self.player.pause()
+            log.debug(f"pause {self}")
+        else:
+            self.player.play()
+            log.debug(f"resume {self}")
 
-    def __init__(self, glob, index=0, *args, **kwargs):
-        super().__init__("", *args, **kwargs)
 
-        # Set up glob
-        self.glob = glob
-        log.debug(f"Added glob {self.glob=}")
-        self.filelist = [str(f) for f in Path().glob(self.glob)]
+class MatImageList(MatImage):
 
-        self.pos = index
+    _image = None
 
-        self._image = image_load(self.filelist[self.pos])
+    def __init__(self, image_file_list, pos=0, loop=True, *args, **kwargs):
+        super()
+
+        self._filelist = image_file_list
+        self._loop = loop
+
+        self.pos = pos
+        self.file = self._filelist[self.pos]
+
+    def __repr__(self):
+        return f"MatImage({self.file}@)"
+
+    def __call__(self, *args, **kwargs):
+        if self.file:
+            self._image = image_load(self.file)
+            self._image.blit(0, 0, 0)
+        else:
+            log.error(f"call {self} no image")
 
     def __len__(self):
-        return len(self.filelist)
+        return len(self._filelist)
 
     def next(self):
         self.pos += 1
-        self.file = self.filelist[self.pos]
-        self._image = image_load(self.file)
+
+        if self._loop and self.pos >= len(self._filelist):
+            self.pos = 1
+
+        self.file = self._filelist[self.pos]
+        log.debug(f"next {self}@{self.pos}")
 
     def prev(self):
         self.pos -= 1
-        self.file = self.filelist[self.pos]
-        self._image = image_load(self.file)
 
-
-class MatImageCarousel(MatImageSequence):
-    def next(self):
-        self.pos += 1
-        if self.pos >= len(self):
-            self.pos = 0
-        self.file = self.filelist[self.pos]
-        self._image = image_load(self.file)
-
-    def prev(self):
-        self.pos -= 1
-        if self.pos < 0:
+        if self._loop and self.pos < 0:
             self.pos = len(self) - 1
-        self.file = self.filelist[self.pos]
-        self._image = image_load(self.file)
 
-
-class MatImageRandom(MatImageSequence):
-
-    _past = []
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        shuffle(self.filelist)
+        self.file = self._filelist[self.pos]
+        log.debug(f"prev {self}@{self.pos}")

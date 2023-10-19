@@ -53,6 +53,9 @@ class DashWindow(Window):
             self.mat.background.next()
 
         elif key in [key_code._2, key_code.NUM_2]:
+            self.mat.background.pause()
+
+        elif key in [key_code._3, key_code.NUM_2]:
             self.mat.background.prev()
 
         elif key in [key_code._4, key_code.NUM_4]:
@@ -110,6 +113,11 @@ class DashWindow(Window):
 
         self.state = f"Taking {fname}"
 
+        need_to_unpause = False
+        if self.mat.background.state < 0:
+            self.mat.background.pause()
+            need_to_unpause = True
+
         old_mat_state = self.mat.show_stage
         self.mat.show_stage = False
 
@@ -119,7 +127,11 @@ class DashWindow(Window):
         self.take_photo(fname)
         SND_shutter_end.play()
 
+        # Return states
         self.mat.show_stage = old_mat_state
+        if need_to_unpause:
+            self.mat.background.pause()
+
         self.loop()
 
         self.count += 1
