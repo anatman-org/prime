@@ -1,5 +1,4 @@
-At the heart of the
-game
-is following
-the transformation of things
 
+stage of anger
+seeing that there is a heirarchy
+and that i am at the bottom

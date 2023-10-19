@@ -17,8 +17,12 @@ BACK = MatImageList([str(f) for f in Path("/data").glob("background*.png")])
 # STAGE = MatImage("media/marks-1a.png")
 STAGE = MatImageList([str(f) for f in Path("/data").glob("mark*.png")])
 
-FNAME_TEMPLATE = "/data/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = "/data/bean/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
+#! python -m y.play.test
+# 0 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 0 0 with 2560x1440
+# 1 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 2560 600 with 1920x1080
+# 2 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 2560 0 with 1024x600
 DASH_SCREEN = 2
 PLAY_SCREEN = 1
 

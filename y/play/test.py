@@ -2,7 +2,8 @@
 
 
 def list_screens():
-    import y.play
+
+    import pyglet
     from y.play import log
 
     display = pyglet.canvas.get_display()
@@ -66,4 +67,4 @@ def config_test():
 
 
 if __name__ == "__main__":
-    config_test()
+    list_screens()
