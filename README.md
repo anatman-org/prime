@@ -1,11 +1,11 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
 by:
-  - '######## #########'
-  - 'Martin Root Penrose'
-  - 'Thomas Martin'
-  - 'Zhuang Ted Zhou'
-  - Zi-Zi
+  - '@#$!   ######## #########'
+  - 'Martin R. Penrose, Ph.D'
+  - 'Thomas Merton, O.C.S.O.'
+  - 'Zhuang Zhou'
+  - "Magister Ludi Xabinia Qarr'eeb"
 ---
 
 
