@@ -8,19 +8,21 @@ from random import shuffle
 from y.play.media import *
 
 DEBUG = False
-HOME_PATH = "/run/media/bean/bean-stash"
-FNAME_TEMPLATE = HOME_PATH + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+# MEDIA_BASE_DIR = str(Path().home())
+MEDIA_BASE_DIR = "/data"
+
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 ##### Etup
 
-# BACK_FILES = [str(f) for f in Path(HOME_PATH).glob("out/*/*.png")]
+# BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(BACK_FILES)
 # BACK = MatImageList(BACK_FILES)
-BACK = MatVideo(HOME_PATH + "/background.mp4", mute=True)
-# BACK = MatImage(HOME_PATH + "/background.png")
+BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", mute=True)
+# BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
 
-# STAGE = MatImage(HOME_PATH + "/mark-0.png")
-STAGE = MatImageList([str(f) for f in Path(HOME_PATH).glob("mark*.png")])
+# STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
+STAGE = MatImageList([str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")])
 
 
 #! python -m y.play.test
@@ -46,6 +48,6 @@ if DEBUG:
 
 
 # Stuff that really shouldn't change
-SND_buzz = StaticSource(media_load(HOME_PATH + "/buzz.wav"))
-SND_shutter_start = StaticSource(media_load(HOME_PATH + "/shutter_start.wav"))
-SND_shutter_end = StaticSource(media_load(HOME_PATH + "/shutter_end.wav"))
+SND_buzz = StaticSource(media_load(MEDIA_BASE_DIR + "/buzz.wav"))
+SND_shutter_start = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_start.wav"))
+SND_shutter_end = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_end.wav"))
