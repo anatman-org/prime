@@ -59,9 +59,9 @@ def video_dump():
 
 
 def config_test():
-    from config import BACK_SEQUENCE
+    from config import STAGE
 
-    for x in BACK_SEQUENCE.filelist:
+    for x in STAGE._filelist:
         print(x)
 
 

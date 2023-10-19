@@ -37,6 +37,7 @@ class MatMedium:
 class MatImage(MatMedium):
 
     _image = None
+    file = None
 
     def __init__(self, image_filename=None, *args, **kwargs):
         super()
@@ -112,7 +113,8 @@ class MatImageList(MatImage):
         self._loop = loop
 
         self.pos = pos
-        self.file = self._filelist[self.pos]
+        if self.pos and self._filelist:
+            self.file = self._filelist[self.pos]
 
     def __repr__(self):
         return f"MatImage({self.file}@)"

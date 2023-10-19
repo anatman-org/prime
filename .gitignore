@@ -4,9 +4,8 @@ lib
 lib64
 src
 tmp
-out
-copy
 
+*.log
 .snap
 
 **/.DS_Store
