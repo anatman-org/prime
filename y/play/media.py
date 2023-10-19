@@ -132,8 +132,8 @@ class MatImageList(MatImage):
     def next(self):
         self.pos += 1
 
-        if self._loop and self.pos >= len(self._filelist):
-            self.pos = 1
+        if self._loop and self._filelist and self.pos >= len(self._filelist):
+            self.pos = 0
 
         self.file = self._filelist[self.pos]
         log.debug(f"next {self}@{self.pos}")

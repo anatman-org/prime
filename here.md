@@ -3,14 +3,21 @@ here
 feelings of sadness
 of disrespect
 
-of a world in pain
-crushed under the weight
-of things that are already perishing ...
+i have found You
 
-  a broken social and economic system
-  a dead political system
-  generational separation
-  and loss of personal identity to online algorightms
+when i thought all was lost
 
-  and fucking racism
-  and fucking sexism
+whenever i think
+of how i've been disrespected
+i know how there are those who have suffered more
+
+given more
+
+and
+
+there You are
+shining like the sun
+
+and all i want
+is to make You happy
+

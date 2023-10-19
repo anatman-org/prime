@@ -60,11 +60,13 @@ def video_dump():
 
 
 def config_test():
-    from config import STAGE
+    from config import BACK
 
-    for x in STAGE._filelist:
+    for x in BACK._filelist:
         print(x)
 
 
 if __name__ == "__main__":
-    list_screens()
+    # list_screens()
+
+    config_test()
