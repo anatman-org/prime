@@ -9,13 +9,14 @@ SND_buzz = StaticSource(media_load("media/buzz.wav"))
 SND_shutter_start = StaticSource(media_load("media/shutter_start.wav"))
 SND_shutter_end = StaticSource(media_load("media/shutter_end.wav"))
 
-#BACK = MatImage("media/background.png")
-BACK = MatVideo("media/background.mp4")
+# BACK = MatImage("media/background.png")
+BACK = MatImageList([str(f) for f in Path.cwd().glob("media/out/202310*/*.png")])
+# BACK = MatVideo("media/background.mp4")
 
-#STAGE = MatImage("media/marks-1a.png")
-STAGE = MatImageList( [ str(f) for f in Path.cwd().glob("media/marks-*.png") ] )
+# STAGE = MatImage("media/marks-1a.png")
+STAGE = MatImageList([str(f) for f in Path.cwd().glob("media/marks-*.png")])
 
-FNAME_TEMPLATE = "media/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = "out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 DASH_SCREEN = 2
 PLAY_SCREEN = 1
@@ -34,5 +35,3 @@ if DEBUG:
 
     PLAY_FULLSCREEN = False
     DASH_FULLSCREEN = False
-
-    CAMERA = 0

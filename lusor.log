@@ -1678,3 +1678,287 @@
 10-18-2023 16:49:05 | ERROR | call MatImage() no image
 10-18-2023 16:49:05 | ERROR | call MatImage() no image
 10-18-2023 16:49:05 | ERROR | call MatImage() no image
+10-18-2023 16:58:13 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 16:58:16 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:13:11 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:13:11 | INFO | TOOK media/out/20231018/20231018-171310-795964.png [1]
+10-18-2023 17:13:44 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:13:44 | INFO | TOOK media/out/20231018/20231018-171344-159587.png [2]
+10-18-2023 17:14:27 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:14:27 | INFO | TOOK media/out/20231018/20231018-171426-562454.png [3]
+10-18-2023 17:15:41 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:15:41 | INFO | TOOK media/out/20231018/20231018-171541-163440.png [4]
+10-18-2023 17:15:56 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:15:56 | INFO | TOOK media/out/20231018/20231018-171556-210021.png [5]
+10-18-2023 17:17:00 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:17:00 | INFO | TOOK media/out/20231018/20231018-171700-027645.png [6]
+10-18-2023 17:17:35 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:17:35 | INFO | TOOK media/out/20231018/20231018-171734-448237.png [7]
+10-18-2023 17:18:12 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:18:12 | INFO | TOOK media/out/20231018/20231018-171812-155735.png [8]
+10-18-2023 17:18:31 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:18:31 | INFO | TOOK media/out/20231018/20231018-171831-397299.png [9]
+10-18-2023 17:18:59 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:18:59 | INFO | TOOK media/out/20231018/20231018-171859-398680.png [10]
+10-18-2023 17:19:41 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:19:41 | INFO | TOOK media/out/20231018/20231018-171941-424656.png [11]
+10-18-2023 17:20:36 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:20:36 | INFO | TOOK media/out/20231018/20231018-172035-888459.png [12]
+10-18-2023 17:21:18 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:21:18 | INFO | TOOK media/out/20231018/20231018-172118-253367.png [13]
+10-18-2023 17:22:34 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:22:34 | INFO | TOOK media/out/20231018/20231018-172234-087392.png [14]
+10-18-2023 17:24:04 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:24:04 | INFO | TOOK media/out/20231018/20231018-172404-358213.png [15]
+10-18-2023 17:24:33 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:24:33 | INFO | TOOK media/out/20231018/20231018-172433-420317.png [16]
+10-18-2023 17:24:47 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:24:47 | INFO | TOOK media/out/20231018/20231018-172446-845778.png [17]
+10-18-2023 17:25:06 | DEBUG | next MatVideo(media/background.mp4) <None>
+10-18-2023 17:25:06 | INFO | TOOK media/out/20231018/20231018-172505-853538.png [18]
+10-19-2023 01:59:36 | DEBUG | pause MatVideo(media/background.mp4@4.426494598388672)
+10-19-2023 01:59:37 | DEBUG | resume MatVideo(media/background.mp4@4.426498174667358)
+10-19-2023 01:59:40 | DEBUG | pause MatVideo(media/background.mp4@7.1285011768341064)
+10-19-2023 01:59:41 | DEBUG | resume MatVideo(media/background.mp4@7.128504276275635)
+10-19-2023 01:59:42 | DEBUG | pause MatVideo(media/background.mp4@8.092678308486938)
+10-19-2023 02:16:52 | DEBUG | pause MatVideo(media/background.mp4@6.841121673583984)
+10-19-2023 02:16:53 | DEBUG | resume MatVideo(media/background.mp4@6.841127872467041)
+10-19-2023 02:18:03 | DEBUG | pause MatVideo(media/background.mp4@4.79864501953125)
+10-19-2023 02:18:03 | DEBUG | next MatVideo(media/background.mp4@4.79864501953125) <None>
+10-19-2023 02:18:03 | INFO | TOOK media/out/20231019/20231019-021803-215724.png [1]
+10-19-2023 02:18:12 | DEBUG | resume MatVideo(media/background.mp4@4.798648357391357)
+10-19-2023 02:18:17 | DEBUG | pause MatVideo(media/background.mp4@9.864866495132446)
+10-19-2023 02:18:17 | DEBUG | next MatVideo(media/background.mp4@9.864866495132446) <None>
+10-19-2023 02:18:17 | INFO | TOOK media/out/20231019/20231019-021817-217607.png [2]
+10-19-2023 02:18:20 | DEBUG | resume MatVideo(media/background.mp4@9.864869594573975)
+10-19-2023 02:18:45 | DEBUG | pause MatVideo(media/background.mp4@4.573217868804932)
+10-19-2023 02:18:45 | DEBUG | next MatVideo(media/background.mp4@4.573217868804932) <None>
+10-19-2023 02:18:45 | DEBUG | resume MatVideo(media/background.mp4@4.573219299316406)
+10-19-2023 02:18:45 | INFO | TOOK media/out/20231019/20231019-021845-250528.png [1]
+10-19-2023 02:18:48 | DEBUG | pause MatVideo(media/background.mp4@7.120983362197876)
+10-19-2023 02:18:48 | DEBUG | next MatVideo(media/background.mp4@7.120983362197876) <None>
+10-19-2023 02:18:48 | DEBUG | resume MatVideo(media/background.mp4@7.120985269546509)
+10-19-2023 02:18:48 | INFO | TOOK media/out/20231019/20231019-021848-384267.png [2]
+10-19-2023 02:18:53 | DEBUG | pause MatVideo(media/background.mp4@11.503873109817505)
+10-19-2023 02:18:53 | DEBUG | next MatVideo(media/background.mp4@11.503873109817505) <None>
+10-19-2023 02:18:53 | DEBUG | resume MatVideo(media/background.mp4@11.50387454032898)
+10-19-2023 02:18:53 | INFO | TOOK media/out/20231019/20231019-021853-350960.png [3]
+10-19-2023 02:19:41 | DEBUG | pause MatVideo(media/background.mp4@58.58773159980774)
+10-19-2023 02:19:41 | DEBUG | next MatVideo(media/background.mp4@58.58773159980774) <None>
+10-19-2023 02:19:41 | DEBUG | resume MatVideo(media/background.mp4@58.587732791900635)
+10-19-2023 02:19:41 | INFO | TOOK media/out/20231019/20231019-021941-018463.png [4]
+10-19-2023 02:19:57 | DEBUG | pause MatVideo(media/background.mp4@74.53626012802124)
+10-19-2023 02:19:58 | DEBUG | next MatVideo(media/background.mp4@74.53626012802124) <None>
+10-19-2023 02:19:58 | DEBUG | resume MatVideo(media/background.mp4@74.53626155853271)
+10-19-2023 02:19:58 | INFO | TOOK media/out/20231019/20231019-021957-551545.png [5]
+10-19-2023 02:20:24 | DEBUG | pause MatVideo(media/background.mp4@100.51774787902832)
+10-19-2023 02:20:26 | DEBUG | next MatVideo(media/background.mp4@100.51774787902832) <None>
+10-19-2023 02:20:26 | INFO | TOOK media/out/20231019/20231019-022026-351413.png [6]
+10-19-2023 02:20:28 | DEBUG | prev MatVideo(media/background.mp4@100.51774787902832) <None>
+10-19-2023 02:20:29 | DEBUG | resume MatVideo(media/background.mp4@100.51775121688843)
+10-19-2023 02:21:03 | DEBUG | pause MatVideo(media/background.mp4@134.24147129058838)
+10-19-2023 02:21:04 | DEBUG | next MatVideo(media/background.mp4@134.24147129058838) <None>
+10-19-2023 02:21:04 | DEBUG | resume MatVideo(media/background.mp4@134.24148845672607)
+10-19-2023 02:21:04 | INFO | TOOK media/out/20231019/20231019-022103-541575.png [7]
+10-19-2023 02:21:29 | DEBUG | next MatVideo(media/background.mp4@0.0) <None>
+10-19-2023 02:21:29 | INFO | TOOK media/out/20231019/20231019-022128-635121.png [8]
+10-19-2023 02:31:41 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@3
+10-19-2023 02:31:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:31:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@1
+10-19-2023 02:31:45 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:31:45 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@3
+10-19-2023 02:31:46 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@1
+10-19-2023 02:31:46 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:31:48 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@1
+10-19-2023 02:31:48 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:31:48 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@1
+10-19-2023 02:31:48 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:31:53 | DEBUG | pause MatVideo(media/background.mp4@19.843349933624268)
+10-19-2023 02:31:54 | DEBUG | next MatVideo(media/background.mp4@19.843349933624268) <None>
+10-19-2023 02:31:54 | DEBUG | resume MatVideo(media/background.mp4@19.8433518409729)
+10-19-2023 02:31:54 | INFO | TOOK media/out/20231019/20231019-023153-970351.png [1]
+10-19-2023 02:31:55 | DEBUG | pause MatVideo(media/background.mp4@21.053541898727417)
+10-19-2023 02:31:56 | DEBUG | next MatVideo(media/background.mp4@21.053541898727417) <None>
+10-19-2023 02:31:56 | DEBUG | resume MatVideo(media/background.mp4@21.05354356765747)
+10-19-2023 02:31:56 | INFO | TOOK media/out/20231019/20231019-023155-771327.png [2]
+10-19-2023 02:33:01 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:33:02 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:33:04 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:33:05 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:33:06 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:33:07 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:33:09 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:33:10 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:33:11 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:33:12 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:33:13 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:33:13 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:33:14 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:33:15 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:33:16 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:33:17 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:33:17 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:34:51 | DEBUG | pause MatVideo(media/background.mp4@114.3477087020874)
+10-19-2023 02:34:58 | DEBUG | next MatVideo(media/background.mp4@114.3477087020874) <None>
+10-19-2023 02:34:58 | INFO | TOOK media/out/20231019/20231019-023458-262804.png [1]
+10-19-2023 02:35:01 | DEBUG | resume MatVideo(media/background.mp4@114.34771251678467)
+10-19-2023 02:35:28 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:35:30 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:35:32 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:35:35 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:35:36 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:35:38 | DEBUG | next MatVideo(media/background.mp4@0.0) <None>
+10-19-2023 02:35:38 | INFO | TOOK media/out/20231019/20231019-023537-846813.png [2]
+10-19-2023 02:35:41 | DEBUG | next MatVideo(media/background.mp4@0.0) <None>
+10-19-2023 02:35:41 | INFO | TOOK media/out/20231019/20231019-023540-529562.png [3]
+10-19-2023 02:36:40 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:36:43 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:36:44 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:42:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:42:44 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:42:45 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:42:46 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:42:54 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:42:55 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:42:56 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:42:57 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:42:57 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:42:59 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:43:00 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:43:01 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:43:02 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:43:02 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:43:03 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:43:03 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:43:03 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:43:04 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:43:04 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:43:06 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:43:07 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@3
+10-19-2023 02:43:08 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@2
+10-19-2023 02:43:08 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@1
+10-19-2023 02:43:09 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@0
+10-19-2023 02:43:34 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@1
+10-19-2023 02:43:35 | DEBUG | next MatImage(/home/bean/prime/media/marks-2a.png@)@2
+10-19-2023 02:43:37 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@3
+10-19-2023 02:43:37 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@1
+10-19-2023 02:43:38 | DEBUG | next MatImage(/home/bean/prime/media/marks-2a.png@)@2
+10-19-2023 02:43:38 | DEBUG | next MatImage(/home/bean/prime/media/marks-0.png@)@3
+10-19-2023 02:50:09 | DEBUG | pause MatVideo(media/background.mp4@3.009450912475586)
+10-19-2023 02:52:50 | DEBUG | pause MatVideo(media/background.mp4@3.8794682025909424)
+10-19-2023 02:53:49 | DEBUG | pause MatVideo(media/background.mp4@11.269954919815063)
+10-19-2023 02:53:50 | DEBUG | next MatVideo(media/background.mp4@11.269954919815063) <None>
+10-19-2023 02:53:50 | DEBUG | resume MatVideo(media/background.mp4@11.269956350326538)
+10-19-2023 02:53:50 | INFO | TOOK out/20231019/20231019-025349-894124.png [1]
+10-19-2023 02:54:20 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004b/20231004-094952-966354.png@)@1
+10-19-2023 02:54:21 | DEBUG | next MatImage(/home/bean/prime/media/out/20231007b/20231007-055639-346596.png@)@2
+10-19-2023 02:54:22 | DEBUG | next MatImage(/home/bean/prime/media/out/20231006b/20231006-085708-695572.png@)@3
+10-19-2023 02:54:23 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004b/20231004-093647-965186.png@)@4
+10-19-2023 02:54:23 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004b/20231004-121324-590471.png@)@5
+10-19-2023 02:54:24 | DEBUG | next MatImage(/home/bean/prime/media/out/20231007b/20231007-075825-900316.png@)@6
+10-19-2023 02:54:24 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004b/20231004-115150-895866.png@)@7
+10-19-2023 02:54:25 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004b/20231004-115150-895866.png@) <None>
+10-19-2023 02:54:26 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-075825-900316.png@)@6
+10-19-2023 02:54:27 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-121324-590471.png@)@5
+10-19-2023 02:54:27 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-093647-965186.png@)@4
+10-19-2023 02:54:28 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-085708-695572.png@)@3
+10-19-2023 02:54:28 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055639-346596.png@)@2
+10-19-2023 02:54:29 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-094952-966354.png@)@1
+10-19-2023 02:54:29 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-083801-853885.png@)@0
+10-19-2023 02:54:29 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055206-806380.png@)@902
+10-19-2023 02:54:29 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-060001-036168.png@)@901
+10-19-2023 02:54:30 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-141216-204021.png@)@900
+10-19-2023 02:54:30 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-105619-805223.png@)@899
+10-19-2023 02:54:30 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-124333-626936.png@)@898
+10-19-2023 02:54:30 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055309-926859.png@)@897
+10-19-2023 02:54:31 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055524-761886.png@)@896
+10-19-2023 02:54:31 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-092140-722405.png@)@895
+10-19-2023 02:54:31 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-083542-526989.png@)@894
+10-19-2023 02:54:31 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-122112-135497.png@)@893
+10-19-2023 02:54:32 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-132422-588718.png@)@892
+10-19-2023 02:54:32 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055540-566014.png@)@891
+10-19-2023 02:54:32 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-162759-327879.png@)@890
+10-19-2023 02:54:32 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-130254-105327.png@)@889
+10-19-2023 02:54:33 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-074512-578932.png@)@888
+10-19-2023 02:54:33 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-085337-335903.png@)@887
+10-19-2023 02:54:33 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-113728-758238.png@)@886
+10-19-2023 02:54:33 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-131808-189270.png@)@885
+10-19-2023 02:54:37 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055939-177808.png@)@884
+10-19-2023 02:54:38 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231018/20231018-130715-747842.png@)@883
+10-19-2023 02:54:39 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231006b/20231006-062632-696152.png@)@882
+10-19-2023 02:54:40 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-152100-614968.png@)@881
+10-19-2023 02:54:41 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-122157-289885.png@)@880
+10-19-2023 02:54:42 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-075535-490798.png@)@879
+10-19-2023 02:54:42 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-055325-950155.png@)@878
+10-19-2023 02:54:42 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-152142-187528.png@)@877
+10-19-2023 02:54:43 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231018/20231018-171556-210021.png@)@876
+10-19-2023 02:54:43 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-094300-448620.png@)@875
+10-19-2023 02:54:44 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-125958-974601.png@)@874
+10-19-2023 02:54:44 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-094848-522452.png@)@873
+10-19-2023 02:54:44 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004b/20231004-120958-358893.png@)@872
+10-19-2023 02:55:14 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-085536-215759.png@)@1
+10-19-2023 02:55:15 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-090046-807487.png@)@2
+10-19-2023 02:55:16 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-090622-282833.png@)@3
+10-19-2023 02:55:17 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-090622-282833.png@) <None>
+10-19-2023 02:55:18 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-090622-282833.png@) <None>
+10-19-2023 02:55:40 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-105411-412373.png@)@4
+10-19-2023 02:55:40 | INFO | TOOK out/20231019/20231019-025540-229775.png [1]
+10-19-2023 02:55:43 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-105421-431702.png@)@5
+10-19-2023 02:55:44 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-105520-117956.png@)@6
+10-19-2023 02:55:46 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-105521-161955.png@)@7
+10-19-2023 02:55:46 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-105558-837015.png@)@8
+10-19-2023 02:55:48 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-105558-837015.png@) <None>
+10-19-2023 02:55:49 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-105558-837015.png@) <None>
+10-19-2023 02:55:50 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-105558-837015.png@) <None>
+10-19-2023 02:55:50 | DEBUG | pause MatImage(/home/bean/prime/media/out/20231004/20231004-105558-837015.png@) <None>
+10-19-2023 02:55:51 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-105521-161955.png@)@7
+10-19-2023 02:55:52 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-105520-117956.png@)@6
+10-19-2023 02:55:53 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-105421-431702.png@)@5
+10-19-2023 02:55:54 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-105411-412373.png@)@4
+10-19-2023 02:55:54 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-090622-282833.png@)@3
+10-19-2023 02:55:55 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-090046-807487.png@)@2
+10-19-2023 02:55:56 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-085536-215759.png@)@1
+10-19-2023 02:55:56 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231004/20231004-084946-940959.png@)@0
+10-19-2023 02:55:57 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-025349-894124.png@)@902
+10-19-2023 02:55:58 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-023540-529562.png@)@901
+10-19-2023 02:55:59 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-023537-846813.png@)@900
+10-19-2023 02:55:59 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-023458-262804.png@)@899
+10-19-2023 02:56:00 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-023155-771327.png@)@898
+10-19-2023 02:56:00 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-023153-970351.png@)@897
+10-19-2023 02:56:01 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-022128-635121.png@)@896
+10-19-2023 02:56:02 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-022103-541575.png@)@895
+10-19-2023 02:56:03 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-022026-351413.png@)@894
+10-19-2023 02:56:03 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021957-551545.png@)@893
+10-19-2023 02:56:03 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021941-018463.png@)@892
+10-19-2023 02:56:04 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021853-350960.png@)@891
+10-19-2023 02:56:05 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021848-384267.png@)@890
+10-19-2023 02:56:05 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021845-250528.png@)@889
+10-19-2023 02:56:05 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021817-217607.png@)@888
+10-19-2023 02:56:06 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-021803-215724.png@)@887
+10-19-2023 02:56:06 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-081348-481068.png@)@886
+10-19-2023 02:56:07 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231007b/20231007-081334-909030.png@)@885
+10-19-2023 02:58:12 | DEBUG | prev MatImage(/home/bean/prime/media/out/20231019/20231019-025540-229775.png@)@903
+10-19-2023 02:58:24 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-085536-215759.png@)@1
+10-19-2023 02:58:24 | INFO | TOOK out/20231019/20231019-025824-092645.png [1]
+10-19-2023 02:58:33 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:35 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:36 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:36 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:58:37 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:39 | DEBUG | next MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:39 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:40 | DEBUG | next MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:40 | DEBUG | next MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:40 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:41 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:41 | DEBUG | prev MatImage(/home/bean/prime/media/marks-0.png@)@0
+10-19-2023 02:58:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:42 | DEBUG | prev MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:43 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:43 | DEBUG | next MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:44 | DEBUG | next MatImage(/home/bean/prime/media/marks-1.png@)@1
+10-19-2023 02:58:44 | DEBUG | next MatImage(/home/bean/prime/media/marks-1a.png@)@2
+10-19-2023 02:58:44 | DEBUG | next MatImage(/home/bean/prime/media/marks-2a.png@)@3
+10-19-2023 02:58:46 | DEBUG | next MatImage(/home/bean/prime/media/out/20231004/20231004-090046-807487.png@)@2
+10-19-2023 02:58:46 | INFO | TOOK out/20231019/20231019-025846-207969.png [2]
