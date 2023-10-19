@@ -11,13 +11,13 @@ SND_shutter_end = StaticSource(media_load("/data/shutter_end.wav"))
 
 # BACK = MatImage("media/background.png")
 # BACK = MatImageList([str(f) for f in Path.cwd().glob("/data/out/202310*/*.png")])
-BACK = MatImageList([str(f) for f in Path("/data").glob("background*.png")])
+BACK = MatImageList([str(f) for f in Path().home().glob("data/background*.png")])
 # BACK = MatVideo("media/background.mp4")
 
 # STAGE = MatImage("media/marks-1a.png")
-STAGE = MatImageList([str(f) for f in Path("/data").glob("mark*.png")])
+STAGE = MatImageList([str(f) for f in Path().home().glob("data/mark*.png")])
 
-FNAME_TEMPLATE = "/data/bean/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = str(Path().home()) + "/data/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 #! python -m y.play.test
 # 0 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 0 0 with 2560x1440
