@@ -50,24 +50,22 @@ class DashWindow(Window):
             self.snapshot()
 
         elif key in [key_code._1, key_code.NUM_1]:
-            self.mat.background.next()
+            self.mat.background.prev()
 
         elif key in [key_code._2, key_code.NUM_2]:
             self.mat.background.pause()
 
         elif key in [key_code._3, key_code.NUM_2]:
-            self.mat.background.prev()
+            self.mat.background.next()
 
         elif key in [key_code._4, key_code.NUM_4]:
-            self.mat.stage.next()
-
-        elif key in [key_code._5, key_code.NUM_5]:
             self.mat.stage.prev()
 
+        elif key in [key_code._5, key_code.NUM_5]:
+            self.mat.stage.next()
+
         elif key in [key_code._0, key_code.NUM_0]:
-
             self.mat.show_stage = not self.mat.show_stage
-
             self.mat()
 
         elif key == key_code.X:

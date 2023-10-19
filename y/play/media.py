@@ -144,3 +144,13 @@ class MatImageList(MatImage):
 
         self.file = self._filelist[self.pos]
         log.debug(f"prev {self}@{self.pos}")
+
+
+class MatImageListRandom(MatImageList):
+
+    _image = None
+
+    def __init__(self, image_file_list, pos=0, loop=True, *args, **kwargs):
+
+        shuffle(image_file_list)
+        super().__init__(image_file_list, pos, loop, *args, **kwargs)
