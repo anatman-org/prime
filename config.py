@@ -16,7 +16,7 @@ FNAME_TEMPLATE = HOME_PATH + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 # BACK_FILES = [str(f) for f in Path(HOME_PATH).glob("out/*/*.png")]
 # shuffle(BACK_FILES)
 # BACK = MatImageList(BACK_FILES)
-BACK = MatVideo(HOME_PATH + "/background.mp4")
+BACK = MatVideo(HOME_PATH + "/background.mp4", mute=True)
 # BACK = MatImage(HOME_PATH + "/background.png")
 
 # STAGE = MatImage(HOME_PATH + "/mark-0.png")

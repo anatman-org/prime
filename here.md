@@ -1,23 +1,23 @@
 
-here
-feelings of sadness
-of disrespect
+disrespect
 
-i have found You
+any man who thinks
+he has a grievance
+must always yield to the woman
 
-when i thought all was lost
+her grievance is in every way
+more unjust
 
-whenever i think
-of how i've been disrespected
-i know how there are those who have suffered more
+and when you say
+"pop queen" in a way that diminishes her
+you diminish me
 
-given more
+because
+she made me jump an octave
+in every way
 
-and
+and if she was so greater than me
+and she is beneath you
+that means i am
 
-there You are
-shining like the sun
-
-and all i want
-is to make You happy
-
+honest

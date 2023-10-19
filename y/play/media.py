@@ -59,7 +59,7 @@ class MatImage(MatMedium):
 
 
 class MatVideo(MatMedium):
-    def __init__(self, file, loop=False, *args, **kwargs):
+    def __init__(self, file, loop=False, mute=False, *args, **kwargs):
         super().__init__()
 
         self.player = Player()
@@ -70,6 +70,8 @@ class MatVideo(MatMedium):
         self._media = media_load(self.file)
 
         self.player.queue(self._media)
+        if mute:
+            self.player.volume = 0
         self.player.play()
 
     @property
@@ -100,6 +102,14 @@ class MatVideo(MatMedium):
         else:
             self.player.play()
             log.debug(f"resume {self}")
+
+    def next(self):
+        # self.player.play()
+        log.debug(f"next {self} <None>")
+
+    def prev(self):
+        self.player.seek(0)
+        log.debug(f"prev {self} seek 0")
 
 
 class MatImageList(MatImage):
