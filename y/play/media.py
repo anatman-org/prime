@@ -3,10 +3,10 @@ from random import shuffle
 
 from retry import retry
 
-from pyglet.image import AbstractImage, codecs
+from pyglet.image import AbstractImage, codecs, ImageData
 from pyglet.image import load as image_load
 
-from pyglet.media import Player, StreamingSource
+from pyglet.media import Player, StreamingSource, StaticSource
 from pyglet.media import load as media_load
 
 from . import log
@@ -14,11 +14,24 @@ from . import log
 STATE = {"NONE": 0, "SET": 1, "PLAYING": -1}
 
 
+def pil_to_pyg(pil_image):
+    return ImageData(
+        pil_image.width,
+        pil_image.height,
+        "RGBA",
+        pil_image.tobytes(),
+        pitch=-pil_image.width * 4,
+    )
+
+
 class MatMedium:
 
     autoincrement = False
     pos = 0
     state = STATE["NONE"]
+
+    def __repr__(self):
+        return f"{self.__class__.__name__}({self.file}@{self.pos})"
 
     def __len__(self):
         log.debug(f"q_len {self} = 0")
@@ -43,9 +56,6 @@ class MatImage(MatMedium):
         super()
         self.file = image_filename
         self._image = image_load(self.file)
-
-    def __repr__(self):
-        return f"MatImage({self.file})"
 
     def __call__(self, *args, **kwargs):
 
@@ -90,9 +100,6 @@ class MatVideo(MatMedium):
     def pos(self):
         return self.player.time
 
-    def __repr__(self):
-        return f"MatVideo({self.file}@{self.pos})"
-
     def __call__(self, *args, **kwargs):
         if self.player.source and self.player.source.video_format:
             self.player.get_texture().blit(0, 0)
@@ -132,9 +139,6 @@ class MatImageList(MatImage):
 
         self.pos = pos
         self.file = self._filelist[self.pos]
-
-    def __repr__(self):
-        return f"MatImage({self.file}@{self.pos})"
 
     def __call__(self, *args, **kwargs):
         self._image = image_load(self.file)
