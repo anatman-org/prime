@@ -42,6 +42,7 @@ class MatImage(MatMedium):
     def __init__(self, image_filename=None, *args, **kwargs):
         super()
         self.file = image_filename
+        self._image = image_load(self.file)
 
     def __repr__(self):
         return f"MatImage({self.file})"
@@ -59,10 +60,7 @@ class MatImage(MatMedium):
 
 
 class MatVideo(MatMedium):
-
-    autoincrement = False
-
-    def __init__(self, file, loop=False, volume=0, *args, **kwargs):
+    def __init__(self, file, loop=False, autoplay=True, volume=0, *args, **kwargs):
         super().__init__()
 
         self.player = Player()
@@ -74,7 +72,10 @@ class MatVideo(MatMedium):
 
         self.player.queue(self._media)
         self.player.volume = volume
+
         self.player.play()
+        if not autoplay:
+            self.player.pause()
 
     @property
     def state(self):
