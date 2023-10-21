@@ -19,21 +19,21 @@ class MatSpin(MatMedium):
 
         log.debug(f"image loaded")
 
-    def __repr__(self):
-        return f"{self.__class__}({self.file}@{self.pos})"
-
     def __call__(self, *args, **kwargs):
-        self._image = image_load(self.file)
-        self._image.anchor_x = self._image.width // 2
-        self._image.anchor_y = self._image.height // 2
+
+        _image = image_load(self.file)
+        _image.anchor_x = _image.width // 2
+        _image.anchor_y = _image.height // 2
 
         sprite = Sprite(
-            self._image,
-            x=510 + (self._image.width / 2),
-            y=83 + (self._image.height / 2),
+            _image,
+            x=510 + (_image.width / 2),
+            y=83 + (_image.height / 2),
         )
         sprite.rotation = self.pos
         sprite.draw()
+
+        del _image
 
     def __len__(self):
         log.debug(f"q_len {self} = 0")
