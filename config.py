@@ -21,12 +21,12 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 # _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(_BACK_FILES)
 # BACK = MatImageList(_BACK_FILES)
-BACK = MatEnso()
+BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
-_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
-STAGE = MatImageList(_STAGE_FILES)
-
+#_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
+# STAGE = MatImageList(_STAGE_FILES)
+STAGE = MatVideo(MEDIA_BASE_DIR + "/clips/BasQZAidNKc.mp4", volume=0, autoplay=False)
 
 #! python -m y.play.test
 # 0 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 0 0 with 2560x1440
