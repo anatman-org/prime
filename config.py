@@ -21,7 +21,7 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 # _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(_BACK_FILES)
 # BACK = MatImageList(_BACK_FILES)
-BACK = MatEnso()
+BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
 _STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
