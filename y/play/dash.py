@@ -77,7 +77,7 @@ class DashWindow(Window):
             self.mat.stage.pause()
 
         # Break
-        elif key == key_code.B or key_code.NUM_B:
+        elif key == key_code.B:
             exit()
 
     def loop(self):
