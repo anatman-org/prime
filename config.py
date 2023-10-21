@@ -6,6 +6,7 @@ from pyglet.media import StaticSource
 from random import shuffle
 
 from y.play.media import *
+from y.play.animate import *
 
 DEBUG = False
 # MEDIA_BASE_DIR = str(Path().home())
@@ -17,9 +18,10 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
 # BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0)
-_BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
-shuffle(_BACK_FILES)
-BACK = MatImageList(_BACK_FILES)
+# _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
+# shuffle(_BACK_FILES)
+# BACK = MatImageList(_BACK_FILES)
+BACK = MatEnso()
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
 _STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]

@@ -130,18 +130,14 @@ class MatImageList(MatImage):
         self._loop = loop
 
         self.pos = pos
-        if self.pos and self._filelist:
-            self.file = self._filelist[self.pos]
+        self.file = self._filelist[self.pos]
 
     def __repr__(self):
-        return f"MatImage({self.file}@)"
+        return f"MatImage({self.file}@{self.pos})"
 
     def __call__(self, *args, **kwargs):
-        if self.file:
-            self._image = image_load(self.file)
-            self._image.blit(0, 0, 0)
-        else:
-            log.error(f"call {self} no image")
+        self._image = image_load(self.file)
+        self._image.blit(0, 0, 0)
 
     def __len__(self):
         return len(self._filelist)

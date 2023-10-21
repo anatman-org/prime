@@ -66,6 +66,6 @@ def config_test():
 
 
 if __name__ == "__main__":
-    # list_screens()
+    list_screens()
 
-    config_test()
+    # config_test()
