@@ -5,7 +5,7 @@ from y.play.media import *
 from y.play.animate import *
 
 ###############################################################################
-DEBUG = False
+DEBUG = True
 
 # MEDIA_BASE_DIR = str(Path().home())
 MEDIA_BASE_DIR = "/data"
