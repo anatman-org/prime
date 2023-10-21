@@ -3,15 +3,25 @@ from random import shuffle
 
 from retry import retry
 
-from pyglet.image import AbstractImage, codecs
+from pyglet.image import AbstractImage, codecs, ImageData
 from pyglet.image import load as image_load
 
-from pyglet.media import Player, StreamingSource
+from pyglet.media import Player, StreamingSource, StaticSource
 from pyglet.media import load as media_load
 
 from . import log
 
 STATE = {"NONE": 0, "SET": 1, "PLAYING": -1}
+
+
+def pil_to_pyg(pil_image):
+    return ImageData(
+        pil_image.width,
+        pil_image.height,
+        "RGBA",
+        pil_image.tobytes(),
+        pitch=-pil_image.width * 4,
+    )
 
 
 class MatMedium:

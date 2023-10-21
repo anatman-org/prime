@@ -1,7 +1,7 @@
-from pyglet.sprite import Sprite
+from PIL import Image
 
 from . import log
-from .media import MatMedium, image_load
+from .media import MatMedium, pil_to_pyg
 
 
 class MatSpin(MatMedium):
@@ -12,36 +12,33 @@ class MatSpin(MatMedium):
     file = None
     rotation_speed = 0
 
+    _image = None
+
     def __init__(self, file="img/enso.png", rotation_speed=6, *args, **kwargs):
         super()
         self.file = file
         self.rotation_speed = rotation_speed
-
-        log.debug(f"image loaded")
+        self._image = Image.open(self.file)
 
     def __call__(self, *args, **kwargs):
 
-        _image = image_load(self.file)
-        _image.anchor_x = _image.width // 2
-        _image.anchor_y = _image.height // 2
+        image = pil_to_pyg(self._image.rotate(-self.pos))
+        image.anchor_x = image.width // 2
+        image.anchor_y = image.height // 2
 
-        sprite = Sprite(
-            _image,
-            x=510 + (_image.width / 2),
-            y=83 + (_image.height / 2),
-        )
-        sprite.rotation = self.pos
-        sprite.draw()
-
-        del _image
+        image.blit(1920 / 2, 1080 / 2, 0)
 
     def __len__(self):
         log.debug(f"q_len {self} = 0")
 
     def next(self):
         self.pos = self.pos + self.rotation_speed
+        if self.pos > 360:
+            self.pos = self.pos - 360
         log.debug(f"next {self}")
 
     def prev(self):
         self.pos = self.pos - self.rotation_speed
+        if self.pos < 0:
+            self.pos = self.pos + 360
         log.debug(f"prev {self}")
