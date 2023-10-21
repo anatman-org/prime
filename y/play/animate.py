@@ -4,16 +4,18 @@ from . import log
 from .media import MatMedium, image_load
 
 
-class MatEnso(MatMedium):
+class MatSpin(MatMedium):
 
     autoincrement = True
     pos = 0
 
-    file = "img/enso.png"
-    rotation_speed = 6
+    file = None
+    rotation_speed = 0
 
-    def __init__(self, image_filename=None, *args, **kwargs):
+    def __init__(self, file="img/enso.png", rotation_speed=6, *args, **kwargs):
         super()
+        self.file = file
+        self.rotation_speed = rotation_speed
 
         log.debug(f"image loaded")
 
@@ -21,7 +23,7 @@ class MatEnso(MatMedium):
         return f"{self.__class__}({self.file}@{self.pos})"
 
     def __call__(self, *args, **kwargs):
-        self._image = image_load("img/enso.png")
+        self._image = image_load(self.file)
         self._image.anchor_x = self._image.width // 2
         self._image.anchor_y = self._image.height // 2
 
