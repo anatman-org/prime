@@ -11,7 +11,7 @@ to the Chinese philosopher Zhuang Zi
 a bright, but relatively obscure
 noble Chinese man of the 4th century BCE [root: fix dates]
 privileged but recognizing this with the honesty he could muster
-
+[zhou: makes you sound like a prick]
 
 who was
 
