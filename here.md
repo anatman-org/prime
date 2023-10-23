@@ -31,3 +31,5 @@ that is,
 
 there is a singular conclusion
 
+that space and time don't exist in that way
+

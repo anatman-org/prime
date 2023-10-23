@@ -31,3 +31,11 @@ of conscious, life, of us, of you and me
 at the same time deeply sad
 and delicate, precious, glittering, beautiful
 
+    and replaying in his head
+    that dream
+
+    of other
+    of abandonment of all care
+
+    like a fluttering butterfly
+    or like an old man in ancient China
