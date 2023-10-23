@@ -30,7 +30,7 @@ than to play
     it is a little bit like a physical law of the limit of observability of a system
     [bean knows all about this, check game archive]
 
-
+  * [root] when in doubt, reboot
 
 # Rules
 
