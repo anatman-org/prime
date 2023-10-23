@@ -1,4 +1,15 @@
 
+a fictional character
+constructed of the miscommunication and misinterpretation
+of a world of religious and philosophical traditions
+
+fictional
+
+but in honest and sincere tribute
+to the Chinese philosopher Zhuang Zi
+
+who was
+
     an old man who sees clearly
 
 that
