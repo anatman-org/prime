@@ -1,20 +1,18 @@
 ---
-title: The Annotated Manual to the Glass Bead Game
+title: Close to the Edge
 by:
-  - root
+  - yes
   - zhou
   - bean
+  - root
+references:
+  - https://en.wikipedia.org/wiki/Close_to_the_Edge
 ---
 
 let's play
 forget the distractions the later
 feel the beads, smell the incense, listen to the birds,
 and gaze out the window at the butterflies in the meadow
-
-the one thing we can offer existence
-is a faithful account of ourselves
-and there is no more honest way
-than to play
 
 
 # Axioms
@@ -37,33 +35,10 @@ than to play
 
   ALL GAME FRAMES WILL BE STORED ON VAJRA BEFORE BEING ARCHIVED IN PRAJNA
 
-  * no revealing the ending until we have unanimous agreement
+  * appropriate steps will be taken to make sure the right game frames
+    got to the right archive, preserving the integrity of the linear storyline
+    so as not to prematurely reveal key plot elements before appropriate
 
-    but different times and places will have different knowledge
-    and what seems simple and ordinary to one
-    seems magical to the other
-
-    and this is the transformation of things
-    seen from the two sides
-
-    for to confliict, that is see against another
-    and yet to be honest with oneself
-
-    one must first acknowledge one's own weakness, one's own risk
-    and resolve, mitigate, defer or accept
-
-    this is the essence of the game
-    honesty with oneself
-    because one is curious, awake
-
-
-  * maintain professional demeanor on public branches at all times
-  * keep personal talk in game
-  * respect the cultural boundaries that players need to respect in their own
-    places and times
-  * no manipulation of the runing game archive signature along the right edge
-    subject to capabilities and capacities to decode at spaces and times
-    and physical disabilities, like essential tremors or such
   * we try to credit all those at the mat
     meaning no disrespect those who were influential, but for whatever reason didn't make the mat
     we will add all references submitted as pull requests that can be appropriately verified
