@@ -1,17 +1,11 @@
 ---
-title: Brilliant Corners
-by: Thelonius Monk
+title: my head ain't screwed on straight
+by: zhuang
 performers:
   - monk
   - thomas
   - herman
-  - bence+schiano (like "piano"?)
+  - bence+schiano
   - bean
   - zhuang
-references:
-  - https://en.wikipedia.org/wiki/Brilliant_Corners
 ---
-
-complex rhythm
-love changing tempo
-
