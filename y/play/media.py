@@ -3,10 +3,10 @@ from random import shuffle
 
 from retry import retry
 
-from pyglet.image import AbstractImage, codecs
+from pyglet.image import AbstractImage, codecs, ImageData
 from pyglet.image import load as image_load
 
-from pyglet.media import Player, StreamingSource
+from pyglet.media import Player, StreamingSource, StaticSource
 from pyglet.media import load as media_load
 
 from . import log
@@ -14,11 +14,24 @@ from . import log
 STATE = {"NONE": 0, "SET": 1, "PLAYING": -1}
 
 
+def pil_to_pyg(pil_image):
+    return ImageData(
+        pil_image.width,
+        pil_image.height,
+        "RGBA",
+        pil_image.tobytes(),
+        pitch=-pil_image.width * 4,
+    )
+
+
 class MatMedium:
 
     autoincrement = False
     pos = 0
     state = STATE["NONE"]
+
+    def __repr__(self):
+        return f"{self.__class__.__name__}({self.file}@{self.pos})"
 
     def __len__(self):
         log.debug(f"q_len {self} = 0")
@@ -42,9 +55,7 @@ class MatImage(MatMedium):
     def __init__(self, image_filename=None, *args, **kwargs):
         super()
         self.file = image_filename
-
-    def __repr__(self):
-        return f"MatImage({self.file})"
+        self._image = image_load(self.file)
 
     def __call__(self, *args, **kwargs):
 
@@ -59,10 +70,7 @@ class MatImage(MatMedium):
 
 
 class MatVideo(MatMedium):
-
-    autoincrement = False
-
-    def __init__(self, file, loop=False, volume=0, *args, **kwargs):
+    def __init__(self, file, loop=False, autoplay=True, volume=0, *args, **kwargs):
         super().__init__()
 
         self.player = Player()
@@ -74,7 +82,10 @@ class MatVideo(MatMedium):
 
         self.player.queue(self._media)
         self.player.volume = volume
+
         self.player.play()
+        if not autoplay:
+            self.player.pause()
 
     @property
     def state(self):
@@ -88,9 +99,6 @@ class MatVideo(MatMedium):
     @property
     def pos(self):
         return self.player.time
-
-    def __repr__(self):
-        return f"MatVideo({self.file}@{self.pos})"
 
     def __call__(self, *args, **kwargs):
         if self.player.source and self.player.source.video_format:
@@ -130,18 +138,11 @@ class MatImageList(MatImage):
         self._loop = loop
 
         self.pos = pos
-        if self.pos and self._filelist:
-            self.file = self._filelist[self.pos]
-
-    def __repr__(self):
-        return f"MatImage({self.file}@)"
+        self.file = self._filelist[self.pos]
 
     def __call__(self, *args, **kwargs):
-        if self.file:
-            self._image = image_load(self.file)
-            self._image.blit(0, 0, 0)
-        else:
-            log.error(f"call {self} no image")
+        self._image = image_load(self.file)
+        self._image.blit(0, 0, 0)
 
     def __len__(self):
         return len(self._filelist)

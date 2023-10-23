@@ -9,16 +9,16 @@ from y.play.media import *
 
 DEBUG = False
 # MEDIA_BASE_DIR = str(Path().home())
-MEDIA_BASE_DIR = "/data"
+MEDIA_BASE_DIR = "/run/media/bean/bean-stash"
 
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}-attic/{now:%Y%m%d-%H%M%S-%f}.png"
 
 ##### Setup
 
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
 # BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0)
-_BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
-shuffle(_BACK_FILES)
+_BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("clips/attic/*.png")]
+# shuffle(_BACK_FILES)
 BACK = MatImageList(_BACK_FILES)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
