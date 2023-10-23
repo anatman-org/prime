@@ -3,8 +3,7 @@ a butterfly
 proof, essentially,
 all here
 
-only it is arranged
-https://www.youtube.com/shorts/BasQZAidNKc
+only it is arranged, backward it might seem
 
 such that the deeper
 your skepticism
