@@ -1,13 +1,13 @@
----
-title: unknown
-by:
+=======
+title: my head ain't screwed on straight
+by: zhuang
+performers:
+  - monk
   - thomas
-  - john+
   - herman
-  - zhuang
-  - bean
   - bence+schiano
+  - bean
+  - zhuang
 ---
-play
 
-tap tap tap tap tap tap tap 
+
