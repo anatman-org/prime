@@ -95,7 +95,7 @@ class DashWindow(Window):
         result, image = self.camera.read()
 
         if not result:
-            raise Exception(f"Failed to get result for {fname}")
+            raise Exception(f"Failed to get result for {fname} (check camera#)")
 
         directory = Path(fname).parent
         if not directory.exists():
