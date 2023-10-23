@@ -16,8 +16,6 @@ is a faithful account of ourselves
 and there is no more honest way
 than to play
 
-[with all the smugness that only a malcistraight Chinese noble of the 4th century BCE can gather]
-
 # Axioms
 
   * there is no such thing as "supernatural" because all is natural, ultimately.
@@ -30,6 +28,7 @@ than to play
   * that control -- and specifically, trying to control too many variables, too many things, too many people --
     breaks our ability to know our own best outcomes
     it is a little bit like a physical law of the limit of observability of a system
+    [bean knows all about this, check game archive]
 
 
 
