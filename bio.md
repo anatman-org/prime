@@ -6,6 +6,13 @@ and accepted the fact that
 the best thing he can do
 is be useless
 
+that not knowing the answers
+that not being clever
+that not being strong
+
+that trying hard to relinguish what undeserved privilege he had
+and trying to spend all that was left in the most honest of pursuits
+
 that
 
     sadness is as heavy as
