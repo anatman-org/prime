@@ -1,34 +1,18 @@
-a butterfly
 
-proof, essentially,
-all here
+the buzzing i've been hearing
+is the tires on the road at the curve
 
-only it is arranged, backward it might seem
+accepting old age
+i can see
 
-such that the deeper
-your skepticism
+that as vision fades my hearing tries to become more acute, and i begin to listen more
+as dexterity declines, i become more patient with myself and others
 
-the more complex the puzzle
+and as sensation in my feet and legs has deteriorated,
+my mind has become more active
 
+it is all imagination
+thinking thoughts that don't much matter anyway
 
-and once the fear begins to subside
-
-
-You see
-
-Love is the willfull acceptance
-of one mind to another
-
-there are boundaries
-and different people have different boundaries
-
-but once we truly understand our own mind
-
-that is,
-"why am i sometimes happy and sometimes sad?
- how is that determined or controlled?"
-
-there is a singular conclusion
-
-that space and time don't exist in that way
+and it is seen as completely useless
 
