@@ -36,9 +36,28 @@ than to play
 
   ALL GAME FRAMES WILL BE STORED ON VAJRA BEFORE BEING ARCHIVED IN PRAJNA
 
+  * no revealing the ending until we have unanimous agreement
+
+    but different times and places will have different knowledge
+    and what seems simple and ordinary to one
+    seems magical to the other
+
+    and this is the transformation of things
+    seen from the two sides
+
+    for to confliict, that is see against another
+    and yet to be honest with oneself
+
+    one must first acknowledge one's own weakness, one's own risk
+    and resolve, mitigate, defer or accept
+
+    this is the essence of the game
+    honesty with oneself
+    because one is curious, awake
+
+
   * maintain professional demeanor on public branches at all times
   * keep personal talk in game
-  * no revealing the ending until we have unanimous agreement
   * respect the cultural boundaries that players need to respect in their own
     places and times
   * no manipulation of the signal marker along the right edge
