@@ -4,8 +4,17 @@ by:
   - root
   - zhou
   - bean
-  - thorn
 ---
+
+let's play
+forget the distractions the later
+feel the beads, smell the incense, listen to the birds,
+and gaze out the window at the butterflies in the meadow
+
+the one thing we can offer existence
+is a faithful account of ourselves
+and there is no more honest way
+than to play
 
 # Axioms
 
@@ -14,7 +23,14 @@ by:
 
   * all players are equal. we have different strengths and skills, but all bring
     to the mat quality and beauty. all have been invited because they have real
-    stories to tell, and have agreed to the rules of the game.
+    stories to tell, and have agreed to the rules of the game
+
+  * that control -- and specifically, trying to control too many variables, too many things, too many people --
+    breaks our ability to know our own best outcomes
+    it is a little bit like a physical law of the limit of observability of a system
+    [bean knows all about this, check game archive]
+
+
 
 # Rules
 
