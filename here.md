@@ -1,13 +1,13 @@
 =======
-title: my head ain't screwed on straight
+title: can a person outperform a computer in a random number generation test?
 by: zhuang
 performers:
-  - monk
   - thomas
+  - zhuang
   - herman
+  - cannonball
   - bence+schiano
   - bean
-  - zhuang
 ---
 
 
