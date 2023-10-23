@@ -1,14 +1,11 @@
-a futuristic
-sexy lesbian math whiz
-who saves the universe with her math
-and with the remarkable coincidences that happen with math and her beloved
+my love for Feather
+is infinite
 
-and how their love was tragically too short in time
-but it was infinite otherwise
+and in exploring the depths
+of that infinite
 
-she can prove it to you
-it is a simple matter of mathematical series
-and the convergence of those series
+i have witnessed
+the pattern
 
-because i fucking know
-my love to Feather is infinite
+of beginning
+and end
