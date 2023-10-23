@@ -1,7 +1,17 @@
-a butterfly
+---
+title: Brilliant Corners
+by: Thelonius Monk
+performers:
+  - monk
+  - thomas
+  - herman
+  - bence+schiano (like "piano"?)
+  - bean
+  - zhuang
+references:
+  - https://en.wikipedia.org/wiki/Brilliant_Corners
+---
 
-who has jurisdiction
-in interstellar space and time
-
-perfect, delicate-appearing, but uniquely strong
+complex rhythm
+love changing tempo
 
