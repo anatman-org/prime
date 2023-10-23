@@ -8,31 +8,51 @@ by:
 
 i want to understand this
 
-herman dreamt he was joe
-merton dreamt he was zhou
+the bigger mystery is that people
+take the assumption of bivalency for granted
+when nagarjuna disproved it centuries ago
 
-zhou is joe is zhang
+his proof is simple
 
-herman dreamt he was a rainmaker
-herman dreamt he was confessor
-herman dreamt he was the brahman
+  * we cannot assert any proposition "A" as true
+    because A always has axioms, postulates, assumptions and preconceptions
+    without those, the "truth" is incomplete
 
-theo commented on herman
-theo doesn't remember he's joe
-or rather, he is zhou?
+    this is because ultimately, things do not have inherent natures
+    there is not a "thing" we can assert about any object that does not have conditions or limits
 
-rumi dreamt he was a thorn
-and his love was a rose
+  * we cannot assert any proposition "A" as not-true
 
-and the thorn dreamt he was merton
-and his love, the rose, divine
+    all phenomena is unique
+    while the circumstances of existence are conditioned,
 
-and he was the picture of slow growth
-a slow and lazy development
+    that is while things have no inherent nature
+    they are still a unique co-incident of those conditions and forces
 
-slowly realizing that he remembered these things?
+    this is the exclusionary principle in action
+       -- no two things are the same intersection of space and time and other properties
 
+  * similarly, he argued that we cannot assert that A is both true and not true
 
+  * and he argued that we cannot assert that A is neither true nor not true
+
+and at this point,
+your head is supposed to hurt
+
+because Bodhidharma is yelling from his cave
+"stop minding mind, and get back to the mat"
+
+but the point is
+how would we ever start
+with a proposition that is not composed of assumptions?
+
+    bivalency
+    identity
+
+thomas and i doubt all such things
+i am not distinct from thomas
+thomas is not distinct from me
+that we have dreamed each other is proof of that
 
 # Axioms
 
