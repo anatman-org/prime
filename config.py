@@ -5,7 +5,7 @@ from y.play.media import *
 from y.play.animate import *
 
 ###############################################################################
-DEBUG = True
+DEBUG = False
 
 # MEDIA_BASE_DIR = str(Path().home())
 MEDIA_BASE_DIR = "/data"
@@ -34,7 +34,7 @@ STAGE = MatImageList(_STAGE_FILES)
 # 2 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 2560 0 with 1024x600
 
 DASH_SCREEN = 2
-PLAY_SCREEN = 1
+PLAY_SCREEN = 1 
 
 PLAY_FULLSCREEN = True
 DASH_FULLSCREEN = True
