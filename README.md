@@ -6,15 +6,33 @@ by:
   - bean
 ---
 
-let's play
-forget the distractions the later
-feel the beads, smell the incense, listen to the birds,
-and gaze out the window at the butterflies in the meadow
+i want to understand this
 
-the one thing we can offer existence
-is a faithful account of ourselves
-and there is no more honest way
-than to play
+herman dreamt he was joe
+merton dreamt he was zhou
+
+zhou is joe is zhang
+
+herman dreamt he was a rainmaker
+herman dreamt he was confessor
+herman dreamt he was the brahman
+
+theo commented on herman
+theo doesn't remember he's joe
+or rather, he is zhou?
+
+rumi dreamt he was a thorn
+and his love was a rose
+
+and the thorn dreamt he was merton
+and his love, the rose, divine
+
+and he was the picture of slow growth
+a slow and lazy development
+
+slowly realizing that he remembered these things?
+
+
 
 # Axioms
 
