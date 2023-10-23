@@ -1,17 +1,44 @@
-xa.Qaree.Bin.ia
 
-born academy category 9 shui.f76c396d-5da4-4ba6-93e4-4b80e7adc16b
+a fictional character
+constructed of the miscommunication and misinterpretation
+of a world of religious and philosophical traditions
 
-[] promoted to instructor
-[] published "category theory of game mechanics: coincidence metrics"
-[] identified talent game-theory math topology 
+fictional
 
-currently assigned
+but in honest and sincere tribute
+to the Chinese philosopher Zhuang Zi
 
- [8176] Principle Distinguished Emeritus
-        Game Theory
-        Farreach University      
+a bright, but relatively obscure
+noble Chinese man of the 4th century BCE [root: fix dates]
+privileged but recognizing this with the honesty he could muster
+[zhou: makes you sound like a prick]
 
- [https://anatman.org](The Annotated Guide of the Glass Bead Game)
+who was
 
+    an old man who sees clearly
+
+that
+
+    sadness is as heavy as
+        a pile of bricks
+
+    happiness is as light as
+        a feather
+
+and that these are the consequences
+of a performance of actions
+
+    of a ballet dancer, dancing like
+    like a fluttering butterfly
+
+        delicate, precious, glittering, beautiful
+
+and that this butterfly
+imagining that it was a feather in the sunlight
+
+was as real as zhou
+as zhou is
+
+    and replaying in his head
+    of abandonment of all care
 
