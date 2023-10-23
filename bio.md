@@ -8,6 +8,11 @@ fictional
 but in honest and sincere tribute
 to the Chinese philosopher Zhuang Zi
 
+a bright, but relatively obscure
+noble Chinese man of the 4th century BCE [root: fix dates]
+privileged but recognizing this with the honesty he could muster
+
+
 who was
 
     an old man who sees clearly
