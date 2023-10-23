@@ -16,6 +16,7 @@ is a faithful account of ourselves
 and there is no more honest way
 than to play
 
+
 # Axioms
 
   * there is no such thing as "supernatural" because all is natural, ultimately.
@@ -60,7 +61,11 @@ than to play
   * keep personal talk in game
   * respect the cultural boundaries that players need to respect in their own
     places and times
-  * no manipulation of the signal marker along the right edge
+  * no manipulation of the runing game archive signature along the right edge
     subject to capabilities and capacities to decode at spaces and times
+    and physical disabilities, like essential tremors or such
+  * we try to credit all those at the mat
+    meaning no disrespect those who were influential, but for whatever reason didn't make the mat
+    we will add all references submitted as pull requests that can be appropriately verified
 
 
