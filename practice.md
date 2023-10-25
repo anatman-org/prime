@@ -179,3 +179,22 @@ that this is where the focal, the root, the locus, the intersection
 the knot in my head untangles
 
 
+    "Bin? I think you should sit down. ... Here let me get a towel."
+
+I look down.
+I am covered in mud.
+
+I remember what happened
+I slipped into the street.
+I was hit by a courier on an e-bike.
+A dark green Scout kolkotta.p.34
+I can still hear it
+
+This woman
+
+    this vision, this angel
+
+helped me up, sat me down
+at this coffee shop by the corner
+
+
