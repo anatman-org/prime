@@ -39,4 +39,7 @@ For example.
 
 <ai d62b31da-5d2c-425a-960e-59cb864398ce>
 
+the player initiates play after opening the trigram
+advancing to the first line
+
 
