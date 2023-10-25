@@ -42,4 +42,17 @@ For example.
 the player initiates play after opening the trigram
 advancing to the first line
 
+this is the signification
+of the intersection, the coincidence
+
+    a remarkable circumstance, given the vast infinity of space
+    and the slow-growing number of primes in the count to infinity
+
+it is not enough to imagine it as just the intersection of two lines on a plane
+or the intersection of two planes in a three dimensional space
+
+this is the intersection of multiple boundaries
+all at once
+
+a real connection
 
