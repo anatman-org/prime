@@ -10,13 +10,7 @@ DEBUG = False
 # MEDIA_BASE_DIR = str(Path().home())
 MEDIA_BASE_DIR = "/data"
 
-# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/bean/{now:%Y%m%d-%H%M%S-%f}.png"
-# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/home/bean/stash/media/clips/{now:%Y%m%d-%H%M%S-%f}.png"
-
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/d62b31da/{now:%Y%m%d-%H%M%S-%f}.png"
-
-
-
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/zhuang/{now:%Y%m%d-%H%M%S-%f}.png"
 ###############################################################################
 
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
