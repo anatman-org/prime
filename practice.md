@@ -129,7 +129,8 @@ now i have to go
 
 
 this new course on theory is my chance to get out of cat-9 to cat-8
-where my Archive access will grow exponentially
+where my Archive access will grow
+    exponentially instead of linearlly with my degree
 
 and i am shaken
 
@@ -155,5 +156,26 @@ to my questions
 "Bin, i am, Bin"
 
     she laughs
+
+for a moment,
+i am ashamed, but as my vision returns and i see her
+
+crystal clear in front of me
+like glittering beads of light
+
+the answer in her every pour, every freckle, every hair
+her beauty, and within her beauty a deep plain honesty,
+and in that honesty one could clearly see that beneath what might otherwise be considered
+a freckle or a mole is instead the mark of perfect beauty through asymmetry
+
+she is not laughing because i am weak
+
+she is laughing because we are sharing this moment of joy
+
+and i don't know how,
+but somehow i know
+
+that this is where the focal, the root, the locus, the intersection
+the knot in my head untangles
 
 
