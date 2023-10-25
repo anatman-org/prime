@@ -73,5 +73,18 @@ she is kneeling before me
 she wasn't a vision, a hallucination
 she is here in front of me
 
-<ai stop play>
+    "i should call a doctor"
+    she turns her head
+
+her curls smell of jasmine
+
+"no" i croak
+"no, please"
+i get up
+
+i bump into her
+
+another deep breath of her
+
+
 
