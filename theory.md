@@ -56,3 +56,5 @@ all at once
 
 a real connection
 
+<ai resume /practice>
+
