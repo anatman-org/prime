@@ -32,4 +32,11 @@ You will come to understand each of these categories in greater detail
 throughout this tour.
 <ai>
 
+There is a brilliance, of course,
+that can only be explained through play.
+
+For example.
+
+<ai d62b31da-5d2c-425a-960e-59cb864398ce>
+
 
