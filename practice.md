@@ -1,3 +1,30 @@
+---
+title: Practice of the Game
+---
+
+# Why We Play
+
+The first and most important question
+of any venture is "why?"
+
+Why do we play?
+
+We play because it is joy.
+
+And the record of any joy,
+even when poorly reflected
+in a fading photograph
+of a face occluding the [sun],
+
+like a shine reflected through perfect glass
+
+is brilliant.
+
+It is best expressed through the story
+of "Feather and Bean" told here by xa.Qaree.Bin.ia:
+
+---
+
 i remember
 
 the Sop
