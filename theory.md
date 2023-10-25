@@ -2,6 +2,7 @@
 title: Game Theory and Practice
 by:
   - xa.Qaree.Bin.ia
+  - zhuang.zhou
 ---
 
 # Introduction
