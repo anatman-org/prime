@@ -58,3 +58,16 @@ a real connection
 
 <ai resume /practice>
 
+in this
+there is an immediacy of moment
+that requires performance of one's whole self
+
+it is a moment of beauty, meaning and joy
+it is also a moment of deep, wounding saddness
+
+in it
+stories are told
+
+and time and space
+unfold
+
