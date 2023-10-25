@@ -23,7 +23,7 @@ BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
 _STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
 STAGE = MatImageList(_STAGE_FILES)
-# STAGE = MatVideo(MEDIA_BASE_DIR + "/clips/BasQZAidNKc.mp4", volume=0, autoplay=False)
+# STAGE = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0, autoplay=False)
 
 ###############################################################################
 # Stuff that really shouldn't change

@@ -178,4 +178,7 @@ but somehow i know
 that this is where the focal, the root, the locus, the intersection
 the knot in my head untangles
 
+[y37>>y31]  taking this moment in hand, eliminating obstacles
+            i will follow Her, this Queen, this Goddess
+
 
