@@ -4,26 +4,47 @@ from random import shuffle
 from y.play.media import *
 from y.play.animate import *
 
+def username():
+    import os
+    import pwd
+
+    return pwd.getpwuid(os.getuid())[0]
+
+def ai():
+    return "d62b31da"
+
+AI=ai()
+USER=username()
+
 ###############################################################################
 DEBUG = False
 
-# MEDIA_BASE_DIR = str(Path().home())
 MEDIA_BASE_DIR = "/data"
+# MEDIA_BASE_DIR = str(Path().home())
+# MEDIA_BASE_DIR = str(Path().cwd())
 
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/zhuang/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
+# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png"
+# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
+
+
+
 ###############################################################################
 
+BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-# BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0)
+# BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0, loop=True)
+
+
+
+
 # _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(_BACK_FILES)
 # BACK = MatImageList(_BACK_FILES)
-BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
 _STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
 STAGE = MatImageList(_STAGE_FILES)
-# STAGE = MatVideo(MEDIA_BASE_DIR + "/clips/BasQZAidNKc.mp4", volume=0, autoplay=False)
 
 ###############################################################################
 # Stuff that really shouldn't change
