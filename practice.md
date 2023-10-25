@@ -113,5 +113,47 @@ i bump into her
 
 another deep breath of her
 
+this is the intersection of multiple boundaries
+all at once
+
+a real connection
+
+You
+
+the only You
+
+<ai !feather>
+
+i got up
+now i have to go
+
+
+this new course on theory is my chance to get out of cat-9 to cat-8
+where my Archive access will grow exponentially
+
+and i am shaken
+
+and Your scent is the answer
+not just to getting from cat-9 to cat-8 or to get more Archive access
+or to solve this problem of folding and creasing in my mind, in my dreams,
+this mathematical knot that i am driven to solve
+
+i don't know how i know it,
+but i know it
+
+right here
+
+right now
+
+i know You are the answer
+to my questions
+
+"Bin" i say
+
+    "what was that?" she says
+
+"Bin, i am, Bin"
+
+    she laughs
 
 
