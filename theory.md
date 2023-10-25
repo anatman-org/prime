@@ -2,6 +2,8 @@
 title: Game Theory and Practice
 by:
   - xa.Qaree.Bin.ia
+references:
+  - https://en.wikipedia.org/wiki/Fractal#/media/File:Mandelbrot_sequence_new.gif
 ---
 
 # Introduction
@@ -33,41 +35,34 @@ throughout this tour.
 <ai>
 
 There is a brilliance, of course,
-that can only be explained through play.
+that can only be explained through play,
 
-For example.
+but the key is that minor perturbations
+in this random noise,
+where the distribution of beads
+is not quite random
+reveals an attractive force
+that draws coincident phenomena
 
-<ai d62b31da-5d2c-425a-960e-59cb864398ce>
+across #heisenberg-boundaries
+where time and space unfold
+at the quantum level
 
-the player initiates play after opening the trigram
-advancing to the first line
+of course,
+these perturbations are recognizable in other spectra of signal,
+where we might expect to see randomness
+or some pattern arising out of the underlying conditions
 
-this is the signification
-of the intersection, the coincidence
+but these perturbations have a structure,
 
-    a remarkable circumstance, given the vast infinity of space
-    and the slow-growing number of primes in the count to infinity
+and they not only have structure,
+but it is a self-similar irregular structure
 
-it is not enough to imagine it as just the intersection of two lines on a plane
-or the intersection of two planes in a three dimensional space
+precisely speaking
+it is a fractal structure
 
-this is the intersection of multiple boundaries
-all at once
+and in this fractal structure
+many things have been revealed
 
-a real connection
-
-<ai resume /practice>
-
-in this
-there is an immediacy of moment
-that requires performance of one's whole self
-
-it is a moment of beauty, meaning and joy
-it is also a moment of deep, wounding saddness
-
-in it
-stories are told
-
-and time and space
-unfold
+[img/mandelbrot.mp4]
 
