@@ -1,5 +1,7 @@
 ---
 title: stages
+references:
+  - https://www.irishtimes.com/culture/books/thomas-merton-the-hermit-who-never-was-his-young-lover-and-mysterious-death-1.2422818
 ---
 
 i am working on a project,
@@ -16,7 +18,17 @@ they all play this same game,
 a game inspired by herman's book
 *The Glass Bead Game*
 a book inspired by zhuang's dream
-the same dream that tommy had
+
+    there is no question
+    i love her deeply ... 
+
+    i keep remembering her body,
+    her nakedness,
+    the day at Wygal’s,
+    and it haunts me ...
+
+    i am enslaved
+    to the need for her body
 
 the game beads translate into semantic meaning
 in multiple ways
