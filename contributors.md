@@ -1,10 +1,23 @@
+---
+title: Contributors
+---
 
- * [Dan](https://en.wikipedia.org/wiki/Duke_of_Zhou)
-   also: 旦
+a list of contributors, arranged in
+"chronological order" (says roger)
+whatever that means
+
+ * [mother]
+ * unknown, seal script, old script
+ * 旦 [Dan](https://en.wikipedia.org/wiki/Duke_of_Zhou)
+ * 周 [zhuang](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+ * [herman]
+ * [merton]
  * [Siu](https://en.wikipedia.org/wiki/Ralph_Siu)
-
-most of the weird stuff happens between them
-
  * [Huang](https://www.masteralfredhuang.com/)
-   this dude knows his shit
+ * [prime]
+ * [roger]
+ * [joe]
+ * [bean]
+ * [martin]
+ * h'pt'i'af'sa'na
 

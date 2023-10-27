@@ -1,9 +1,5 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
-by:
-  - michael.roger.penrose
-  - zhuang.zhou
-  - xa.Qaree.Bin.ia
 ---
 
 # Introduction
