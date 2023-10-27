@@ -60,7 +60,7 @@ PLAY_SCREEN = 1
 PLAY_FULLSCREEN = True
 DASH_FULLSCREEN = True
 
-CAMERA = 1
+CAMERA = 0
 CAMERA_SLEEP = 0.5
 SND_buzz = StaticSource(media_load(MEDIA_BASE_DIR + "/buzz.wav"))
 SND_shutter_start = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_start.wav"))
