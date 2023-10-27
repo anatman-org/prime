@@ -60,15 +60,12 @@ i fall down
 but someone has caught me
 i look up
 
-<ai 581ed50f-d7f3-41ae-9dde-4e6c3820f2dc user-override=pain>
-i consent
-</ai>
+[bean 581ed50f-d7f3-41ae-9dde-4e6c3820f2dc user-override=pain "i consent"]
 
-She is shining like the [Sun]
+She is shining like the Sun
 
-<ai 581ed50f>
-"i consent"
-</ai>
+[bean 581ed50f "i consent"]
+
 
 there is no more pain
 
@@ -178,7 +175,8 @@ but somehow i know
 that this is where the focal, the root, the locus, the intersection
 the knot in my head untangles
 
-[y37>>y31]  taking this moment in hand, eliminating obstacles
-            i will follow Her, this Queen, this Goddess
+[y37] >> [y31]
+    taking this moment in hand, eliminating obstacles
+    i will follow Her, this Queen, this Goddess
 
 
