@@ -11,7 +11,7 @@ whatever that means
  * 旦 [Dan](https://en.wikipedia.org/wiki/Duke_of_Zhou)
  * 周 [zhuang](https://en.wikipedia.org/wiki/Zhuang_Zhou)
  * [herman]
- * [merton]
+ * [merton](https://en.wikipedia.org/wiki/Thomas_Merton)
  * [Siu](https://en.wikipedia.org/wiki/Ralph_Siu)
  * [Huang](https://www.masteralfredhuang.com/)
  * [prime]

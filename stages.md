@@ -14,15 +14,9 @@ past and future
 
 they all play this same game,
 a game inspired by herman's book
-*The Glass Bead Game* WHICH WE ALL KNOW YOU WON A NOBEL PRIZE FOR
-
+*The Glass Bead Game*
 a book inspired by zhuang's dream
-
-    [interrupt:herman Can I raise an objection again to my treatment here?]
-    [ai noted] 
-
-    herman
-    we all know you read it
+the same dream that tommy had
 
 the game beads translate into semantic meaning
 in multiple ways
