@@ -11,10 +11,10 @@ def username():
     return pwd.getpwuid(os.getuid())[0]
 
 def ai():
-    return "d62b31da"
+    return "config"
 
-AI=ai()
-USER=username()
+AI=ai
+USER=username
 
 ###############################################################################
 DEBUG = False
@@ -23,7 +23,7 @@ MEDIA_BASE_DIR = "/data"
 # MEDIA_BASE_DIR = str(Path().home())
 # MEDIA_BASE_DIR = str(Path().cwd())
 
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI()}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
 
@@ -31,9 +31,9 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 ###############################################################################
 
-BACK = MatSpin(file="img/enso.png", rotation_speed=6)
+# BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-# BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0, loop=True)
+BACK = MatVideo(MEDIA_BASE_DIR + "/clips/A Time for Renewal - Navajo (Diné) Knowledge of Eclipses [6332586887112].mp4", volume=0, loop=True)
 
 
 

@@ -20,20 +20,19 @@ by date of departure
     旦 formalized the sequences
   * [zhuang](https://en.wikipedia.org/wiki/Zhuang_Zhou) - 庄周
     zhuang, also known by his personal name, zhou
+  * [hypatia](https://en.wikipedia.org/wiki/Hypatia)
   * [rumi](https://en.wikipedia.org/wiki/Rumi)
-  * [hermann](https://en.wikipedia.org/wiki/Hermann_Hesse)
-  * [rose]
+  * [lalla](https://www.poetseers.org/spiritual-and-devotional-poets/sufi-poets/lalla/)
+  * [hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
   * [carl](https://en.wikipedia.org/wiki/Carl_Jung)
   * [wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist))
   * [baynes](https://en.wikipedia.org/wiki/Cary_Baynes)
   * [merton](https://en.wikipedia.org/wiki/Thomas_Merton)
-  * [Siu](https://en.wikipedia.org/wiki/Ralph_Siu)
+  * [siu](https://en.wikipedia.org/wiki/Ralph_Siu)
   * [ursula](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)
   * [huang](https://www.masteralfredhuang.com/)
   * [karcher](https://ichinglivingchange.org/)
-  * [thorn] - Thornton Prime
-  * [roger] - Magister Ludi Michael Penrose Roger
-    posthumously declared the First Magister Ludi
+  * [roger] - Magister Ludi Michael Penrose Roger (posthumous First Magister Ludi)
   * [knecht] - Magister Ludi Joseph Knecht
   * [zizi]
   * [bean] - Magister Ludi xa'Qaree'B'in'ia
