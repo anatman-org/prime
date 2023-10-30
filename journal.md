@@ -7,8 +7,8 @@ this is the journal of "chronological" readings(#2)
 
 ### ce/pdt/2023/10/30 [y21](/y/21.md) >> [y31](/y/31.md)
 
-    birds alight from the crabapple tree
-    mists evaporate, leaving behind frosted grass
+    from the crabapple tree, birds alight
+    from frosted grass tips, mists evaporate
 
 ### ce/pdt/2023/10/29
   * [y15](/y/15.md) >> [y16](/y/16.md)
