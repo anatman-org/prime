@@ -107,9 +107,43 @@ these rules are fundamental --
     arise from the mathematics of the transformations
     along an axis of symmetry
 
+The first two rules are:
+
   * compositions of sequences are sequences
-  * two compositions, given as sequences in the same order, are the same
-  * there is a composition of no composition. It is identitty
-  * every composition can return to it's start
+  * two compositions of sequences, given as sequences in the same order, are the same
+
+The implication of this, that any transformation
+of a mosaic from one state, say `A`
+that is reconfigured to another, say `A'`
+which can be given in notation:
+
+```
+  A >> A'
+```
+
+can also be composed of an infinite number intermediate states,
+say,
+
+```
+  A >> A1 >> A2 >> A3 >> ... >> An-2 >> An-1 >> An >> A'
+```
+
+And also
+
+  * there is a composition of no transformation.
+    It is called "identity"
+    it is **wu-wei**, the action of least action
+
+and finally,
+
+  * every composition sequence can return to it's start, be undone
+    with the right sequence of transformations
+
+which means, that for every sequence, there is an infinite number of sequences
+that can say,
+
+```
+  A >> A1 >> A2 >> A3 >> ... >> An-2 >> An-1 >> An >> A' == A
+```
 
 
