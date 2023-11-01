@@ -1,15 +1,24 @@
 ---
 title: Practice of the Game
-references:
+contributor:
+  - #meredith.monk/book-of-days/dawn
   - https://prajna.io/99402b49-bb9d-4fd3-a812-ff88d21ce93f#page=203
 ---
+
+
+> At the heart of the
+> game
+> is following
+> the transformation of things
+#afsana
+
 
 # Why We Play
 
 the first and most important question
 of any venture is "why?"
 
-why do we play?
+Why do we play?
 
 we play because it reveals truths about us.
 
@@ -22,6 +31,7 @@ huang relates this story, which exemplifies this:
     she consulted the [i ching]
     after manipulating the yarrow stalks,
     she obtained [y31](/y/31.md):
+
         “good fortune ...
         this sign possesses the four great virtues ...
         and it is extremely auspicious for you
@@ -42,3 +52,7 @@ huang relates this story, which exemplifies this:
 her wisdom,
 recognizing the difference between blessing and curse
 and knowing her own state relative to the virtues
+
+this is to practice the game with skill and wisdom
+
+
