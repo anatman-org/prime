@@ -55,4 +55,61 @@ and knowing her own state relative to the virtues
 
 this is to practice the game with skill and wisdom
 
+# What Is a Game?
+
+A game consists of a collection of beads
+arranged on a mat
+
+the bead configurations are then arranged into sequences
+
+and every player plays
+with some rules constraining the configurations
+and all these rules are things that come and go with cultures and times
+
+but even in the most constraining time and place
+there is still freedom to express something
+
+because who can tell
+a child
+playing with sticks or stones
+in the sand
+
+that their game has any more or less meaning?
+
+# Fundamentals of Sequences
+
+While confiuration of beads reflect the imprint of a person
+in a time and in a place
+sequences show transformations.
+Some of these witness transformations happening
+to the authors of these games.
+
+Other sequencess witness transformations happening over much greater period of time ...
+sometimes they are the scratches of thousands of generations worth of change.
+
+Technically speaking, any transformation, any difference between two configurations of beads,
+no matter that it is only one transformation,
+and no matter if the transformation requires complete reconfiguration of the mosaic of beads,
+is a sequence, a game.
+
+There is some meaning of the difference between the two,
+like old Zhuang dreaming he is a butterfly
+
+This difference, this transformation, then links,
+like links in a chain, in stages,
+forming these sequences that share some property.
+
+That property is an axis of symmetry, a central meaning
+and that means the sequence follows some rules
+
+these rules are fundamental --
+    that is they exist outside of culture or history because they
+    arise from the mathematics of the transformations
+    along an axis of symmetry
+
+  * compositions of sequences are sequences
+  * two compositions, given as sequences in the same order, are the same
+  * there is a composition of no composition. It is identitty
+  * every composition can return to it's start
+
 
