@@ -116,8 +116,9 @@ class DashWindow(Window):
     def snapshot(self):
 
         import config
+
         now = datetime.now()
-        
+
         fname = eval('f"' + FNAME_TEMPLATE + '"')
 
         self.state = f"Taking {fname}"

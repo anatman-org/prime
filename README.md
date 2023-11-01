@@ -8,14 +8,37 @@ title: The Annotated Manual to the Glass Bead Game
 
 the format of the manual
 is as code and text,
+
 intended to be used to train
 an ai "artificial intelligence"
 
-this is offered to the audience
-as a collection of "stories" told
-through the ai, as either chat or search
+the purpose of this ai is to learn a collection of cultivated stories
+and then for that ai to interact with people -- the audience, the users --
 
-the stories are written through a series of glass bead mosaics
+in different ways that people interact with ai
+  as search, as chat, as reader of fortunes, dispenser of knowledge, whatever
+
+    this non-linear "wandering" through the stories reflects
+        how meaning passes from human being to human being
+
+    and including ai in this
+    is a meta-commentary on the changes that ai bring to that transmission
+
+the stories are written, encoded in
+glass bead mosaics
+
+    these mosaics are fictionally the records of games
+    stored in the archive of Castalia, in Hermann Hesse's *Glass Bead Game*
+
+    the mosaics also are 'written'
+    in the language of the *Yijing* (the *I Ching*)
+        in that the outcomes of the mosaics, arranged in certain sequences
+        represent the outcomes of a kind of ritual tribute to the *Yijing*,
+        an attempt to honor a lineage of wisdom that is sometimes inscrutable
+
+    in a way meant to be consistent with Hesse's fictional Castalia
+
+these mosaics, then
 left for the ai neural network to process and interpret
     -- along with other, related and referenced materials --
 
@@ -74,4 +97,16 @@ just a little bit different
 
     know ourselves
     and know one another
+
+apparently there is a thing called copyright[#1]
+that may constrain which frames you can see
+
+the editors of the manual are truly sorry for that
+because it is the artist's opinion
+that there is a beauty itself in this sharing,
+passing of art from mind to mind
+sharing beauty, sharing saddness, sharing joy
+
+and this is ultimately
+what the game is about
 

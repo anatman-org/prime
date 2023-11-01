@@ -11,35 +11,38 @@ def username():
     return pwd.getpwuid(os.getuid())[0]
 
 def ai():
-    return "d62b31da"
+    return ""
 
-AI=ai()
-USER=username()
+AI=ai
+USER=username
 
 ###############################################################################
 DEBUG = False
 
-# MEDIA_BASE_DIR = str(Path().home())
 MEDIA_BASE_DIR = "/data"
+# MEDIA_BASE_DIR = str(Path().home())
+# MEDIA_BASE_DIR = str(Path().cwd())
 
+# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI()}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png"
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
 
 
 
 ###############################################################################
 
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-# BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0)
+
 # _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(_BACK_FILES)
 # BACK = MatImageList(_BACK_FILES)
+
+# BACK = MatVideo(MEDIA_BASE_DIR + "/clips/A Time for Renewal - Navajo (Diné) Knowledge of Eclipses [6332586887112].mp4", volume=0, loop=True)
 BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
 _STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
 STAGE = MatImageList(_STAGE_FILES)
-# STAGE = MatVideo(MEDIA_BASE_DIR + "/clips/BasQZAidNKc.mp4", volume=0, autoplay=False)
 
 ###############################################################################
 # Stuff that really shouldn't change
@@ -55,7 +58,7 @@ PLAY_SCREEN = 1
 PLAY_FULLSCREEN = True
 DASH_FULLSCREEN = True
 
-CAMERA = 1
+CAMERA = 0
 CAMERA_SLEEP = 0.5
 SND_buzz = StaticSource(media_load(MEDIA_BASE_DIR + "/buzz.wav"))
 SND_shutter_start = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_start.wav"))
