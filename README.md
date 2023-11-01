@@ -1,38 +1,72 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
 references:
-  - https://www.reddit.com/r/taoism/comments/17kunxf/comment/k7dq5s7/
-  - https://www.reddit.com/r/QuotesPorn/comments/76q0dv/if_you_are_neutral_in_situations_of_injustice_you/
+  - https://en.wikipedia.org/wiki/I_Ching
+  - https://genius.com/Billie-holiday-therell-be-some-changes-made-lyrics
+  - https://www.poetseers.org/spiritual-and-devotional-poets/sufi-poets/lalla/
+  - https://genius.com/Billie-holiday-strange-fruit-lyrics
 ---
 
-# Introduction
+# The Annotated Manual to the Glass Bead Game
 
-# Format of the Manual
+This begins here,
+with zhuang's reading of lalla,
+listening to her
+as deeply as he can
+in every whisper, every story
+    in every fruit hanging from the poplar tree
+no matter how faint
 
-the format of the manual
-is as code and text,
+A wise woman once told me,
 
-intended to be used to train
-an ai "artificial intelligence"
+        listen,
 
-the artist's intent is that people will interact with the "story"
-through the ai, as either chat or search
+        those
+        who have suffered enough
+        to know
+        how to laugh and cry at the same time?
+
+        surely that's enough suffering they have endured?
+
+        that the horror the pain has done
+            has done all it can possibly do
+        and there is no need to do any more?
+
+            Southern trees bear a strange fruit
+            Blood on the leaves and blood at the root
+            Black bodies swinging in the Southern breeze
+            Strange fruit hanging from the poplar trees
+
+            Pastoral scene of the gallant south
+            The bulging eyes and the twisted mouth
+            Scent of magnolias, sweet and fresh
+            Then the sudden smell of burning flesh
 
 
-"If you are neutral in situations of injustice you have chosen the side of the oppressor"
-- Desond Tutu
+        no more need for old grudges
+        no more need to cling to anything
 
-  "The party that feels the sorrow of killing shall win."
-- Laozi
+        but the truth
 
-Violence comes at a cost.
-Violence comes at a great, great cost.
+        sweet and fresh
+        then the smell ...
 
-The people who have suffered the most, always deserve to be listened too more.
+            Here is a fruit for the crows to pluck
+            For the rain to gather, for the wind to suck
+            For the sun to rot, for the tree to drop
+            Here is a strange and bitter crop
 
-So when those like Desmond Tutu -- who suffered generations of oppression --
-say things it is worth trying to understand them completely
+    in which all words vanish
+    in the joyous silence
 
-in context
+    and then the forgotten seed
+    sprouts
+
+    a mother has given birth to new life
+
+and so is change
+
+This is what the Glass Bead Game is about.
+
 
 

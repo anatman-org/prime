@@ -14,7 +14,7 @@ def ai():
     return ""
 
 AI=ai
-USER=username
+USER=username()
 
 ###############################################################################
 DEBUG = False
@@ -41,8 +41,10 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png
 BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
-_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
-STAGE = MatImageList(_STAGE_FILES)
+#_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
+#STAGE = MatImageList(_STAGE_FILES)
+
+STAGE = MatSpin(file="/data/mark-bagua.png", rotation_speed=-1/5)
 
 ###############################################################################
 # Stuff that really shouldn't change
