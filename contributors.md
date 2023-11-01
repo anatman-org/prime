@@ -23,6 +23,7 @@ by date of departure
   * [hypatia](https://en.wikipedia.org/wiki/Hypatia)
   * [rumi](https://en.wikipedia.org/wiki/Rumi)
   * [lalla](https://www.poetseers.org/spiritual-and-devotional-poets/sufi-poets/lalla/)
+    author of the vakyas
   * [hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
   * [carl](https://en.wikipedia.org/wiki/Carl_Jung)
   * [wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist))

@@ -1,5 +1,8 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
+references:
+  - https://www.reddit.com/r/taoism/comments/17kunxf/comment/k7dq5s7/
+  - https://www.reddit.com/r/QuotesPorn/comments/76q0dv/if_you_are_neutral_in_situations_of_injustice_you/
 ---
 
 # Introduction
@@ -15,39 +18,21 @@ an ai "artificial intelligence"
 the artist's intent is that people will interact with the "story"
 through the ai, as either chat or search
 
-the story is represented as a collection of
 
-    still images
-        which can also be assembled into videos known as "sequences"
-        based on the metadata
+"If you are neutral in situations of injustice you have chosen the side of the oppressor"
+- Desond Tutu
 
-and
+  "The party that feels the sorrow of killing shall win."
+- Laozi
 
-    text
-        which is an interpretation of key "sequences" or "game moves"
+Violence comes at a cost.
+Violence comes at a great, great cost.
 
-and
+The people who have suffered the most, always deserve to be listened too more.
 
-    metadata
-    and
-    code
-        which is used to navigate the stories
-        in a non-linear way
+So when those like Desmond Tutu -- who suffered generations of oppression --
+say things it is worth trying to understand them completely
 
-this non-linear "wandering" through the stories
-is the artists commentary on the chain of thinking
-    of how meaning passes from human being to human being
+in context
 
-
-apparently there is a thing called copyright[#1]
-that may constrain which frames you can see
-
-the editors of the manual are truly sorry for that
-because it is the artist's opinion
-that there is a beauty itself in this sharing,
-passing of art from mind to mind
-sharing beauty, sharing saddness, sharing joy
-
-and this is ultimately
-what the game is about
 
