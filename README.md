@@ -121,4 +121,3 @@ of Change
     and know one another
 
 This is what the Glass Bead Game is about.
-
