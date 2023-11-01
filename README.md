@@ -1,41 +1,77 @@
 ---
-Category: journal
-Date: '20231101.1328'
-Format: verse
-ID: 1174fc0a-048a-4376-a445-047c971e77c6
-Title: art
-_modified:
-  '2023-11-01 13:34:19.974261': thornton.prime@anatman.org
+title: The Annotated Manual to the Glass Bead Game
 ---
-i don't know what i am doing
 
-but i am allowing myself to call it art
+# Introduction
 
-it consists of this performance
-where i sit at a bamboo mat
-and pretend to play this glass bead game
+# Format of the Manual
 
-and i do it in "character"
-of a person,
+the format of the manual
+is as code and text,
+intended to be used to train
+an ai "artificial intelligence"
 
-  sometimes someone historical i admire and respect
-      and too often my knowledge of them is incomplete, or even wrong
+this is offered to the audience
+as a collection of "stories" told
+through the ai, as either chat or search
 
-  and other times this voice is that of
-    a fictional character i've invented
+the stories are written through a series of glass bead mosaics
+left for the ai neural network to process and interpret
+    -- along with other, related and referenced materials --
 
-  and these voices are the voices i imagine
-  often ignored by me
-  ignored by the rest of the world
-      too often
+    these are the stories of different people
+    in different times and places
 
-  to remind me
-  that everyone has stories
-  everyone has their own needs and desires,
-  their own pushes and pulls
+    who play the game,
+    leaving some of their truth imprinted in the glass
 
-  and i should listen to them
-  as i should listen to the rain
+    like a fog
+    that fades
+
+because everyone plays
+just a little bit different
+
+  sometimes these players are historical people
+    and there is an attempt (too often failing) to capture
+
+    their personality
+    their essence
+  
+  and other times the game is played in voices of those 
+    who are just imagined
+
+    and to understand the game is to listen
+    to the voices as they sing
+
+         the hope is that if you sit
 
   with patience
-  and with silence in my heart
+  and with silence in your heart
+
+         and listen
+
+    and that
+
+        the noise of this world
+        that seems too often a hurricane of destruction
+
+        in which we must dodge arrows
+        that seem pointed right at our hearts
+
+        and we must endure wounds
+        deeper than the deepest canyon
+
+        and we authentically sit
+        instead of rushing and making it worse
+
+    will reach a point in which
+    you will hear the stories all sing in harmony
+
+    and that in sometimes laughing and sometimes crying
+    feeling and sharing all the joys and sorrows of existence
+
+    we come to know
+
+    know ourselves
+    and know one another
+
