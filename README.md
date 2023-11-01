@@ -55,13 +55,43 @@ because everyone plays
 just a little bit different
 
   sometimes these players are historical people
-    and there is an attempt (too often failing) to capture
+    and there is an attempt to capture
 
     their personality
     their essence
+
+    this may come through quotes,
+    that we understand, or at least think we understand, like
+
+> "If you are neutral in situations of injustice you have chosen the side of the oppressor"
+> ~ Desmond Tutu
+
+  and other times they are quotes
+    passed so far through history
+        that we can't even be sure if the person who said it
+            was real
+    like,
+
+> "The party that feels the sorrow of killing shall win."
+> ~ Laozi
+
   
   and other times the game is played in voices of those 
     who are just imagined
+
+    like what the voice of a'f'san'a might sound like,
+    when she says,
+
+> Violence comes at a cost.
+> Violence comes at a great, great cost.
+> The people who have suffered the most, always deserve to be listened too more.
+> So when those like Desmond Tutu -- who suffered with his people generations of oppression -- say things, it is worth trying to understand them completely
+> in context
+
+so this is all an invitation beyond the borders of this art
+into what other people think, can think, may think,
+
+of Change
 
     and to understand the game is to listen
     to the voices as they sing
@@ -98,15 +128,6 @@ just a little bit different
     know ourselves
     and know one another
 
-apparently there is a thing called copyright[#1]
-that may constrain which frames you can see
 
-the editors of the manual are truly sorry for that
-because it is the artist's opinion
-that there is a beauty itself in this sharing,
-passing of art from mind to mind
-sharing beauty, sharing saddness, sharing joy
-
-and this is ultimately
-what the game is about
+>>>>>>> primes/prime
 
