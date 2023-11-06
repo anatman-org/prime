@@ -13,17 +13,22 @@ def username():
 def ai():
     return "d62b31da"
 
+
+SEQUENCE="y34"
+
 AI=ai()
 USER=username()
 
 ###############################################################################
 DEBUG = False
 
-MEDIA_BASE_DIR = "/data"
+MEDIA_BASE_DIR = "/work"
 # MEDIA_BASE_DIR = str(Path().home())
 # MEDIA_BASE_DIR = str(Path().cwd())
 
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/play/{SEQUENCE}/{now:%Y%m%d-%H%M%S-%f}.png"
+
+# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
 
@@ -31,9 +36,9 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 ###############################################################################
 
-BACK = MatSpin(file="img/enso.png", rotation_speed=6)
+# BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-# BACK = MatVideo(MEDIA_BASE_DIR + "/background.mp4", volume=0, loop=True)
+BACK = MatVideo(MEDIA_BASE_DIR + "/clip/A2_yg19Pu7Y.mp4", volume=0, loop=True)
 
 
 
@@ -43,7 +48,7 @@ BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImageList(_BACK_FILES)
 
 # STAGE = MatImage(MEDIA_BASE_DIR + "/mark-0.png")
-_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("mark*.png")]
+_STAGE_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("marks/*.png")]
 STAGE = MatImageList(_STAGE_FILES)
 
 ###############################################################################
@@ -60,11 +65,11 @@ PLAY_SCREEN = 1
 PLAY_FULLSCREEN = True
 DASH_FULLSCREEN = True
 
-CAMERA = 0
+CAMERA = 1
 CAMERA_SLEEP = 0.5
-SND_buzz = StaticSource(media_load(MEDIA_BASE_DIR + "/buzz.wav"))
-SND_shutter_start = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_start.wav"))
-SND_shutter_end = StaticSource(media_load(MEDIA_BASE_DIR + "/shutter_end.wav"))
+SND_buzz = StaticSource(media_load("img/buzz.wav"))
+SND_shutter_start = StaticSource(media_load("img/shutter_start.wav"))
+SND_shutter_end = StaticSource(media_load("img/shutter_end.wav"))
 
 if DEBUG:
     DASH_SCREEN = 0
