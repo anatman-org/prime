@@ -1,0 +1,334 @@
+11-06-2023 12:17:50 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@370.48842787742615)
+11-06-2023 12:17:51 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@370.48842787742615) NO seek + 1
+11-06-2023 12:17:51 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@370.48843026161194)
+11-06-2023 12:17:51 | INFO | TOOK /work/play/y34/20231106-121750-760826.png [1]
+11-06-2023 12:17:55 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@375.05371952056885)
+11-06-2023 12:17:56 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@375.05371952056885) NO seek + 1
+11-06-2023 12:17:56 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@375.05372190475464)
+11-06-2023 12:17:56 | INFO | TOOK /work/play/y34/20231106-121755-892089.png [2]
+11-06-2023 12:17:59 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@378.10729146003723)
+11-06-2023 12:18:00 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@378.10729146003723) NO seek + 1
+11-06-2023 12:18:00 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@378.1072940826416)
+11-06-2023 12:18:00 | INFO | TOOK /work/play/y34/20231106-121759-498407.png [3]
+11-06-2023 12:18:05 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@383.7461314201355)
+11-06-2023 12:18:06 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@383.7461314201355) NO seek + 1
+11-06-2023 12:18:06 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@383.74613332748413)
+11-06-2023 12:18:06 | INFO | TOOK /work/play/y34/20231106-121805-698513.png [4]
+11-06-2023 12:18:14 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@391.53712153434753)
+11-06-2023 12:18:14 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@391.53712153434753) NO seek + 1
+11-06-2023 12:18:14 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@391.53712344169617)
+11-06-2023 12:18:14 | INFO | TOOK /work/play/y34/20231106-121814-049090.png [5]
+11-06-2023 12:18:20 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@397.11147689819336)
+11-06-2023 12:18:20 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@397.11147689819336) NO seek + 1
+11-06-2023 12:18:20 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@397.1114785671234)
+11-06-2023 12:18:20 | INFO | TOOK /work/play/y34/20231106-121820-183121.png [6]
+11-06-2023 12:18:24 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@400.8477461338043)
+11-06-2023 12:18:25 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@400.8477461338043) NO seek + 1
+11-06-2023 12:18:25 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@400.84774827957153)
+11-06-2023 12:18:25 | INFO | TOOK /work/play/y34/20231106-121824-477989.png [7]
+11-06-2023 12:18:28 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@403.9317536354065)
+11-06-2023 12:18:28 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@403.9317536354065) NO seek + 1
+11-06-2023 12:18:28 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@403.9317557811737)
+11-06-2023 12:18:28 | INFO | TOOK /work/play/y34/20231106-121828-125075.png [8]
+11-06-2023 12:18:36 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@412.23838210105896)
+11-06-2023 12:18:37 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@412.23838210105896) NO seek + 1
+11-06-2023 12:18:37 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@412.2383840084076)
+11-06-2023 12:18:37 | INFO | TOOK /work/play/y34/20231106-121836-984395.png [9]
+11-06-2023 12:18:41 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@415.7837235927582)
+11-06-2023 12:18:41 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@415.7837235927582) NO seek + 1
+11-06-2023 12:18:41 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@415.78372526168823)
+11-06-2023 12:18:41 | INFO | TOOK /work/play/y34/20231106-121841-082680.png [10]
+11-06-2023 12:18:45 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@419.26442980766296)
+11-06-2023 12:18:45 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@419.26442980766296) NO seek + 1
+11-06-2023 12:18:45 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@419.26443219184875)
+11-06-2023 12:18:45 | INFO | TOOK /work/play/y34/20231106-121845-116127.png [11]
+11-06-2023 12:18:49 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@423.53853940963745)
+11-06-2023 12:18:50 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@423.53853940963745) NO seek + 1
+11-06-2023 12:18:50 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@423.5385410785675)
+11-06-2023 12:18:50 | INFO | TOOK /work/play/y34/20231106-121849-949023.png [12]
+11-06-2023 12:18:51 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.4788212776184)
+11-06-2023 12:19:01 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.4788212776184) NO seek + 1
+11-06-2023 12:19:01 | INFO | TOOK /work/play/y34/20231106-121901-048407.png [13]
+11-06-2023 12:19:02 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.47882413864136)
+11-06-2023 12:19:02 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.6778087615967)
+11-06-2023 12:19:12 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.6778087615967) NO seek + 1
+11-06-2023 12:19:12 | INFO | TOOK /work/play/y34/20231106-121911-931271.png [14]
+11-06-2023 12:19:16 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.677827835083)
+11-06-2023 12:19:16 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.87851881980896)
+11-06-2023 12:19:19 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.87851881980896) NO seek + 1
+11-06-2023 12:19:19 | INFO | TOOK /work/play/y34/20231106-121918-848371.png [15]
+11-06-2023 12:19:23 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@424.87852239608765)
+11-06-2023 12:19:23 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.0769143104553)
+11-06-2023 12:19:26 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.0769143104553) NO seek + 1
+11-06-2023 12:19:27 | INFO | TOOK /work/play/y34/20231106-121926-427520.png [16]
+11-06-2023 12:19:33 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.0769181251526)
+11-06-2023 12:19:33 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.2819743156433)
+11-06-2023 12:19:34 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.2819743156433) NO seek + 1
+11-06-2023 12:19:34 | INFO | TOOK /work/play/y34/20231106-121933-915834.png [17]
+11-06-2023 12:19:55 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.2819743156433) NO seek + 1
+11-06-2023 12:19:55 | INFO | TOOK /work/play/y34/20231106-121955-134285.png [18]
+11-06-2023 12:19:56 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.2819781303406)
+11-06-2023 12:19:56 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.4797508716583)
+11-06-2023 12:20:02 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.4797508716583) NO seek + 1
+11-06-2023 12:20:02 | INFO | TOOK /work/play/y34/20231106-122001-544874.png [19]
+11-06-2023 12:20:08 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.4797554016113)
+11-06-2023 12:20:08 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.68016481399536)
+11-06-2023 12:20:10 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.68016481399536) NO seek + 1
+11-06-2023 12:20:10 | INFO | TOOK /work/play/y34/20231106-122009-461599.png [20]
+11-06-2023 12:20:13 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.68016839027405)
+11-06-2023 12:20:13 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.87845516204834)
+11-06-2023 12:20:15 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.87845516204834) NO seek + 1
+11-06-2023 12:20:15 | INFO | TOOK /work/play/y34/20231106-122014-511270.png [21]
+11-06-2023 12:20:33 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.87845516204834) NO seek + 1
+11-06-2023 12:20:33 | INFO | TOOK /work/play/y34/20231106-122033-265134.png [22]
+11-06-2023 12:20:39 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.87845516204834) NO seek + 1
+11-06-2023 12:20:39 | INFO | TOOK /work/play/y34/20231106-122039-250460.png [23]
+11-06-2023 12:20:44 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@425.8784577846527)
+11-06-2023 12:20:45 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.10531091690063)
+11-06-2023 12:20:46 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.10531091690063) NO seek + 1
+11-06-2023 12:20:46 | INFO | TOOK /work/play/y34/20231106-122045-781565.png [24]
+11-06-2023 12:20:49 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.1053149700165)
+11-06-2023 12:20:49 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.3401565551758)
+11-06-2023 12:20:51 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.3401565551758) NO seek + 1
+11-06-2023 12:20:51 | INFO | TOOK /work/play/y34/20231106-122050-698847.png [25]
+11-06-2023 12:20:58 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.3401565551758) NO seek + 1
+11-06-2023 12:20:58 | INFO | TOOK /work/play/y34/20231106-122057-781959.png [26]
+11-06-2023 12:21:03 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.34016036987305)
+11-06-2023 12:21:03 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.53705167770386)
+11-06-2023 12:21:04 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.53705167770386) NO seek + 1
+11-06-2023 12:21:05 | INFO | TOOK /work/play/y34/20231106-122104-428862.png [27]
+11-06-2023 12:21:09 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.5370554924011)
+11-06-2023 12:21:09 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.7713346481323)
+11-06-2023 12:21:10 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.7713346481323) NO seek + 1
+11-06-2023 12:21:10 | INFO | TOOK /work/play/y34/20231106-122110-050267.png [28]
+11-06-2023 12:21:14 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.771338224411)
+11-06-2023 12:21:14 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.9691298007965)
+11-06-2023 12:21:16 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.9691298007965) NO seek + 1
+11-06-2023 12:21:16 | INFO | TOOK /work/play/y34/20231106-122115-548527.png [29]
+11-06-2023 12:21:19 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@426.9691336154938)
+11-06-2023 12:21:19 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.13622212409973)
+11-06-2023 12:21:20 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.13622212409973) NO seek + 1
+11-06-2023 12:21:20 | INFO | TOOK /work/play/y34/20231106-122120-366088.png [30]
+11-06-2023 12:21:27 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.1362257003784)
+11-06-2023 12:21:27 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708691596985)
+11-06-2023 12:21:28 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708691596985) NO seek + 1
+11-06-2023 12:21:28 | INFO | TOOK /work/play/y34/20231106-122127-915222.png [31]
+11-06-2023 12:21:58 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708691596985) NO seek + 1
+11-06-2023 12:21:58 | INFO | TOOK /work/play/y34/20231106-122157-835279.png [32]
+11-06-2023 12:22:05 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708691596985) NO seek + 1
+11-06-2023 12:22:05 | INFO | TOOK /work/play/y34/20231106-122204-852052.png [33]
+11-06-2023 12:23:22 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708691596985) NO seek + 1
+11-06-2023 12:23:22 | INFO | TOOK /work/play/y34/20231106-122322-318326.png [34]
+11-06-2023 12:23:24 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@427.3708734512329)
+11-06-2023 12:23:38 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@440.7314124107361)
+11-06-2023 12:23:38 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@440.7314124107361) NO seek + 1
+11-06-2023 12:23:38 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@440.73141407966614)
+11-06-2023 12:23:38 | INFO | TOOK /work/play/y34/20231106-122338-096074.png [35]
+11-06-2023 12:24:01 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@463.372652053833)
+11-06-2023 12:24:01 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@463.372652053833) NO seek + 1
+11-06-2023 12:24:01 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@463.3726544380188)
+11-06-2023 12:24:01 | INFO | TOOK /work/play/y34/20231106-122401-291004.png [36]
+11-06-2023 12:26:45 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@626.7918264865875)
+11-06-2023 12:26:45 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@626.7918264865875) NO seek + 1
+11-06-2023 12:26:45 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@626.7918288707733)
+11-06-2023 12:26:45 | INFO | TOOK /work/play/y34/20231106-122645-265040.png [37]
+11-06-2023 12:27:05 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@646.0367121696472)
+11-06-2023 12:27:05 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@646.0367121696472) NO seek + 1
+11-06-2023 12:27:05 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@646.0367133617401)
+11-06-2023 12:27:05 | INFO | TOOK /work/play/y34/20231106-122705-063725.png [38]
+11-06-2023 12:27:17 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@657.7003755569458)
+11-06-2023 12:27:17 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@657.7003755569458) NO seek + 1
+11-06-2023 12:27:17 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@657.7003772258759)
+11-06-2023 12:27:17 | INFO | TOOK /work/play/y34/20231106-122717-282088.png [39]
+11-06-2023 12:31:09 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@888.9891633987427)
+11-06-2023 12:31:09 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@888.9891633987427) NO seek + 1
+11-06-2023 12:31:09 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@888.9891648292542)
+11-06-2023 12:31:09 | INFO | TOOK /work/play/y34/20231106-123109-136064.png [40]
+11-06-2023 12:31:20 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@899.3557960987091)
+11-06-2023 12:31:20 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@899.3557960987091) NO seek + 1
+11-06-2023 12:31:20 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@899.3557994365692)
+11-06-2023 12:31:20 | INFO | TOOK /work/play/y34/20231106-123120-064900.png [41]
+11-06-2023 12:31:26 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@904.9405064582825)
+11-06-2023 12:31:26 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@904.9405064582825) NO seek + 1
+11-06-2023 12:31:26 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@904.9405083656311)
+11-06-2023 12:31:26 | INFO | TOOK /work/play/y34/20231106-123126-215297.png [42]
+11-06-2023 12:31:32 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@910.175726890564)
+11-06-2023 12:31:32 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@910.175726890564) NO seek + 1
+11-06-2023 12:31:32 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@910.1757287979126)
+11-06-2023 12:31:32 | INFO | TOOK /work/play/y34/20231106-123132-003455.png [43]
+11-06-2023 12:31:35 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@913.2301511764526)
+11-06-2023 12:31:36 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@913.2301511764526) NO seek + 1
+11-06-2023 12:31:36 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@913.2301530838013)
+11-06-2023 12:31:36 | INFO | TOOK /work/play/y34/20231106-123135-619528.png [44]
+11-06-2023 12:31:39 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@916.8149695396423)
+11-06-2023 12:31:40 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@916.8149695396423) NO seek + 1
+11-06-2023 12:31:40 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@916.814971446991)
+11-06-2023 12:31:40 | INFO | TOOK /work/play/y34/20231106-123139-765285.png [45]
+11-06-2023 12:31:47 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@923.654914855957)
+11-06-2023 12:31:47 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@923.654914855957) NO seek + 1
+11-06-2023 12:31:47 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@923.6549167633057)
+11-06-2023 12:31:47 | INFO | TOOK /work/play/y34/20231106-123147-170525.png [46]
+11-06-2023 12:31:50 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@926.5836796760559)
+11-06-2023 12:31:51 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@926.5836796760559) NO seek + 1
+11-06-2023 12:31:51 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@926.5836818218231)
+11-06-2023 12:31:51 | INFO | TOOK /work/play/y34/20231106-123150-652741.png [47]
+11-06-2023 12:31:54 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@929.8888657093048)
+11-06-2023 12:31:55 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@929.8888657093048) NO seek + 1
+11-06-2023 12:31:55 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@929.888867855072)
+11-06-2023 12:31:55 | INFO | TOOK /work/play/y34/20231106-123154-519199.png [48]
+11-06-2023 12:32:05 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@940.5309369564056)
+11-06-2023 12:32:06 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@940.5309369564056) NO seek + 1
+11-06-2023 12:32:06 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@940.5309383869171)
+11-06-2023 12:32:06 | INFO | TOOK /work/play/y34/20231106-123205-722314.png [49]
+11-06-2023 12:32:15 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@950.0123469829559)
+11-06-2023 12:32:16 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@950.0123469829559) NO seek + 1
+11-06-2023 12:32:16 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@950.0123484134674)
+11-06-2023 12:32:16 | INFO | TOOK /work/play/y34/20231106-123215-756249.png [50]
+11-06-2023 12:32:23 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@957.5168058872223)
+11-06-2023 12:32:24 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@957.5168058872223) NO seek + 1
+11-06-2023 12:32:24 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@957.5168080329895)
+11-06-2023 12:32:24 | INFO | TOOK /work/play/y34/20231106-123223-816889.png [51]
+11-06-2023 12:32:28 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@961.629123210907)
+11-06-2023 12:32:29 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@961.629123210907) NO seek + 1
+11-06-2023 12:32:29 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@961.6291255950928)
+11-06-2023 12:32:29 | INFO | TOOK /work/play/y34/20231106-123228-482210.png [52]
+11-06-2023 12:32:33 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@966.0815260410309)
+11-06-2023 12:32:34 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@966.0815260410309) NO seek + 1
+11-06-2023 12:32:34 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@966.0815279483795)
+11-06-2023 12:32:34 | INFO | TOOK /work/play/y34/20231106-123233-499845.png [53]
+11-06-2023 12:32:40 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@972.4495544433594)
+11-06-2023 12:32:40 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@972.4495544433594) NO seek + 1
+11-06-2023 12:32:40 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@972.449556350708)
+11-06-2023 12:32:41 | INFO | TOOK /work/play/y34/20231106-123240-433495.png [54]
+11-06-2023 12:32:46 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@977.6818604469299)
+11-06-2023 12:32:46 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@977.6818604469299) NO seek + 1
+11-06-2023 12:32:46 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@977.6818623542786)
+11-06-2023 12:32:46 | INFO | TOOK /work/play/y34/20231106-123246-219265.png [55]
+11-06-2023 12:32:49 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@980.6386089324951)
+11-06-2023 12:32:50 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@980.6386089324951) NO seek + 1
+11-06-2023 12:32:50 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@980.6386120319366)
+11-06-2023 12:32:50 | INFO | TOOK /work/play/y34/20231106-123249-736911.png [56]
+11-06-2023 12:32:53 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@984.0966341495514)
+11-06-2023 12:32:54 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@984.0966341495514) NO seek + 1
+11-06-2023 12:32:54 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@984.0966362953186)
+11-06-2023 12:32:54 | INFO | TOOK /work/play/y34/20231106-123253-750274.png [57]
+11-06-2023 12:33:02 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@992.580424785614)
+11-06-2023 12:33:03 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@992.580424785614) NO seek + 1
+11-06-2023 12:33:03 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@992.5804269313812)
+11-06-2023 12:33:03 | INFO | TOOK /work/play/y34/20231106-123302-787702.png [58]
+11-06-2023 12:33:06 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@995.9412264823914)
+11-06-2023 12:33:07 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@995.9412264823914) NO seek + 1
+11-06-2023 12:33:07 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@995.9412288665771)
+11-06-2023 12:33:07 | INFO | TOOK /work/play/y34/20231106-123306-702466.png [59]
+11-06-2023 12:33:10 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@999.0342547893524)
+11-06-2023 12:33:10 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@999.0342547893524) NO seek + 1
+11-06-2023 12:33:10 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@999.0342569351196)
+11-06-2023 12:33:10 | INFO | TOOK /work/play/y34/20231106-123310-349688.png [60]
+11-06-2023 12:33:13 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1001.8985455036163)
+11-06-2023 12:33:14 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1001.8985455036163) NO seek + 1
+11-06-2023 12:33:14 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1001.898547410965)
+11-06-2023 12:33:14 | INFO | TOOK /work/play/y34/20231106-123313-769324.png [61]
+11-06-2023 12:33:22 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1010.0710589885712)
+11-06-2023 12:33:23 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1010.0710589885712) NO seek + 1
+11-06-2023 12:33:23 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1010.0710604190826)
+11-06-2023 12:33:23 | INFO | TOOK /work/play/y34/20231106-123322-503570.png [62]
+11-06-2023 12:33:26 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1013.7636320590973)
+11-06-2023 12:33:27 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1013.7636320590973) NO seek + 1
+11-06-2023 12:33:27 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1013.7636334896088)
+11-06-2023 12:33:27 | INFO | TOOK /work/play/y34/20231106-123326-749740.png [63]
+11-06-2023 12:33:30 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1017.2447929382324)
+11-06-2023 12:33:31 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1017.2447929382324) NO seek + 1
+11-06-2023 12:33:31 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1017.2447953224182)
+11-06-2023 12:33:31 | INFO | TOOK /work/play/y34/20231106-123330-784387.png [64]
+11-06-2023 12:33:35 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1021.1905584335327)
+11-06-2023 12:33:35 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1021.1905584335327) NO seek + 1
+11-06-2023 12:33:35 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1021.1905601024628)
+11-06-2023 12:33:35 | INFO | TOOK /work/play/y34/20231106-123335-286354.png [65]
+11-06-2023 12:33:52 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1037.4484553337097)
+11-06-2023 12:33:52 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1037.4484553337097) NO seek + 1
+11-06-2023 12:33:52 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1037.4484570026398)
+11-06-2023 12:33:52 | INFO | TOOK /work/play/y34/20231106-123352-099003.png [66]
+11-06-2023 12:33:56 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1041.6198291778564)
+11-06-2023 12:33:57 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1041.6198291778564) NO seek + 1
+11-06-2023 12:33:57 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1041.6198313236237)
+11-06-2023 12:33:57 | INFO | TOOK /work/play/y34/20231106-123356-836482.png [67]
+11-06-2023 12:34:01 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1045.3553137779236)
+11-06-2023 12:34:01 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1045.3553137779236) NO seek + 1
+11-06-2023 12:34:01 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1045.3553161621094)
+11-06-2023 12:34:01 | INFO | TOOK /work/play/y34/20231106-123401-125571.png [68]
+11-06-2023 12:34:04 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1048.6491267681122)
+11-06-2023 12:34:05 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1048.6491267681122) NO seek + 1
+11-06-2023 12:34:05 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1048.6491281986237)
+11-06-2023 12:34:05 | INFO | TOOK /work/play/y34/20231106-123404-973163.png [69]
+11-06-2023 12:34:14 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1057.492683649063)
+11-06-2023 12:34:14 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1057.492683649063) NO seek + 1
+11-06-2023 12:34:14 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1057.4926850795746)
+11-06-2023 12:34:14 | INFO | TOOK /work/play/y34/20231106-123414-370561.png [70]
+11-06-2023 12:34:18 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1060.8256123065948)
+11-06-2023 12:34:18 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1060.8256123065948) NO seek + 1
+11-06-2023 12:34:18 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1060.8256142139435)
+11-06-2023 12:34:18 | INFO | TOOK /work/play/y34/20231106-123418-264915.png [71]
+11-06-2023 12:34:22 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1064.455351114273)
+11-06-2023 12:34:23 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1064.455351114273) NO seek + 1
+11-06-2023 12:34:23 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1064.4553530216217)
+11-06-2023 12:34:23 | INFO | TOOK /work/play/y34/20231106-123422-461991.png [72]
+11-06-2023 12:34:27 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1069.3260548114777)
+11-06-2023 12:34:28 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1069.3260548114777) NO seek + 1
+11-06-2023 12:34:28 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1069.3260564804077)
+11-06-2023 12:34:28 | INFO | TOOK /work/play/y34/20231106-123427-885768.png [73]
+11-06-2023 12:34:54 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1094.9109525680542)
+11-06-2023 12:34:54 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1094.9109525680542) NO seek + 1
+11-06-2023 12:34:54 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1094.91095495224)
+11-06-2023 12:34:54 | INFO | TOOK /work/play/y34/20231106-123454-032852.png [74]
+11-06-2023 12:34:58 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1098.4487314224243)
+11-06-2023 12:34:58 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1098.4487314224243) NO seek + 1
+11-06-2023 12:34:58 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1098.4487335681915)
+11-06-2023 12:34:58 | INFO | TOOK /work/play/y34/20231106-123458-136451.png [75]
+11-06-2023 12:35:02 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1102.071305513382)
+11-06-2023 12:35:02 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1102.071305513382) NO seek + 1
+11-06-2023 12:35:02 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1102.071307182312)
+11-06-2023 12:35:02 | INFO | TOOK /work/play/y34/20231106-123502-320766.png [76]
+11-06-2023 12:35:06 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1105.2392411231995)
+11-06-2023 12:35:06 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1105.2392411231995) NO seek + 1
+11-06-2023 12:35:06 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1105.239242553711)
+11-06-2023 12:35:06 | INFO | TOOK /work/play/y34/20231106-123506-049251.png [77]
+11-06-2023 12:35:32 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1130.9636249542236)
+11-06-2023 12:35:32 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1130.9636249542236) NO seek + 1
+11-06-2023 12:35:32 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1130.963627576828)
+11-06-2023 12:35:32 | INFO | TOOK /work/play/y34/20231106-123532-339272.png [78]
+11-06-2023 12:35:41 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1139.7742941379547)
+11-06-2023 12:35:42 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1139.7742941379547) NO seek + 1
+11-06-2023 12:35:42 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1139.7742960453033)
+11-06-2023 12:35:42 | INFO | TOOK /work/play/y34/20231106-123541-704160.png [79]
+11-06-2023 12:35:47 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1145.1340556144714)
+11-06-2023 12:35:48 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1145.1340556144714) NO seek + 1
+11-06-2023 12:35:48 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1145.1340579986572)
+11-06-2023 12:35:48 | INFO | TOOK /work/play/y34/20231106-123547-617171.png [80]
+11-06-2023 12:35:53 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1150.0826106071472)
+11-06-2023 12:35:53 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1150.0826106071472) NO seek + 1
+11-06-2023 12:35:53 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1150.0826125144958)
+11-06-2023 12:35:53 | INFO | TOOK /work/play/y34/20231106-123553-132501.png [81]
+11-06-2023 12:36:12 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1168.992592573166)
+11-06-2023 12:36:13 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1168.992592573166) NO seek + 1
+11-06-2023 12:36:13 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1168.992594718933)
+11-06-2023 12:36:13 | INFO | TOOK /work/play/y34/20231106-123612-597359.png [82]
+11-06-2023 12:36:17 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1173.3580074310303)
+11-06-2023 12:36:18 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1173.3580074310303) NO seek + 1
+11-06-2023 12:36:18 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1173.3580090999603)
+11-06-2023 12:36:18 | INFO | TOOK /work/play/y34/20231106-123617-516355.png [83]
+11-06-2023 12:36:21 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1176.9469110965729)
+11-06-2023 12:36:22 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1176.9469110965729) NO seek + 1
+11-06-2023 12:36:22 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1176.9469130039215)
+11-06-2023 12:36:22 | INFO | TOOK /work/play/y34/20231106-123621-670776.png [84]
+11-06-2023 12:36:26 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1180.8351380825043)
+11-06-2023 12:36:26 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1180.8351380825043) NO seek + 1
+11-06-2023 12:36:26 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1180.8351395130157)
+11-06-2023 12:36:26 | INFO | TOOK /work/play/y34/20231106-123626-113987.png [85]
+11-06-2023 12:36:32 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1186.2049534320831)
+11-06-2023 12:36:32 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1186.2049534320831) NO seek + 1
+11-06-2023 12:36:32 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1186.2049560546875)
+11-06-2023 12:36:32 | INFO | TOOK /work/play/y34/20231106-123632-037327.png [86]
+11-06-2023 12:36:41 | DEBUG | pause MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1195.612354516983)
+11-06-2023 12:36:42 | ERROR | next MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1195.612354516983) NO seek + 1
+11-06-2023 12:36:42 | DEBUG | resume MatVideo(/work/clip/A2_yg19Pu7Y.mp4@1195.612356185913)
+11-06-2023 12:36:42 | INFO | TOOK /work/play/y34/20231106-123641-999350.png [87]
