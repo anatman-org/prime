@@ -23,9 +23,9 @@ MEDIA_BASE_DIR = "/data"
 # MEDIA_BASE_DIR = str(Path().home())
 # MEDIA_BASE_DIR = str(Path().cwd())
 
-# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
+FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.AI}/{now:%Y%m%d-%H%M%S-%f}.png"
 # FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{config.USER}/{now:%Y%m%d-%H%M%S-%f}.png"
-FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
+# FNAME_TEMPLATE = MEDIA_BASE_DIR + "/out/{now:%Y%m%d}/{now:%H%M%S-%f}.png"
 
 
 
