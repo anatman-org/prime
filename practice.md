@@ -146,4 +146,28 @@ that can say,
   A >> A1 >> A2 >> A3 >> ... >> An-2 >> An-1 >> An >> A' == A
 ```
 
+Or is it infinite?
+
+In fact, the difference in configurations
+of two mosaics of beads
+composed on a finite mat
+and measured to a finite level of precision
+
+results in a finite number of configuration changes,
+and any transformation from one state to another,
+from `A` to `A'`,
+can be represented as a finite number of transformations
+along lines of symmetry within the sequence
+
+this quantity is, per the Orbit-Stabilizer theorem
+
+```
+|G| = O(x) * S(x)
+```
+
+where `O(x)` is the number of degrees of freedom along axis x, an orbit
+and where `S(x)` is the number of other symmetries that remain along the remaining axis, not including x -- the stabilizer
+the result, `|G|`, is the size, the count of the intermediate transformation states possible
+that result in the unique result of `A >> A'`.
+
 
