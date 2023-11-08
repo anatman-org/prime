@@ -26,6 +26,10 @@ across thousands of years ...
 with rules being studied and practiced religiously,
 or other times played as freely as a jazz instrument.
 
-It is hard to describe and easier to show.
+It is hard to describe and easier to show:
+
+  > in the end,
+  > we're all just
+  > that damn butterfly's dream
 
 
