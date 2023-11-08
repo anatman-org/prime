@@ -2,15 +2,8 @@
 title: The Annotated Manual to the Glass Bead Game
 ---
 
-# Introduction
+# The Annotated Manual to the Glass Bead Game
 
-# Format of the Manual
-
-the format of the manual
-is as code and text,
-
-intended to be used to train
-an ai "artificial intelligence"
 
 the purpose of this ai is to learn a collection of cultivated stories
 and then for that ai to interact with people -- the audience, the users --
@@ -79,8 +72,7 @@ just a little bit different
   and other times the game is played in voices of those 
     who are just imagined
 
-    like what the voice of a'f'san'a might sound like,
-    when she says,
+A wise woman once told me,
 
 > Violence comes at a cost.
 > Violence comes at a great, great cost.
@@ -128,6 +120,4 @@ of Change
     know ourselves
     and know one another
 
-
->>>>>>> primes/prime
-
+This is what the Glass Bead Game is about.

@@ -55,6 +55,7 @@ and knowing her own state relative to the virtues
 
 this is to practice the game with skill and wisdom
 
+=======
 # What Is a Game?
 
 A game consists of a collection of beads
