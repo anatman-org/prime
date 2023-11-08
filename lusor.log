@@ -1681,3 +1681,29 @@
 11-08-2023 11:15:59 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@700.8919489383698) NO seek + 1
 11-08-2023 11:15:59 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@700.8919503688812)
 11-08-2023 11:15:59 | INFO | TOOK /work/play/y34/20231108-111558-521441.png [15]
+11-08-2023 11:42:59 | DEBUG | next MatImageList(/work/marks/mark-chess.png@1)@1
+11-08-2023 11:43:00 | DEBUG | next MatImageList(/work/marks/mark-mod12.png@2)@2
+11-08-2023 11:44:05 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@75.50046706199646)
+11-08-2023 11:44:05 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@75.50046706199646) NO seek + 1
+11-08-2023 11:44:05 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@75.50046944618225)
+11-08-2023 11:44:05 | INFO | TOOK /work/play/y34/20231108-114405-350015.png [1]
+11-08-2023 11:45:00 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@130.1915717124939)
+11-08-2023 11:45:01 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@130.1915717124939) NO seek + 1
+11-08-2023 11:45:01 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@130.1915740966797)
+11-08-2023 11:45:01 | INFO | TOOK /work/play/y34/20231108-114500-600996.png [2]
+11-08-2023 11:45:41 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@170.45063138008118)
+11-08-2023 11:45:41 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@170.45063138008118) NO seek + 1
+11-08-2023 11:45:41 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@170.45063376426697)
+11-08-2023 11:45:42 | INFO | TOOK /work/play/y34/20231108-114541-419168.png [3]
+11-08-2023 11:46:31 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@220.31680512428284)
+11-08-2023 11:46:32 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@220.31680512428284) NO seek + 1
+11-08-2023 11:46:32 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@220.31680703163147)
+11-08-2023 11:46:32 | INFO | TOOK /work/play/y34/20231108-114631-844146.png [4]
+11-08-2023 11:47:28 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@276.4385187625885)
+11-08-2023 11:47:29 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@276.4385187625885) NO seek + 1
+11-08-2023 11:47:29 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@276.4385209083557)
+11-08-2023 11:47:29 | INFO | TOOK /work/play/y34/20231108-114728-523182.png [5]
+11-08-2023 11:48:37 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@344.45797634124756)
+11-08-2023 11:48:37 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@344.45797634124756) NO seek + 1
+11-08-2023 11:48:37 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@344.45799112319946)
+11-08-2023 11:48:37 | INFO | TOOK /work/play/y34/20231108-114837-099133.png [6]
