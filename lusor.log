@@ -1619,3 +1619,65 @@
 11-08-2023 10:36:38 | ERROR | next MatVideo(/work/cuts/ttb64f1352f14e7d.mp4@209.90483832359314) NO seek + 1
 11-08-2023 10:36:38 | DEBUG | resume MatVideo(/work/cuts/ttb64f1352f14e7d.mp4@209.90484046936035)
 11-08-2023 10:36:38 | INFO | TOOK /work/play/y34/20231108-103637-548428.png [46]
+11-08-2023 10:52:58 | DEBUG | next MatImageList(/work/marks/mark-chess.png@1)@1
+11-08-2023 10:52:59 | DEBUG | next MatImageList(/work/marks/mark-mod12.png@2)@2
+11-08-2023 10:54:25 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.20991349220276)
+11-08-2023 10:54:26 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.20991349220276) NO seek + 1
+11-08-2023 10:54:26 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.20991539955139)
+11-08-2023 10:54:26 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.24054312705994)
+11-08-2023 10:54:26 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.24054312705994) NO seek + 1
+11-08-2023 10:54:26 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.24054622650146)
+11-08-2023 10:54:26 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.26818203926086)
+11-08-2023 10:54:27 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.26818203926086) NO seek + 1
+11-08-2023 10:54:27 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@119.26818418502808)
+11-08-2023 10:54:27 | INFO | TOOK /work/play/y34/20231108-105426-669327.png [1]
+11-08-2023 10:54:27 | INFO | TOOK /work/play/y34/20231108-105426-085750.png [2]
+11-08-2023 10:54:27 | INFO | TOOK /work/play/y34/20231108-105425-497495.png [3]
+11-08-2023 10:55:04 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@156.3611044883728)
+11-08-2023 10:55:04 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@156.3611044883728) NO seek + 1
+11-08-2023 10:55:04 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@156.36110639572144)
+11-08-2023 10:55:04 | INFO | TOOK /work/play/y34/20231108-105504-318068.png [4]
+11-08-2023 10:55:33 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@184.9638388156891)
+11-08-2023 10:55:34 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@184.9638388156891) NO seek + 1
+11-08-2023 10:55:34 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@184.96384048461914)
+11-08-2023 10:55:34 | INFO | TOOK /work/play/y34/20231108-105533-477207.png [5]
+11-08-2023 10:58:06 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@337.6236822605133)
+11-08-2023 10:58:07 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@337.6236822605133) NO seek + 1
+11-08-2023 10:58:07 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@337.6236836910248)
+11-08-2023 10:58:07 | INFO | TOOK /work/play/y34/20231108-105806-695861.png [6]
+11-08-2023 10:58:52 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@382.39515137672424)
+11-08-2023 10:58:52 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@382.39515137672424) NO seek + 1
+11-08-2023 10:58:52 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@382.3951532840729)
+11-08-2023 10:58:52 | INFO | TOOK /work/play/y34/20231108-105852-023568.png [7]
+11-08-2023 10:59:27 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@416.9058916568756)
+11-08-2023 10:59:27 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@416.9058916568756) NO seek + 1
+11-08-2023 10:59:27 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@416.90589332580566)
+11-08-2023 10:59:27 | INFO | TOOK /work/play/y34/20231108-105927-090945.png [8]
+11-08-2023 11:06:57 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@163.4133324623108)
+11-08-2023 11:06:58 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@163.4133324623108) NO seek + 1
+11-08-2023 11:06:58 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@163.41333413124084)
+11-08-2023 11:06:58 | INFO | TOOK /work/play/y34/20231108-110657-701606.png [9]
+11-08-2023 11:09:06 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@291.67721223831177)
+11-08-2023 11:09:07 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@291.67721223831177) NO seek + 1
+11-08-2023 11:09:07 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@291.6772139072418)
+11-08-2023 11:09:07 | INFO | TOOK /work/play/y34/20231108-110906-522157.png [10]
+11-08-2023 11:10:17 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@361.6560401916504)
+11-08-2023 11:10:17 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@361.6560401916504) NO seek + 1
+11-08-2023 11:10:17 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@361.656042098999)
+11-08-2023 11:10:17 | INFO | TOOK /work/play/y34/20231108-111017-057998.png [11]
+11-08-2023 11:11:37 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@441.09632086753845)
+11-08-2023 11:11:37 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@441.09632086753845) NO seek + 1
+11-08-2023 11:11:37 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@441.0963222980499)
+11-08-2023 11:11:37 | INFO | TOOK /work/play/y34/20231108-111137-056006.png [12]
+11-08-2023 11:13:02 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@526.1058480739594)
+11-08-2023 11:13:03 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@526.1058480739594) NO seek + 1
+11-08-2023 11:13:03 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@526.1058495044708)
+11-08-2023 11:13:03 | INFO | TOOK /work/play/y34/20231108-111302-621962.png [13]
+11-08-2023 11:14:40 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@623.5370397567749)
+11-08-2023 11:14:41 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@623.5370397567749) NO seek + 1
+11-08-2023 11:14:41 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@623.5370416641235)
+11-08-2023 11:14:41 | INFO | TOOK /work/play/y34/20231108-111440-609418.png [14]
+11-08-2023 11:15:58 | DEBUG | pause MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@700.8919489383698)
+11-08-2023 11:15:59 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@700.8919489383698) NO seek + 1
+11-08-2023 11:15:59 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac.mp4@700.8919503688812)
+11-08-2023 11:15:59 | INFO | TOOK /work/play/y34/20231108-111558-521441.png [15]
