@@ -38,7 +38,7 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/play/{SEQUENCE}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 # BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-BACK = MatVideo(MEDIA_BASE_DIR + "/cuts/ttb64f1352f14e7d.mp4", volume=1, loop=True)
+BACK = MatVideo(MEDIA_BASE_DIR + "/cuts/ttb640a07bbbfdac.mp4", volume=1, loop=True)
 
 
 
