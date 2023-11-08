@@ -56,6 +56,7 @@ def bits_update(ctx, bitbase):
 
     try:
         from reflink import reflink as file_copy
+        import reflink.error
     except ModuleNotFoundError:
         print(
             "NO REFLINK, TRY export PYTHONPATH=/home/thornton/.local/lib/python3.11/site-packages"
@@ -105,7 +106,13 @@ def bits_update(ctx, bitbase):
                         if not xxh_path.parent.exists():
                             xxh_path.parent.mkdir(parents=True)
 
+                    try:
                         file_copy(str(file), str(xxh_path))
+                    except reflink.error.ReflinkImpossibleError:
+                        print(
+                            f"{now():%Y%m%d:%H%M%S} SKIP {xxh_path} {str(file)}",
+                            file=index,
+                        )
 
 
 @task
