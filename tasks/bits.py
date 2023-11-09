@@ -1,6 +1,8 @@
 from pathlib import Path
 from datetime import datetime
+
 from invoke import task
+from slugify import slugify
 
 FRAMERATE = 6
 
@@ -64,7 +66,7 @@ def bits_update(ctx, bitbase):
         return
         from shutil import copy2 as file_copy
 
-    EXCLUDE = ["bits", "snap", "tmp"]
+    EXCLUDE = ["bits", "snap", "tmp", "lfs"]
     bitdir = Path(bitbase)
 
     if not (bitdir / "bits").is_dir():
@@ -78,8 +80,6 @@ def bits_update(ctx, bitbase):
 
             if toplevel.name not in EXCLUDE and toplevel.is_dir():
 
-                print(toplevel)
-
                 for file in toplevel.rglob("*"):
                     if not file.is_file():
                         continue
@@ -92,15 +92,17 @@ def bits_update(ctx, bitbase):
                         (bitdir / "bits") / xxh_hex[:2] / xxh_hex[2:4] / xxh_hex[4:]
                     )
 
+                    file_name = slugify(str(file))
+
                     if xxh_path.exists():
                         print(
-                            f"{now():%Y%m%d:%H%M%S} HERE {xxh_path} {str(file)}",
+                            f"{now():%Y%m%d:%H%M%S} HERE {xxh_path} {file_name}",
                             file=index,
                             flush=True,
                         )
                     else:
                         print(
-                            f"{now():%Y%m%d:%H%M%S} LINK {xxh_path} {str(file)}",
+                            f"{now():%Y%m%d:%H%M%S} LINK {xxh_path} {file_name}",
                             file=index,
                             flush=True,
                         )
@@ -109,10 +111,10 @@ def bits_update(ctx, bitbase):
                             xxh_path.parent.mkdir(parents=True)
 
                     try:
-                        file_copy(str(file), str(xxh_path))
+                        file_copy(file_name, str(xxh_path))
                     except (reflink.error.ReflinkImpossibleError, OSError):
                         print(
-                            f"{now():%Y%m%d:%H%M%S} SKIP {xxh_path} {str(file)}",
+                            f"{now():%Y%m%d:%H%M%S} SKIP {xxh_path} {file_name}",
                             file=index,
                             flush=True,
                         )
