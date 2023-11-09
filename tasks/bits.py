@@ -1,8 +1,24 @@
 from pathlib import Path
 from datetime import datetime
+import platform
 
+import xxhash
 from invoke import task
 from slugify import slugify
+
+
+HOSTNAME=platform.node()
+
+
+try:
+    from reflink import reflink as file_copy
+    import reflink.error
+except ModuleNotFoundError:
+    print(
+        "NO REFLINK, TRY export PYTHONPATH=${HOME}/.local/lib/python3.12/site-packages"
+    )
+    exit(1)
+    # from shutil import copy2 as file_copy
 
 now = datetime.now
 
@@ -11,24 +27,14 @@ EXCLUDE = ["bits", "snap", "tmp", "lfs"]
 
 @task
 def bits_update(ctx, bitbase):
-    import xxhash
 
-    try:
-        from reflink import reflink as file_copy
-        import reflink.error
-    except ModuleNotFoundError:
-        print(
-            "NO REFLINK, TRY export PYTHONPATH=${HOME}/.local/lib/python3.12/site-packages"
-        )
-        return
-        from shutil import copy2 as file_copy
 
     bitdir = Path(bitbase)
 
     if not (bitdir / "bits").is_dir():
         (bitdir / "bits").mkdir()
 
-    index_file = bitdir / f"bits/{now():%Y%m%d}.idx"
+    index_file = bitdir / f"bits/{HOSTNAME}-{slugify(str(bitdir))}-{now():%Y%m%d}.idx"
 
     with index_file.open("a") as index:
         for toplevel in bitdir.glob("*"):
@@ -45,7 +51,7 @@ def bits_update(ctx, bitbase):
                         (bitdir / "bits") / xxh_hex[:2] / xxh_hex[2:4] / xxh_hex[4:]
                     )
 
-                    file_name = slugify(str(file))
+                    file_name = str(file)
 
                     if xxh_path.exists():
                         print(
