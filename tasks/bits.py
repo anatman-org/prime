@@ -4,52 +4,9 @@ from datetime import datetime
 from invoke import task
 from slugify import slugify
 
-FRAMERATE = 6
-
-WORKDIR = Path("/work")
-PLAYDIR = WORKDIR / "play"
-CLIPDIR = WORKDIR / "clips"
-
-BACKUP_DESTINATION = "meru:/data/vajra/"
-
 now = datetime.now
 
-
-@task
-def clips_build(ctx):
-
-    for p in PLAYDIR.glob("*"):
-        print(f"Working {p}")
-
-        if p.is_dir():
-
-            infiles = f"{str(p)}/*.png"
-            outfile = f"{str(CLIPDIR)}/{p.name}.mp4"
-
-            if Path(outfile).exists():
-                print(f"{outfile} exists")
-                continue
-
-            ctx.run(
-                f"""ffmpeg \
-                -framerate {FRAMERATE} \
-                -pattern_type glob -i '{infiles}' \
-                -vf scale=1920:1080 -preset slow -crf 18 \
-                {outfile}""",
-                warn=True,
-            )
-
-
-@task
-def work_backup(ctx):
-
-    ctx.run(
-        f"""rsync \
-        -avzHP \
-        --exclude .snap --exclude tmp \
-        {str(WORKDIR)}/ \
-        {BACKUP_DESTINATION}"""
-    )
+EXCLUDE = ["bits", "snap", "tmp", "lfs"]
 
 
 @task
@@ -61,12 +18,11 @@ def bits_update(ctx, bitbase):
         import reflink.error
     except ModuleNotFoundError:
         print(
-            "NO REFLINK, TRY export PYTHONPATH=/home/thornton/.local/lib/python3.11/site-packages"
+            "NO REFLINK, TRY export PYTHONPATH=${HOME}/.local/lib/python3.12/site-packages"
         )
         return
         from shutil import copy2 as file_copy
 
-    EXCLUDE = ["bits", "snap", "tmp", "lfs"]
     bitdir = Path(bitbase)
 
     if not (bitdir / "bits").is_dir():
@@ -75,11 +31,8 @@ def bits_update(ctx, bitbase):
     index_file = bitdir / f"bits/{now():%Y%m%d}.idx"
 
     with index_file.open("a") as index:
-
         for toplevel in bitdir.glob("*"):
-
             if toplevel.name not in EXCLUDE and toplevel.is_dir():
-
                 for file in toplevel.rglob("*"):
                     if not file.is_file():
                         continue
@@ -122,7 +75,6 @@ def bits_update(ctx, bitbase):
 
 @task
 def bits_copyto(ctx, bitbase, destination):
-
     EXCLUDE = ["bits", "snap", "tmp"]
     bitdir = Path(bitbase)
 
