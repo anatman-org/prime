@@ -95,12 +95,12 @@ def bits_update(ctx, bitbase):
                     if xxh_path.exists():
                         print(
                             f"{now():%Y%m%d:%H%M%S} HERE {xxh_path} {str(file)}",
-                            file=index,
+                            file=index, flush=True,
                         )
                     else:
                         print(
                             f"{now():%Y%m%d:%H%M%S} LINK {xxh_path} {str(file)}",
-                            file=index,
+                            file=index, flush=True,
                         )
 
                         if not xxh_path.parent.exists():
@@ -111,7 +111,7 @@ def bits_update(ctx, bitbase):
                     except reflink.error.ReflinkImpossibleError:
                         print(
                             f"{now():%Y%m%d:%H%M%S} SKIP {xxh_path} {str(file)}",
-                            file=index,
+                            file=index, flush=True,
                         )
 
 
