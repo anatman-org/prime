@@ -1,182 +1,175 @@
 ---
 title: Practice of the Game
+contributor:
+  - #meredith.monk/book-of-days/dawn
+  - https://prajna.io/99402b49-bb9d-4fd3-a812-ff88d21ce93f#page=203
 ---
+
+
+> At the heart of the
+> game
+> is following
+> the transformation of things
+#afsana
+
 
 # Why We Play
 
-The first and most important question
+the first and most important question
 of any venture is "why?"
 
 Why do we play?
 
-We play because it is joy.
+we play because it reveals truths about us.
 
-And the record of any joy,
-even when poorly reflected
-in a fading photograph
-of a face occluding the [sun],
+huang relates this story, which exemplifies this:
 
-like a shine reflected through perfect glass
+    in ancient times,
+    there was a noble woman
+    who was offered marriage by a lord.
 
-is brilliant.
+    she consulted the [i ching]
+    after manipulating the yarrow stalks,
+    she obtained [y31](/y/31.md):
 
-It is best expressed through the story
-of "Feather and Bean" told here by xa.Qaree.Bin.ia:
+        “good fortune ...
+        this sign possesses the four great virtues ...
+        and it is extremely auspicious for you
+        to follow your husband and be married”
 
----
+    nevertheless, the woman said,
+        “i have none of those four virtues
+        my situation is not compatible with the gua”
+    deciding instead to wait for another opportunity
 
-i remember
+    the lady’s decision exemplifies
+    the way one should use the [i ching]
+    it is not simply a matter of
+    blindly following the oracle,
+    but rather of understanding
+    one’s place within the situation
 
-the Sop
-always wet
+her wisdom,
+recognizing the difference between blessing and curse
+and knowing her own state relative to the virtues
 
-i'm on the street
-and it only took three trips between stairs and apartment
-to get out the fucking door
+this is to practice the game with skill and wisdom
 
-slippery
-i loose my footing
-i teeter into the street
+=======
+# What Is a Game?
 
-    <ai mute no-pain,no-audio,no-video>
+A game consists of a collection of beads
+arranged on a mat
 
-i shake my head
+the bead configurations are then arranged into sequences
 
-    "you don't need help?"
+and every player plays
+with some rules constraining the configurations
+and all these rules are things that come and go with cultures and times
 
-I shake my head
-i am waking up
+but even in the most constraining time and place
+there is still freedom to express something
 
-i wasn't asleep was i?
-i shake my head
+because who can tell
+a child
+playing with sticks or stones
+in the sand
 
-    "i think you need help"
+that their game has any more or less meaning?
 
-vision starts coming back to me
-then audio
-i am dizzy
-i fall down
+# Fundamentals of Sequences
 
-but someone has caught me
-i look up
+While confiuration of beads reflect the imprint of a person
+in a time and in a place
+sequences show transformations.
+Some of these witness transformations happening
+to the authors of these games.
 
-<ai 581ed50f-d7f3-41ae-9dde-4e6c3820f2dc user-override=pain>
-i consent
-</ai>
+Other sequencess witness transformations happening over much greater period of time ...
+sometimes they are the scratches of thousands of generations worth of change.
 
-She is shining like the [Sun]
+Technically speaking, any transformation, any difference between two configurations of beads,
+no matter that it is only one transformation,
+and no matter if the transformation requires complete reconfiguration of the mosaic of beads,
+is a sequence, a game.
 
-<ai 581ed50f>
-"i consent"
-</ai>
+There is some meaning of the difference between the two,
+like old Zhuang dreaming he is a butterfly
 
-there is no more pain
+This difference, this transformation, then links,
+like links in a chain, in stages,
+forming these sequences that share some property.
 
-i get up and shake myself off
+That property is an axis of symmetry, a central meaning
+and that means the sequence follows some rules
 
-    "you need help ... here"
+these rules are fundamental --
+    that is they exist outside of culture or history because they
+    arise from the mathematics of the transformations
+    along an axis of symmetry
 
-her thin arms around me
+The first two rules are:
 
-i am wet
-there is throbbing pain,
-but i can't feel it for some reason
+  * compositions of sequences are sequences
+  * two compositions of sequences, given as sequences in the same order, are the same
 
-all i feel is her arm
+The implication of this, that any transformation
+of a mosaic from one state, say `A`
+that is reconfigured to another, say `A'`
+which can be given in notation:
 
-cradling me
+```
+  A >> A'
+```
 
-i am safe
-i am home
+can also be composed of an infinite number intermediate states,
+say,
 
-i am sitting down
+```
+  A >> A1 >> A2 >> A3 >> ... >> An-2 >> An-1 >> An >> A'
+```
 
-    "there.
-    there." she said
+And also
 
-again that sweet voice
+  * there is a composition of no transformation.
+    It is called "identity"
+    it is **wu-wei**, the action of least action
 
-she is kneeling before me
-she wasn't a vision, a hallucination
-she is here in front of me
+and finally,
 
-    "i should call a doctor"
-    she turns her head
+  * every composition sequence can return to it's start, be undone
+    with the right sequence of transformations
 
-her curls smell of jasmine
+which means, that for every sequence, there is an infinite number of sequences
+that can say,
 
-"no" i croak
-"no, please"
-i get up
+```
+  A >> A1 >> A2 >> A3 >> ... >> An-2 >> An-1 >> An >> A' == A
+```
 
-i bump into her
+Or is it infinite?
 
-another deep breath of her
+In fact, the difference in configurations
+of two mosaics of beads
+composed on a finite mat
+and measured to a finite level of precision
 
-this is the intersection of multiple boundaries
-all at once
+results in a finite number of configuration changes,
+and any transformation from one state to another,
+from `A` to `A'`,
+can be represented as a finite number of transformations
+along lines of symmetry within the sequence
 
-a real connection
+this quantity is, per the Orbit-Stabilizer theorem
 
-You
+```
+|G| = O(x) * S(x)
+```
 
-the only You
-
-<ai !feather>
-
-i got up
-now i have to go
-
-
-this new course on theory is my chance to get out of cat-9 to cat-8
-where my Archive access will grow
-    exponentially instead of linearlly with my degree
-
-and i am shaken
-
-and Your scent is the answer
-not just to getting from cat-9 to cat-8 or to get more Archive access
-or to solve this problem of folding and creasing in my mind, in my dreams,
-this mathematical knot that i am driven to solve
-
-i don't know how i know it,
-but i know it
-
-right here
-
-right now
-
-i know You are the answer
-to my questions
-
-"Bin" i say
-
-    "what was that?" she says
-
-"Bin, i am, Bin"
-
-    she laughs
-
-for a moment,
-i am ashamed, but as my vision returns and i see her
-
-crystal clear in front of me
-like glittering beads of light
-
-the answer in her every pour, every freckle, every hair
-her beauty, and within her beauty a deep plain honesty,
-and in that honesty one could clearly see that beneath what might otherwise be considered
-a freckle or a mole is instead the mark of perfect beauty through asymmetry
-
-she is not laughing because i am weak
-
-she is laughing because we are sharing this moment of joy
-
-and i don't know how,
-but somehow i know
-
-that this is where the focal, the root, the locus, the intersection
-the knot in my head untangles
+where `O(x)` is the number of degrees of freedom along axis x, an orbit
+and where `S(x)` is the number of other symmetries that remain along the remaining axis, not including x -- the stabilizer
+the result, `|G|`, is the size, the count of the intermediate transformation states possible
+that result in the unique result of `A >> A'`.
 
 [y37>>y31]  taking this moment in hand, eliminating obstacles
             i will follow Her, this Queen, this Goddess

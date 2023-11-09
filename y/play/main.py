@@ -25,7 +25,7 @@ def main():
 
     mat = Mat(win_mat, BACK, STAGE)
 
-    dash = DashWindow(fullscreen=DASH_FULLSCREEN, screen=screens[DASH_SCREEN])
+    dash = DashWindow()
     dash.mat = mat
 
     while True:
