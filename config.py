@@ -47,11 +47,10 @@ STAGE = MatImageList(_STAGE_FILES)
 # 1 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 2560 600 with 1920x1080
 # 2 Screen at <pyglet.canvas.xlib.XlibDisplay object at 0x7fd600f9e750> at 2560 0 with 1024x600
 
-DASH_SCREEN = 2
+DASH_SCREEN = 0
 PLAY_SCREEN = 1 
 
 PLAY_FULLSCREEN = True
-DASH_FULLSCREEN = True
 
 CAMERA = 1
 CAMERA_SLEEP = 0.5
@@ -64,5 +63,4 @@ if DEBUG:
     PLAY_SCREEN = 0
 
     PLAY_FULLSCREEN = False
-    DASH_FULLSCREEN = False
 
