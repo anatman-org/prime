@@ -1820,3 +1820,16 @@
 11-08-2023 12:13:59 | ERROR | next MatVideo(/work/cuts/ttb640a07bbbfdac_1.mp4@432.24918508529663) NO seek + 1
 11-08-2023 12:13:59 | DEBUG | resume MatVideo(/work/cuts/ttb640a07bbbfdac_1.mp4@432.24918699264526)
 11-08-2023 12:13:59 | INFO | TOOK /work/play/y34/20231108-121358-704492.png [27]
+11-09-2023 16:08:35 | DEBUG | next MatImageList(/work/marks/mark-chess.png@1)@1
+11-09-2023 16:08:36 | DEBUG | next MatImageList(/work/marks/mark-mod12.png@2)@2
+11-10-2023 09:18:41 | DEBUG | next MatImageList(/work/marks/mark-chess.png@1)@1
+11-10-2023 09:18:43 | DEBUG | next MatImageList(/work/marks/mark-mod12.png@2)@2
+11-10-2023 09:18:57 | DEBUG | pause MatVideo(/work/tmp/goddess.mp4@67.32848644256592)
+11-10-2023 09:18:59 | DEBUG | prev MatVideo(/work/tmp/goddess.mp4@66.32848644256592) seek -1
+11-10-2023 09:19:00 | ERROR | next MatVideo(/work/tmp/goddess.mp4@66.32848644256592) NO seek + 1
+11-10-2023 09:19:08 | DEBUG | pause MatImageList(/work/marks/mark-mod12.png@2) <None>
+11-10-2023 09:19:10 | DEBUG | resume MatVideo(/work/tmp/goddess.mp4@66.32849049568176)
+11-10-2023 09:19:14 | DEBUG | pause MatVideo(/work/tmp/goddess.mp4@70.04377889633179)
+11-10-2023 09:19:19 | DEBUG | resume MatVideo(/work/tmp/goddess.mp4@70.0437822341919)
+11-10-2023 09:19:51 | DEBUG | pause MatVideo(/work/tmp/goddess.mp4@101.70186638832092)
+11-10-2023 09:52:20 | DEBUG | pause MatVideo(/work/tmp/goddess.mp4@16.241366624832153)

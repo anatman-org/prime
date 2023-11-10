@@ -14,7 +14,7 @@ SEQUENCE="y34"
 USER=username()
 
 ###############################################################################
-DEBUG = False
+DEBUG = False 
 
 MEDIA_BASE_DIR = "/work"
 # MEDIA_BASE_DIR = str(Path().home())
@@ -28,9 +28,9 @@ FNAME_TEMPLATE = MEDIA_BASE_DIR + "/play/{SEQUENCE}/{now:%Y%m%d-%H%M%S-%f}.png"
 
 ###############################################################################
 
-BACK = MatSpin(file="img/enso.png", rotation_speed=6)
+# BACK = MatSpin(file="img/enso.png", rotation_speed=6)
 # BACK = MatImage(MEDIA_BASE_DIR + "/background.png")
-# BACK = MatVideo(MEDIA_BASE_DIR + "/cuts/ttb640a07bbbfdac_1.mp4", volume=0, loop=True)
+BACK = MatVideo(MEDIA_BASE_DIR + "/tmp/goddess.mp4", volume=1, loop=True)
 
 # _BACK_FILES = [str(f) for f in Path(MEDIA_BASE_DIR).glob("out/*/*.png")]
 # shuffle(_BACK_FILES)
@@ -52,7 +52,7 @@ PLAY_SCREEN = 1
 
 PLAY_FULLSCREEN = True
 
-CAMERA = 1
+CAMERA = 0
 CAMERA_SLEEP = 0.5
 SND_buzz = StaticSource(media_load("img/buzz.wav"))
 SND_shutter_start = StaticSource(media_load("img/shutter_start.wav"))

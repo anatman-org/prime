@@ -108,6 +108,11 @@ A wise woman once told me,
 > So when those like Desmond Tutu -- who suffered with his people generations of oppression -- say things, it is worth trying to understand them completely
 > in context
 
+lalla says,
+
+    let your body wear your knowing
+    let your heart sing songs
+
 so this is all an invitation beyond the borders of this art
 into what other people think, can think, may think,
 
