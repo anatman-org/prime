@@ -2,6 +2,7 @@
 title: xa.Qaree.Bin.ia
 references:
   - BZyzX4c1vIs
+  - https://youtu.be/G9RpHfPyEx8
 ---
 born academy category 9 shui.f76c396d-5da4-4ba6-93e4-4b80e7adc16b
 
@@ -73,6 +74,35 @@ the eyes of the one everyone knows as Feather
 Her dark, dark Eyes pierced me
 and Our lives were woven together.
 And when She sang "bean" She was talking about me.
+
+And when she sang,
+
+    Tell me, "You're the best thing"
+    I tell you, "That's what you need"
+    Rolling on those good looks
+    Maybe it's just enough
+    I know you dream of snowfields
+    Floating high above the trees
+    Living for the new thing
+    Sometimes the new won't do
+
+    Kisses, Born desert sun
+    Kisses, Born desert sun
+    Kisses, Born desert sun
+
+    Maybe there's a car there
+    Driving away from here
+    Taking all the ghosts, the hurt
+    Well, everything starts anew
+    Tell mе what you need, what's right
+    Whatever is just enough
+    Is living with thе truth, a start
+    Maybe it's just enough
+
+    Kisses, Born desert sun
+    Kisses, Born desert sun
+    Kisses, Born desert sun
+
 
 i'm just the scrap of paper she left behind.
 
