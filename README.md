@@ -1,16 +1,16 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
-references:
-  - 4Eo84jDIMKI
-  - KN1zO-ejJvE
-  - JRLjpXLEp1A
 ---
 
-# The Annotated Manual to the Glass Bead Game
+through the constantly shifting things
 
-The game is not to be stolen.
+  showing for one another
+  and sheltering each other
 
-It may seem unreal, but in the end, it is simply speaking,
-speaking through a language of glass beads.
+is all that matters
 
+  You and me
+
+and the most honest understanding of that
+at every level my mind can conceive
 
