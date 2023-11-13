@@ -14,4 +14,22 @@ currently assigned
         editor [https://anatman.org](The Annotated Guide of the Glass Bead Game)
 
 
+# Story of the name "bean"
+
+Every once in a while, someone is born with the name "Bean"
+but that is not my real name.
+
+My real name is xa.Qaree.Bin.ia,
+or in CE Xabinia Qareeb.
+
+When i was born,
+my mother died.
+
+i learned later how this changed
+the dynamic of my family.
+Why my older brother would torture me.
+Why my father would ignore me.
+It was my fault, after all, right?
+
+
 
