@@ -67,4 +67,12 @@ in a machismo, obscene sort of joke.
   Never to my face, the cowards.
   Sometimes it is okay to hate what wants to be evil, to cause suffering to others.
 
+So when i woke up, pulling myself off the street,
+a light, shaped by the outline of clear, blue sky, clouds,
+the eyes of the one everyone knows as Feather
+Her dark, dark Eyes pierced me
+and Our lives were woven together.
+And when She sang "bean" She was talking about me.
+
+i'm just the scrap of paper she left behind.
 
