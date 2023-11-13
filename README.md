@@ -4,9 +4,13 @@ title: The Annotated Manual to the Glass Bead Game
 
 # The Annotated Manual to the Glass Bead Game
 
-
 The Game has always had one and one objective only,
 and that is the Honest Investigation of Reality.
+
+Like Feather said,
+
+  See, your hair,
+  the beautiful strands that flow down from Heaven
 
 This investigation defies the biases that come with one time and place,
 and so the players of the game dig deep into languages forgotten, imagined, and unimagined.
