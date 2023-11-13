@@ -1,24 +1,22 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
 references:
-  - 4Eo84jDIMKI
+  - GimLuOUVkxg
 ---
 
 # The Annotated Manual to the Glass Bead Game
 
-It is said that, "To learn the Game is easy, to live it, hard.
-The search for what is real is no simple matter."
+A constantly shifting thing,
+The Game has existed through the countless ages
+as different names and as differnt things.
 
-This investigation is the essence of the Game.
-In this respect, whether one uses fifty glass beads on a surface,
-or sticks or yarrow stalks or coins or cards,
-or the empirical method, or a deep faith, or a burning love,
-or nothing at all,
-it doesn't matter.
+In each time and place,
+The Game has conformed to the requirements
+of the place and the time.
 
-All that matters is curiousity,
-and specifically the curiousity of one's self.
+But the Game has always had one and one objective only,
+and that is the Honest Investigation of Reality.
 
-And as we all stumble down this path
-we choose to Leave a Trace
+
+
 
