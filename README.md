@@ -4,23 +4,44 @@ title: The Annotated Manual to the Glass Bead Game
 
 # The Annotated Manual to the Glass Bead Game
 
-A constantly shifting thing,
-The Game has existed through the countless ages
-as different names and as differnt things.
 
-In each time and place,
-The Game has conformed to the requirements
-of the place and the time.
-
-But the Game has always had one and one objective only,
+The Game has always had one and one objective only,
 and that is the Honest Investigation of Reality.
 
-It may come as a shock, like a sledgehammer,
-but there can never be anything wrong in
+This investigation defies the biases that come with one time and place,
+and so the players of the game dig deep into languages forgotten, imagined, and unimagined.
+And out of that has emerged, through countless centuries of refinement,
+a game of glass beads.
 
-  kicking a bad habit
-  and going dancing in
-  showing for one another
-  and sheltering each other
+Compared most often to the art of music,
+the Game is a composition of glass beads, arranged in a sequence
+to express something.
+
+In this, players will often harmonize deeply,
+resonating as it were,
+with their environment.
+That is,
+players listen intently,
+and play the Glass beads as if to express the otherwise inexpressible,
+but to associate it as much with experiences of others.
+
+There, beyond what we normally consider "meaning"
+in the space between what is already explainable, as
+
+  behavior of a player conditioned --
+      by training, by restraint, by guilt, by shame,
+      by clever intent but obvious objective,
+
+and
+
+  what is pure random noise
+
+the rhythms that arise from this,
+the harmonious arrangement of beads,
+is a pure field of creativity.
+It is where pur joy and freedom intersect.
+
+So those that learn to play and learn to read
+can record these experiences, as best as one might imagine.
 
 
