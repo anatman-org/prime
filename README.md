@@ -44,4 +44,9 @@ It is where pur joy and freedom intersect.
 So those that learn to play and learn to read
 can record these experiences, as best as one might imagine.
 
+Because in the difference,
+between the ordered, trained, conditioned mind
+
+and the desires of the soul that nudge, compel, and impulse one --
+that difference is the essence of one's self.
 
