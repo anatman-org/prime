@@ -1,7 +1,5 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
-references:
-  - GimLuOUVkxg
 ---
 
 # The Annotated Manual to the Glass Bead Game
@@ -17,6 +15,12 @@ of the place and the time.
 But the Game has always had one and one objective only,
 and that is the Honest Investigation of Reality.
 
+It may come as a shock, like a sledgehammer,
+but there can never be anything wrong in
 
+  kicking a bad habit
+  and going dancing in
+  showing for one another
+  and sheltering each other
 
 
