@@ -1,0 +1,24 @@
+[user]
+	name = Thornton Prime
+	email = thornton.prime@gmail.com
+
+[push]
+	default = matching
+
+[core]
+	quotepath = false
+
+[url "https://23ae1306fc4111ab282dd986d75fa7ab405dc2d4:x-oauth-basic@github.com/"]
+	insteadOf = https://github.com/
+
+[pull]
+	rebase = false
+
+[init]
+	defaultBranch = main
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
