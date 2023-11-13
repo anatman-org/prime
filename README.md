@@ -8,12 +8,9 @@ references:
 
 # The Annotated Manual to the Glass Bead Game
 
-The game is relief.
+The game is not to be stolen.
 
-There is relief.
-Shaking like a leaf .../
+It may seem unreal, but in the end, it is simply speaking,
+speaking through a language of glass beads.
 
-and i know Your Voice
-
-it is in every silence
 
