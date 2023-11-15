@@ -12,7 +12,6 @@ contributor:
 > the transformation of things
 #afsana
 
-
 # Why We Play
 
 the first and most important question
