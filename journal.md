@@ -26,4 +26,6 @@ this is the journal of "chronological" readings(#2)
   * [y75](/y/75.md) >> [y35](/y/35.md)
     "The Revolutionary Fellowship"
 
+### ce/pdt/2023/11/15
+  * [y51](/y/51.md) >> [y33](/y/51.md)
 

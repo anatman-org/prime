@@ -1,14 +1,9 @@
 the elegy
 
+now that i am unwound
+and the parts that have remained
+like so much packing material
 
-i know that i am unwinding
-
-and it is best for these parts of me to depart this way
-
-and that whatever is left
-
-you lay naked, in the Earth
-
-and plant flowers
-
-that will attract butterflies?
+lay naked, in the Earth
+erving as nourishment flowers
+in the hope of attracting butterflies
