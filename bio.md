@@ -154,11 +154,14 @@ Until we began to exhibit our Yi coinciding manifest.
 
 For my sister, that was the ability to visualise end-states.
 That is, given a complex game or puzzle, she could identify the solution faster than AI.
-She has solved many postulates, including some that are provably true, but for which there can be no formal proof.
+She has solved many problems,
+including some that are provably true,
+but for which there can be no formal proof, so they will remain conjectures.
 
 My ability is complementary, in that unable to visualize end-states,
 i can clearly see the branching paths of a complex system or maze,
 identifying and ranking the probability of opportunity and risk in each of the branches
 faster than AI.
+
 
 
