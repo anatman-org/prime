@@ -46,4 +46,18 @@ and knowing her own state relative to the virtues
 this is to practice the game with skill and wisdom,
 and proper understanding of the Game.
 
+This is a good reminder that the Game
+is just a Game, and that whether played,
+as Heraclitus states,
+
+  as childgrem playing with pebbles
+
+or as some grand display,
+like the elegant and enduring displays of Zi'zi,
+it is, just a game.
+
+The real significance comes in recognizing
+how the arrangements we make
+tell truths about ourselves.
+
 

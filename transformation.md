@@ -1,56 +1,53 @@
 ---
-title: stages
+title: the transformation of things
 ---
+i remember
 
-i am working on a project,
-an art composition of sorts
+i, zhuang zhou,
+dream i am a butterfly
 
-it is a series of glass bead mosaics
-that tell stories
+a butterfly
+flitting about
+with no care
 
-the stories are centered around
-characters, from different times,
-past and future
+  except those cares of a butterfly
 
-they all play this same game,
-a game inspired by herman's book
-*The Glass Bead Game*
-a book inspired by zhuang's dream
-which has inspired many others
+    of how the sun warms my wings
+    of which way the breeze blows
 
-the game beads translate into semantic meaning
-in multiple ways
+    of which flower in the meadow to alight on
+    of how to fill my belly with nectar
 
-one of the ways is that the
-beads form binary data
-which can be interpreted as *Yijing* readings
+      and i have forgotten
+      the life of the caterpillar
 
-    in this, i am trying to represent
-    the span of human writing,
-    from etchings on tortise shells
-    to the binary formats of today
+      and i don't yet feel the compulsion
+      to dance the mating dance
 
-    and all the tools humans have used
-    to explore knowledge of
+  and one hot day
+  gathered at the edge of a puddle in the shade
+  as i doze away, i dream of
+  zhuang zhou
 
-    the heavens and earth
-    and the myriad living things in between
-    and people
-    and ourselves
+and (rudely?) awakening
+i am again, zhuang zhou
+  the same old zhuang zhou
 
-in addition to the "frames" --
-    represented as photographs of glass bead mosaics
-    either as image or video files
-there is a "Manual"
-which can be read as an interpretation of the *Yijing*
-which is a product of the collaboration of
-this collection of characters
+  zhuang zhou
+  with the regrets and shames and triumphs and prides
+  of this old man
 
-this, *The Annotated Guide to the Glass Bead Game*,
-or anatman
-can also be taken as a work of fiction
-as each character reflects on their intepretation
-of game sequences
-with the thoughts and dreams of their own lives
+how is it that i
+remember this dream of a butterfly?
+how does the butterfly dream of me?
 
+there is undeniably a difference
+between man and butterfly
 
+but this shared experience says something
+something that i can't quite place in words
+
+but i call it the
+transformation of things
+
+this is the essence of **Yi**
