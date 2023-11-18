@@ -29,3 +29,9 @@ this is the journal of "chronological" readings(#2)
 ### ce/pdt/2023/11/15
   * [y51](/y/51.md) >> [y33](/y/51.md)
 
+### ce/pdt/2023/11/17
+  * [y10](/y/10.md) >> [y50](/y/50.md)
+
+### ce/pdt/2023/11/18
+  * [y53](/y/53.md) >> [y46](/y/46.md)
+
