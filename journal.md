@@ -12,7 +12,7 @@ this is the journal of "chronological" readings(#2)
 
 ### ce/pdt/2023/10/29 [y15](/y/15.md) >> [y16](/y/16.md)
 
-  enduring abundan ce
+  enduring abundance
 
 ### ce/pdt/2023/10/28 [y54](/y/54.md) >> [y64](/y/64.md)
 
@@ -45,7 +45,4 @@ this is the journal of "chronological" readings(#2)
 ### ce/pdt/2023/11/19 [y00](/y/00.md) >> [y12](/y/12.md)
 
   the root, released, untied
-
-### ce/pdt/2023/11/15
-  * [y51](/y/51.md) >> [y33](/y/33.md)
 
