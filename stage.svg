@@ -7,7 +7,7 @@
    viewBox="0 0 507.99999 285.75"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="stage.svg"
    inkscape:export-filename="../../../data/mark-smith-3.png"
    inkscape:export-xdpi="96"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.8249964"
-     inkscape:cx="959.39812"
-     inkscape:cy="540.00236"
-     inkscape:window-width="2269"
-     inkscape:window-height="1175"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:zoom="0.84166667"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer12"
      showgrid="false"
@@ -42,7 +42,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="deep"
-     style="display:none;opacity:1;mix-blend-mode:normal"
+     style="display:inline;opacity:1;mix-blend-mode:normal"
      sodipodi:insensitive="true"
      inkscape:highlight-color="#000000"><rect
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-dashoffset:0"
@@ -64,12 +64,12 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="knot"
-     style="display:inline"><g
+     style="display:none"><g
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="root"
        sodipodi:insensitive="true"
-       style="display:inline"><image
+       style="display:none"><image
          width="438.03592"
          height="285.75"
          preserveAspectRatio="none"
@@ -226,7 +226,7 @@
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="thorn"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true"><image
          width="508"
          height="345.20459"
@@ -240,7 +240,7 @@
          width="508"
          height="508.35229"
          preserveAspectRatio="xMidYMid"
-         style="display:none;image-rendering:optimizeQuality"
+         style="display:inline;image-rendering:optimizeQuality"
          xlink:href="img/wave-001.png"
          id="image1-5"
          x="-2.4999999e-06"
@@ -249,7 +249,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="stage_marks"
-     style="display:none;opacity:1;mix-blend-mode:normal"
+     style="display:inline;opacity:1;mix-blend-mode:normal"
      inkscape:highlight-color="#d91ad9"
      sodipodi:insensitive="true"><g
        id="g5"
@@ -377,7 +377,7 @@
            inkscape:groupmode="layer"
            id="layer6"
            inkscape:label="mod 12"
-           style="display:none;mix-blend-mode:normal;stroke:#4d4d4d"
+           style="display:inline;mix-blend-mode:normal;stroke:#4d4d4d"
            sodipodi:insensitive="true"><circle
              style="display:inline;mix-blend-mode:normal;fill:none;stroke:#00ffff;stroke-width:7.63087;stroke-dasharray:7.63087, 7.63087"
              id="path2-96-6"
@@ -584,7 +584,7 @@
            inkscape:groupmode="layer"
            id="layer17"
            inkscape:label="smith"
-           style="display:inline"
+           style="display:none"
            transform="translate(-1.5567986,5.3819017)"
            sodipodi:insensitive="true"><g
              id="g11"
@@ -29604,7 +29604,7 @@
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#0a0a0a"
-   points="34.3,349.24 33.73,349.21 33.54,352.61 34.11,352.64 "
+   points="33.54,352.61 34.11,352.64 34.3,349.24 33.73,349.21 "
    id="polygon3066" />&#10;	</g>&#10;	<g
    id="ARC_358_">&#10;		&#10;			<path
    fill="none"
@@ -29628,7 +29628,7 @@
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#0a0a0a"
-   points="44.7,383.54 45.27,383.51 45.14,380.59 44.57,380.61 "
+   points="45.14,380.59 44.57,380.61 44.7,383.54 45.27,383.51 "
    id="polygon3068" />&#10;	</g>&#10;	<g
    id="ARC_360_">&#10;		&#10;			<path
    fill="none"
@@ -29677,7 +29677,7 @@
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#0a0a0a"
-   points="69.5,491.13 70.02,490.91 68.88,488.21 68.36,488.43 "
+   points="68.88,488.21 68.36,488.43 69.5,491.13 70.02,490.91 "
    id="polygon3071" />&#10;	</g>&#10;	<g
    id="ARC_363_">&#10;		&#10;			<path
    fill="none"
@@ -29751,7 +29751,7 @@
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#0a0a0a"
-   points="68.64,223.15 68.14,222.89 66.61,225.94 67.12,226.19 "
+   points="66.61,225.94 67.12,226.19 68.64,223.15 68.14,222.89 "
    id="polygon3075" />&#10;	</g>&#10;	<g
    id="ARC_367_">&#10;		&#10;			<path
    fill="none"
@@ -30958,7 +30958,7 @@
            inkscape:label="yin-yang"
            style="display:inline;fill:#1a1a1a;stroke:#f9f9f9" /></g></g><g
        id="g21"
-       style="display:inline;opacity:1;mix-blend-mode:normal;fill:none;stroke:#ffff00"
+       style="display:none;opacity:1;mix-blend-mode:normal;fill:none;stroke:#ffff00"
        transform="translate(4.2015384,11.117684)"
        inkscape:label="bandits"
        sodipodi:insensitive="true"><g
