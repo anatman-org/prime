@@ -60,7 +60,8 @@ beauty of their shape and outline,
 all in white
 
 and then
-[ai "There is another side to the mountain."]
+
+> there is another side to the mountain
 
 i realized that it was turned around
 and everything was lined up differently
@@ -68,10 +69,61 @@ i was seeing it from the Remainder side
 
 > these entries are critical to the operation of
 > the Learning Corporation
-> not only in the development of individuals,
-> but [ai] has noted there are some future correlations,
-> like "skips" through time
-> where thoughts and feelings recur in remarkably similar, even predictable, ways
-> that are are the same time seemingly, impossibly coincidental
 
+> they serve as a sort of reconciliation,
+> where the ai attempts to correct and preserve
+> any records of an individual's experience
+> that need special attention per the user's instruction
+
+an act of reconciliation?
+
+no, a camera cannot reconcile one with anything
+nor can it see a real mountain
+
+the camera does not know what it takes
+
+it captures materials with which you reconstruct,
+not so much what you saw as what you thought you saw
+
+hence the best photography is aware, mindful,
+of illusion and uses illusion,
+permitting and encouraging it --
+
+especially unconscious and powerful illusions
+that are not normally admitted on the scene
+
+> not only in the development of individuals,
+> but there are correlations -- like "skips" or rhythms through time --
+> where thoughts and feelings recur in remarkably similar, even predictable, ways
+> that are at the same time seemingly, impossibly coincidental
+
+> correlations are noted to map to specific categories of transformations,
+> for example the following dream might be coincidental if one read it
+> just as a fly came and alighted on one's neck
+> gazing across a field to Your bee hive:
+
+nonviolent Himalayan bees
+
+after one had lit on me quietly three times without stinging,
+i let it crawl on my head a while,
+picking up sweat for some eclectic and gentle honeycomb,
+or just picking up sweat for no reason.
+
+another crawled on my hand
+and i studied it
+
+Certainly a bee.
+
+i could not determine whether it was stingless,
+or just well behaved
+
+> these records also typically close with a ritual acknowledgement by the user
+> of the reality of change
+
+how everything has changed!
+
+> or
+
+#1d7a14fc/2.35.6
+this is the transformation of things
 

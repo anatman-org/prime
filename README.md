@@ -1,33 +1,24 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
 references:
-  - GimLuOUVkxg
+  - 
 ---
 
 # The Annotated Manual to the Glass Bead Game
 
-# ∃ < ∀ < ∞
+this project takes the technique of erasure poetry
+and weaves it with a fictional narrative in an attempt
+to weave a world that has characteristics that might resemble
+leGuin, Borges, or philip.K.dick.
 
-This fundamental statement,
-that what exists -- what i truly know to exist --
-is smaller than what is.
-That is, i am a finite being,
-and my flaws, imperfections, absences, and failures
-are regrettable, but also quite predictable.
 
-While i imagine myself to be complex
-and exercising free will,
-my failures and mistakes are consequences of my own conditioning.
+in this work,
+characters, historical and fictional,
+interact by communicating through a common medium
 
-so, if in the infinity of things
-i choose to condition myself in something
-
-instead of passively entertaining experiences
-i actively shape them,
-direct them guide them
-
-toward some specific purpose?
-
-this is the Game
-
+it is a world that is expressly interwoven with Herman Hesse's
+Glass Bead Game
+and consequently, the
+Chinese classic, the
+Yijing (I Ching)
 
