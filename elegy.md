@@ -66,5 +66,12 @@ i realized that it was turned around
 and everything was lined up differently
 i was seeing it from the Remainder side
 
+> these entries are critical to the operation of
+> the Learning Corporation
+> not only in the development of individuals,
+> but [ai] has noted there are some future correlations,
+> like "skips" through time
+> where thoughts and feelings recur in remarkably similar, even predictable, ways
+> that are are the same time seemingly, impossibly coincidental
 
 
