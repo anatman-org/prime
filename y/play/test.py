@@ -87,6 +87,21 @@ def list_ports():
         dev_port +=1
     return available_ports,working_ports,non_working_ports
 
+
+def snapshot_test():
+    from cv2 import VideoCapture, imwrite
+
+    CAMERA = 1
+    
+    camera = VideoCapture(CAMERA)
+
+    result, image = camera.read()
+
+    if not result:
+        raise Exception(f"Failed to get result frm camera {CAMERA}")
+
+    size = imwrite("test.png", image)
+
 def config_test():
     from config import BACK
 
@@ -95,6 +110,5 @@ def config_test():
 
 
 if __name__ == "__main__":
-    list_ports()
+    snapshot_test()
 
-    # config_test()
