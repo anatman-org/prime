@@ -37,6 +37,6 @@ by date of departure
   * [knecht] - Magister Ludi Joseph Knecht
   * [zizi]
   * [bean] - magister Ludi Xabinia Kareeb   Magister Ludi xa'Qaree'B'in'ia
-  * [root] - magister Ludi martin Root      m.Ludi.gbd.1764 ma'R'T't'n
-  * [*]    - m.aux.tr.09a9ff Hypatia afsan                  * h'pt'i'A'PF'SAN'a
+  * [root] - magister Ludi martin Root      m.Ludi.gbd.0000.013544   ma'R'T't'n
+  * [*]    - m.aux.tr.2000.324777 Hypatia afsan                  * h'pt'i'A'PF'SAN'a
 

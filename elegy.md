@@ -1,5 +1,7 @@
 ---
 title: elegy
+ref:
+  - 599c33b1/184
 ---
 
 > It may be unfamiliar to some people in other times and cultures
@@ -25,13 +27,44 @@ title: elegy
 
 i remember
 
-before We met
+> and consist of "playing" a game --
+> a children's game, much like marbles,
+> with no specific goal other than to develop
+> children's cognitive-tactile neural development
 
-i studied Her
-without even knowing
-i was studying Her
+> over centuries, the record of games
+> weaves in and out of history
+> represented in different ways and times
+> sometimes as with sticks and other times with stones
+> in later centuries this evolved to the manipulation of glass beads
+> on a flat surface.
 
-Nu was unhappy, restless and
-  -- through my suggestion --
-decided to 
+> Over time, these have evolved,
+> to different rules, different schools, different disciplines
+> but the consistency of the binary representation
+> offers some "noise" at least which to quantitatively map
+> human experience across millennia
+
+> these games can be personal, deeply intimate,
+> as one plays only with one's personal interface to the ai data network
+> this maps one's inner identity to a foreign surface
+
+> these things can be as simple as a dream, like ...
+
+i was looking at the mountain
+and it was pure white, absolutely pure,
+especially the peaks that lie to the west
+
+and i saw the pure
+beauty of their shape and outline,
+all in white
+
+and then
+[ai "There is another side to the mountain."]
+
+i realized that it was turned around
+and everything was lined up differently
+i was seeing it from the Remainder side
+
+
 
