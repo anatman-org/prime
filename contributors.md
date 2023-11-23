@@ -36,7 +36,7 @@ by date of departure
   * [roger] - Magister Ludi Michael Penrose Roger (posthumous First Magister Ludi)
   * [knecht] - Magister Ludi Joseph Knecht
   * [zizi]
-  * [bean] - Magister Ludi xa'Qaree'B'in'ia
-  * [root] - Magister Ludi Martin Root
-  * [?] - h'pt'i'af'sa'na
+  * [bean] - magister Ludi Xabinia Kareeb   Magister Ludi xa'Qaree'B'in'ia
+  * [root] - magister Ludi martin Root      m.Ludi.gbd.0000.013544   ma'R'T't'n
+  * [*]    - m.aux.tr.2000.324777 Hypatia afsan                  * h'pt'i'A'PF'SAN'a
 

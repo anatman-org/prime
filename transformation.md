@@ -1,53 +1,142 @@
 ---
 title: the transformation of things
 ---
-i remember
 
-i, zhuang zhou,
-dream i am a butterfly
+    how eveything has changed
+      anicca! [599c33b1#185]
 
-a butterfly
-flitting about
-with no care
+    this is known as the transformation of things [1d7a14fc#2.35.6]
 
-  except those cares of a butterfly
+Three photos, three doors
 
-    of how the sun warms my wings
-    of which way the breeze blows
+  (they are one door)
 
-    of which flower in the meadow to alight on
-    of how to fill my belly with nectar
+  1
+    the door of emptiness
+        of no-where
+        of no place
+    for a self which cannot be entered by a self
 
-      and i have forgotten
-      the life of the caterpillar
+    and therefore is of no use
+    to someone who is going somewhere
 
-      and i don't yet feel the compulsion
-      to dance the mating dance
+    is it a door at all?
+    the door of no-door?
 
-  and one hot day
-  gathered at the edge of a puddle in the shade
-  as i doze away, i dream of
-  zhuang zhou
+    2
+    the door without sign
+        without indicator
+        without information
+        not particularized
 
-and (rudely?) awakening
-i am again, zhuang zhou
-  the same old zhuang zhou
+lost in the random noise
+the static of existence
 
-  zhuang zhou
-  with the regrets and shames and triumphs and prides
-  of this old man
+    hence no one can say of it
+        "This is it! This is the door."
+    it is not recognizable as a door
+    it is not led up to by other things pointing to it:
+        "We are not it, but that is it — the door."
+    No signs saying
+        "Exit."
+    no use looking for indications
+    any door with a sign on it
+        any door that proclaims itself to be a door
+            is not the door
+    but do not look for a sign saying
+        "Not-door."
+    or even
+        "No Exit."
+    [599c33b1#186]
 
-how is it that i
-remember this dream of a butterfly?
-how does the butterfly dream of me?
+yet at the same time,
 
-there is undeniably a difference
-between man and butterfly
+    all things that exist are marks of emancipation [584c6dd3]
 
-but this shared experience says something
-something that i can't quite place in words
+    where there is no measure
+    there is no "thing"
+    in this void
+how can
+    you speak of "cause"
+    or of "chance"?
+how can
+    you speak of "things"
+    where there is "no-things"
 
-but i call it the
-transformation of things
+    to name a name
+    is to delimit a "thing"
+    [67197b1e#153]
 
-this is the essence of **Yi**
+
+  3
+    the door without wish
+    the undesired
+    the unplanned door
+    the door never expected
+    never wanted
+    not desirable as door
+
+    not a joke
+        not a trap door
+    not select
+        not exclusive
+    not for a few
+    not for many
+    not for
+
+    door without aim
+    door without end
+    
+    does not respond to a key --
+    so do not imagine you have a key
+    do not have your hopes on possession of the key
+    there is no use asking for it
+
+    yet you must ask
+    who?
+    for what?
+
+    when you have asked for a list of all the doors
+    this one is not on the list
+
+    when you have asked the numbers of all the doors
+    this one is without a number
+
+it is Cantor's paradoxical door -- there is no set of all cardinalities
+
+    do not be deceived into thinking this door is
+        merely hard to find
+    and
+        difficult to open
+
+    when sought it fades
+            recedes
+            diminishes
+            is nothing
+
+    there is no threshold
+    no footing
+
+    it is not empty space
+    it is neither this world nor another
+    it is not based on anything
+
+    because it has no foundation
+        it is the end of sorrow
+    nothing remains to be done
+    therefore there is no threshold
+        no step
+        no advance
+        no recession
+        no entry
+            no nonentry
+
+    such is the door that ends all doors
+        the unbuilt
+        the impossible
+        the undestroyed
+    through which all the fires go when they have
+    "gone out"
+
+or "nibbana" (nirvana)
+
