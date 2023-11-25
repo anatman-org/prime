@@ -22,3 +22,28 @@ and consequently, the
 Chinese classic, the
 Yijing (I Ching)
 
+
+
+
+This results in an ongoing stream of discourse
+across space and time
+bridging cultural and other individual distinctions
+so that these people are able to communicate acoss barriers
+in a common language of binary representation of sixty-four key ideas.
+
+A single concept may appear in many different forms,
+for example:
+
+```
+  00o001
+  886887
+  yin + yin + old yin + yin + yin + yang
+  y40>y44&y01>y11
+```
+
+these all translate roughly to
+
+> downfall[y40] still[y44]
+> surprise[y11] return[y01]
+
+
