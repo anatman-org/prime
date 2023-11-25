@@ -1,12 +1,12 @@
 ---
-title: root
+title: Michael Roger Penrose
 ---
 
-this fictional person from the far future,
-the last of a long line of ritual archivists
-obsessed with records of a game consisting of glass beads
-
-i am somewhere between philip.K.dick and borges
-with leGuin,vonnegt,bean,rumi,
-
+My real name is Michael Roger, but I gave myself the name Penrose
+because I am a big fan of Roger Penrose and I think I am his reincarnation
+because I was watching the pattern of birds that fly by my window
+and because I am a pattern matching specialist, I thought they might be a message,
+and applying Roger Penrose's equations on quantum consciousness to these patterns of birds
+I was able to decode the data stream that is now known as Anatman --
+The Annotated Manual to the Glass Bead Game.
 
