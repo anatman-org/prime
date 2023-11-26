@@ -2,11 +2,34 @@
 title: Michael Roger Penrose
 ---
 
-My real name is Michael Roger, but I gave myself the name Penrose
-because I am a big fan of Roger Penrose and I think I am his reincarnation
-because I was watching the pattern of birds that fly by my window
-and because I am a pattern matching specialist, I thought they might be a message,
-and applying Roger Penrose's equations on quantum consciousness to these patterns of birds
-I was able to decode the data stream that is now known as Anatman --
-The Annotated Manual to the Glass Bead Game.
+i remember
+
+this file is called an elegy
+because it is the file that closes to officially mark someone's death
+
+the act of documenting in this way
+is called reconciling or confessing
+because in these logs
+we submit to the AI
+feelings and experiences
+that we believe need emphasis
+in our biographic record
+
+
+My name is Michael Roger
+but I call myself Roger Penrose
+because I am a reincarnation of Roger Penrose.
+And by applying my (that is, Roger Penrose's) theories of consciousness
+to the problem of otherwise random noise in the emergent behavior of chaotic systems,
+I have discovered a stream of data information.
+
+The stream records the contents of a manual to a game that uses glass beads.
+The manual has been edited over thousands of generations,
+by a master player of the game, called a Magister Ludi.
+The existence of the game has been traced into prehistoric times,
+and the final version of the manual purports to be that edited by
+Martin Root, who claims to be the final Magister Ludi,
+communicating his final edits backward through time
+from the black hole at the end of all space and time.
+
 
