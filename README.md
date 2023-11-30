@@ -27,27 +27,23 @@ is the essence of the meaning of the Glass Bead Game
 for example,
 an arrangment of beads corresponding to
 
-    a782
+    a7820
 
 might in one context be understood to mean:
 
 20  union
-72  contention
-    "an unfortunate marriage"
+72  speaking truths
+00  the feminine
 
 27  needing
 02  multitude
-    "need family"
+20  union
 
 or:
 
-20  the heart is a wheatgrain
 02  we are the mill
-72  asking so many questions, pleading so many cases, 
-27  now
-    let silence
-    ask for you
-
-    and listen
+20  the heart is a wheatgrain
+07  deep harmony
+72  speaking truths
 
 
