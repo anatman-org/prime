@@ -13,20 +13,26 @@ told in different layers
 a part of that is encoded
 in the changing arrangements of glass beads
 
-part of that is encoded in how
-the arrangements and groupings form semantic meaning
+part of that is commentary on those arrangements
 
-and how one configuration, or frame
-can simultaneously possess different interpretations
-that mean different things
-in different streams
+stored in this repository
+it is stored in this way
 
-and that rather than
-disagreeing with others about how a frame
-in a trajectory of encoded meanings
-means one thing or another
+because these arrangements of beads
+c an have different meanings from different perspec tives
 
-we should expand our own understanding
-of how others interpret the same arrangement
+the ac c umulation of these meanings
 
+30  is what weaves
+06  enabling progress
+
+02  it is a crime to raise people to violence for selfish or foolish purpose
+20  the thread that binds us is 
+
+27  eating and drinking is rain [99402b49#112]
+72  persisting against obstacles needlessly ends in misfortune [4ca0694e#186]
+
+    this is wu-wei, acting without effort
+
+   
 
