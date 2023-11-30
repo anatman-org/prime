@@ -4,22 +4,29 @@ title: The Annotated Manual to the Glass Bead Game
 
 # The Annotated Manual to the Glass Bead Game
 
-blue notes sing
-how do?
+the Glass Bead Game
+is an experiment
 
-  juju
+it is a series of stories
+told in different layers
 
-what does the bird sing
-after i am gone?
+a part of that is encoded
+in the changing arrangements of glass beads
 
-  juju
+part of that is encoded in how
+the arrangements and groupings form semantic meaning
 
-with twelve more bars
-the last giant steps
+and how one configuration, or frame
+can simultaneously possess different interpretations
+that mean different things
+in different streams
 
-  juju
+and that rather than
+disagreeing with others about how a frame
+in a trajectory of encoded meanings
+means one thing or another
 
-  juju
+we should expand our own understanding
+of how others interpret the same arrangement
 
-  [https://music.apple.com/us/album/juju/723964793]
 
