@@ -39,4 +39,15 @@ might in one context be understood to mean:
 02  multitude
     "need family"
 
+or:
+
+20  the heart is a wheatgrain
+02  we are the mill
+72  asking so many questions, pleading so many cases, 
+27  now
+    let silence
+    ask for you
+
+    and listen
+
 
