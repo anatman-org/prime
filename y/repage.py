@@ -6,8 +6,8 @@ from csv import reader as  csv_reader
 
 from fitz import Document
 
-fname = "read/The Man of Many Qualities (Siu) [503bbcad].pdf"
-fnew = "The Man of Many Qualities (Siu) [503bbcad].pdf"
+infile = "../read/I Ching (Lynn) [4ca0694e].pdf"
+outfile = "4ca0694e.pdf"
 
 startpage = 18
 
