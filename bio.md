@@ -6,7 +6,7 @@ references:
 ---
 born academy category 9 shui.f76c396d-5da4-4ba6-93e4-4b80e7adc16b
 
-[] published "category theory of game mechanics: coincidence metrics"
+published "theory of game mechanics: coincidence metrics"
 
 currently assigned
 
