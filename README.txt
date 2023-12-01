@@ -1,5 +1,5 @@
 ---
-title: hypatia afsana; the final penultimate song
+title: the final penultimate song
 ---
 
 a1  896
@@ -18,6 +18,8 @@ c4  789
         y65>24
         w37>39/38>40
         obstruction family / alienation obstacles
+
+        https://music.apple.com/us/album/glass-enclosure/723510786
 
 [*]     every category of obstruction
         every obstacle needing confronting
@@ -40,6 +42,10 @@ d0  989
         the end / near the end
           the yin: dark feminine / the yang: clear masculine     
 
+        https://prajna.io/c4ffe000-6413-4796-846a-de2a2fe3858e
+        https://prajna.io/87a6323e-6667-4dd0-92c6-e38e5e8a8f76
+        https://music.apple.com/us/album/houses-of-the-holy-remastered/580707916
+
 [*]     the approaching end of the bright, the clear, the known
         leaving what remains
 
@@ -52,12 +58,4 @@ d0  989
         "thelonius", which means Lord
         is succeeded with "giant steps"
         which completes in "peace piece"
-
-        https://prajna.io/c4ffe000-6413-4796-846a-de2a2fe3858e
-        https://prajna.io/87a6323e-6667-4dd0-92c6-e38e5e8a8f76
-
-
-
-
-    
 
