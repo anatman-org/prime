@@ -109,11 +109,18 @@ d0  989
 
             i live for my dreams
             
-[zhuang]    [
-            mellow is the man
-            who knows what he's been missing
+            mellow is the one [1d7a14fc@2.414.2]
+            who knows what she's been missing
 
             many, many men
             can't see the open road
       
-          
+            many is the word
+            that only leaves you guessing
+
+            guessing bout a thing
+            you really ought to know
+        
+            i really otta know
+            you know i should you know i should
+
