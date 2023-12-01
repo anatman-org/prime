@@ -37,5 +37,27 @@ d0  989
         ䷾>䷁
         y25>y00
         w63>2/64>1
-        
+        the end / near the end
+          the yin: dark feminine / the yang: clear masculine     
+
+[*]     the approaching end of the bright, the clear, the known
+        leaving what remains
+
+        the dark, receptive conclusion to every story
+        to which every coincidence points
+
+        the mystery unsolved, but obvious
+        the song unplayed, uncomposed, unconceived        
+
+        "thelonius", which means Lord
+        is succeeded with "giant steps"
+        which completes in "peace piece"
+
+        https://prajna.io/c4ffe000-6413-4796-846a-de2a2fe3858e
+        https://prajna.io/87a6323e-6667-4dd0-92c6-e38e5e8a8f76
+
+
+
+
+    
 
