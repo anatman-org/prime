@@ -32,4 +32,10 @@ a0  898
 [*]     the end in sight forebodes
         downfall of long-established identities and relations
 
+a0  898
+d0  989
+        ䷾>䷁
+        y25>y00
+        w63>2/64>1
+        
 
