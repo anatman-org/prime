@@ -3,8 +3,16 @@ title: elegy
 ---
 
 
+replenishing relief / exhausting hardship
+```
+  a1  896
+  e2  978
+          ䷯>䷧
+          y26>12
+          w48>40/47>39
+```
 
-# obstruction family / alienation obstacles
+obstruction family / alienation obstacles
 ```
   e2  978
   c4  789 
@@ -14,7 +22,7 @@ title: elegy
 ```
 
 
-# the impending collapse of old things
+the impending collapse of old things
 ```
   c4  789 
   a0  898
@@ -22,4 +30,8 @@ title: elegy
           y52>40
           w64>23/63>24
 ```
+
+bad times,
+ending ...
+
 
