@@ -19,3 +19,24 @@ of privilege and all that shit
 
   and has committed to figuring it out
 
+in this classist society
+where i have been in the second of the five classes --
+  safe, protected from both the desperate violence of the Firsts
+    described to me in detail
+    and still i am protected --
+      categorized as i am
+      the "unsuited for core power entitlement, restrict to class two"
+
+  safe, protected from the dehumanizing toil of the fourths and fifths
+    described to me in detail
+    and still i am protected --
+      categorized as i am
+      the "priority lifespan entitlement"
+
+  safe, protected from the morally compromised consciences of thirds,
+    described to me in detail
+    and still i am protected --
+      categorized as i am
+      with "reward curiosity"
+
+
