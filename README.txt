@@ -59,3 +59,13 @@ d0  989
         is succeeded with "giant steps"
         which completes in "peace piece"
 
+        and the faint echoes of the desolate void whispers
+
+          everything that is small will grow
+
+          everything that is small will grow
+
+[lalla] all that remains
+        is to sing Out
+
+        What is worship?
