@@ -92,5 +92,28 @@ d0  989
           only somewhat something moving
           dreamlike on a fading doar
           [e83c3655@22]
-    
 
+[bean]    # Over and Far Away
+          # by: Feather
+          # based on 'Over the Hills and Far Away' by Led Zeppelin (ce1973)
+          
+            many have i loved, and many have i bitten
+            many times i've gazed upon the open road
+
+            many times i've lied and many times i've listened
+            many times i've wondered
+                                  how much there is to know
+            
+            many dreams come true
+                and some have silver linings
+
+            i live for my dreams
+            
+[zhuang]    [
+            mellow is the man
+            who knows what he's been missing
+
+            many, many men
+            can't see the open road
+      
+          
