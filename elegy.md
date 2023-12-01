@@ -2,17 +2,24 @@
 title: elegy
 ---
 
-# the impending collapse of old things
 
+
+# obstruction family / alienation obstacles
+```
+  e2  978
+  c4  789 
+          ䷤>䷦
+          y65>24
+          w37>39/38>40
+```
+
+
+# the impending collapse of old things
 ```
   c4  789 
   a0  898
           ䷿>䷖
-          y52>y40
-          w64>w23
-```
-
-```
-  the approaching end / downfall
+          y52>40
+          w64>23/63>24
 ```
 
