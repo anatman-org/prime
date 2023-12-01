@@ -68,4 +68,29 @@ d0  989
 [lalla] all that remains
         is to sing Out
 
-        What is worship?
+          What is worship? Who ...
+          and this woman bringi...
+
+          What kinds of flowers sho...
+          and what stream water pou...
+
+          Real worship is donw by the i...
+          (Let that be a man) and by the ...
+          (Let that be a woman). And let thc...
+          choose what to sacr..
+
+          The...
+          fr...
+          [e83c3655@73]
+
+          In this state there is no Shiva, {certainly no lalla}
+          nor any holy union,
+
+[merton]  free of all conceptions
+[zhuang]  free of trying to be or not be
+
+          only somewhat something moving
+          dreamlike on a fading doar
+          [e83c3655@22]
+    
+
