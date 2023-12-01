@@ -1,34 +1,35 @@
 ---
-title: elegy
+title: hypatia afsana; the final penultimate song
 ---
 
+a1  896
+e2  978
+        ䷯>䷧
+        y26>12
+        w48>40/47>39
+        replenishing relief / exhausting hardship
 
-  a1  896
-  e2  978
-          ䷯>䷧
-          y26>12
-          w48>40/47>39
-          replenishing relief / exhausting hardship
+[*]     witnessing every essential need
+        every exhausting hardship
 
-  e2  978
-  c4  789 
-          ䷤>䷦
-          y65>24
-          w37>39/38>40
-          obstruction family / alienation obstacles
+e2  978
+c4  789 
+        ䷤>䷦
+        y65>24
+        w37>39/38>40
+        obstruction family / alienation obstacles
 
+[*]     every category of obstruction
+        every obstacle needing confronting
 
-  c4  789 
-  a0  898
-          ䷿>䷖
-          y52>40
-          w64>23/63>24
-          the impending collapse of old things
+c4  789 
+a0  898
+        ䷿>䷖
+        y52>40
+        w64>23/63>24
+        the impending collapse of old things
 
-bad times
-both in needing replenishing and exhausting hardship,
-both in obstruction within and without
-
-ending ...
+[*]     the end in sight forebodes
+        downfall of long-established identities and relations
 
 
