@@ -1,13 +1,10 @@
 ---
 title: elegy
 ---
-i remember
 
-days where i seem so lucky ...
-as if life is a musical soundtrack,
-  strangely appropriate to my life,
-  and even exposing rhythms,
-  with predictable correlations to plot
+  c4  789 
+  a0  898
+          ䷿>䷖ y52>y40 w64>w23
 
-but how to document these strange things?
+  [wayne shorter / teru]
 
