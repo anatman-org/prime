@@ -1,10 +1,13 @@
 ---
-title: root
+title: thornton Prime
 ---
 
-this fictional person from the far future,
-the last of a long line of ritual archivists
-obsessed with records of a game consisting of glass beads
+a dude who spent his whole life,
+making every decision to try to figure out
+why he always seemed to avoid the worst of things ...
 
-that make the sound of [pannonica / thelonius monk]
+as if he could know,
+by coincidence
+and his every failure would somehow plant seeds
+that grow into ... joy?
 
