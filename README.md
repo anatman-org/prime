@@ -1,24 +1,49 @@
 ---
 title: The Annotated Manual to the Glass Bead Game
-references:
-  - 
 ---
 
 # The Annotated Manual to the Glass Bead Game
 
-this project takes the technique of erasure poetry
-and weaves it with a fictional narrative in an attempt
-to weave a world that has characteristics that might resemble
-leGuin, Borges, or philip.K.dick.
+the Glass Bead Game
+is an experiment
 
+it is a series of stories
+told in different layers
 
-in this work,
-characters, historical and fictional,
-interact by communicating through a common medium
+a part of that is encoded
+in the changing arrangements of glass beads
 
-it is a world that is expressly interwoven with Herman Hesse's
-Glass Bead Game
-and consequently, the
-Chinese classic, the
-Yijing (I Ching)
+part of that is commentary on those arrangements
+
+stored in this repository
+it is stored in this way
+
+because these arrangements of beads
+c an have different meanings from different perspec tives
+
+the ac c umulation of these meanings
+is the essence of the meaning of the Glass Bead Game
+
+for example,
+an arrangment of beads corresponding to
+
+    a7820
+
+might in one context be understood to mean:
+
+20  union
+72  speaking truths
+00  the feminine
+
+27  needing
+02  multitude
+20  union
+
+or:
+
+02  we are the mill
+20  the heart is a wheatgrain
+07  deep harmony
+72  speaking truths
+
 
