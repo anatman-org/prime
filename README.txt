@@ -39,7 +39,7 @@ d0  989
 e2  978
         ䷱>䷆
         y56>02
-        w50>7/49>8 
+        w50/49>7/8 
         "inner transformation multitude / outer transformation connection"
 
         the cooking pot symbolizes inner transformation
@@ -50,7 +50,7 @@ e2  978
 90  889
         ䷩>䷇
         y61>20
-        w42>8/41>7
+        w42/41>8/7
         "increasing multitude / decreasing connection"
 
         a bowl, overslowing with water symbolizes increasing
