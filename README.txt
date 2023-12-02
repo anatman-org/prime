@@ -57,9 +57,9 @@ e2  978 ☴>☵
         w42/41>8/7
         "increasing multitude / decreasing connection"
 
-        a bowl, overslowing with water symbolizes increasing
+        a bowl, overflowing with water symbolizes increasing
           a single sapling next to a closing container symbolizes decrease, or an end to growth
-        the stake in the ground, with flags parading around symbolizes multitude
-          the connection is symbolized by two people bowing together
+        the connection is symbolized by two people bowing together
+          the stake in the ground, with flags parading around symbolizes multitude
 
         
