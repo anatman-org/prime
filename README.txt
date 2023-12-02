@@ -1,28 +1,43 @@
 ---
-title: the undifferentiated ocean at the end of existence
+title: 
 ---
 
 a1  896
+        ...
+
 e2  978
         ䷯>䷧
         y26>12
         w48>40/47>39
+        "the root relief / exhausting hardship"
 
-e2  978
 c4  789 
         ䷤>䷦
         y65>24
         w37>39/38>40
+        "household hardship / diversity relief"
 
-c4  789 
 a0  898
         ䷿>䷖
         y52>40
         w64>23/63>24
+        "nearing completion downfall / completing return"
 
-a0  898
 d0  989
         ䷾>䷁
         y25>y00
         w63>2/64>1
+        "completion dark and fecund / near completion growth"
+
+e2  978
+        ䷱>䷆
+        y56>02
+        w50>7/49>8 
+        "inner transformation multitude / outer transformation connection"
+        
+90  889
+        ䷩>䷇
+        y61>20
+        w42>8/41>7
+        "increasing multitude / decreasing connection"
 
