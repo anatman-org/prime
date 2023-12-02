@@ -2,28 +2,30 @@
 title: 
 ---
 
-a1  896
-        ...
+a1  896 ☵>☳
+e2  978 ☴>☵
 
-e2  978
         ䷯>䷧
         y26>12
         w48/47>40/39
         "the root relief / exhausting hardship"
 
-c4  789 
+c4  789 ☲>☶
+
         ䷤>䷦
         y65>24
         w37/38>39/40
         "household hardship / diversity relief"
 
-a0  898
+a0  898 ☵>☷
+
         ䷿>䷖
         y52>40
         w64/63>23/24
         "nearing completion downfall / completing return"
 
-d0  989
+d0  989 ☲>☷
+
         ䷾>䷁
         y25>y00
         w63/64>2
@@ -36,7 +38,8 @@ d0  989
           where the complete is the curtain falling
           and nearing completion is the curtain rising
 
-e2  978
+e2  978 ☴>☵
+
         ䷱>䷆
         y56>02
         w50/49>7/8 
@@ -47,7 +50,8 @@ e2  978
         the stake in the ground, with flags parading around symbolizes multitude
           the connection is symbolized by two people bowing together
         
-90  889
+90  889 ☳>☷
+
         ䷩>䷇
         y61>20
         w42/41>8/7
