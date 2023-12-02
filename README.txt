@@ -41,3 +41,10 @@ e2  978
         w42>8/41>7
         "increasing multitude / decreasing connection"
 
+Here, Brown and Roach ask, "What am I here for?"
+It is worth examining at this point, because the last verses
+speak of both transformation -- inner and outer --
+and an increase in multitude while a decrease in the small,
+personal connections.
+
+
