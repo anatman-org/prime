@@ -399,6 +399,126 @@ the academic games are ..."
 
 "yes, thank you"
 
+silent for a moment
+
+  "sorry,
+  i guess we should order"
+  she whispers
+  as if we are some conspirators
+  "do you have any favorites?"
+
+"the pork and shrimp are good"
+
+  "that sounds good
+  should we just get a few others ...
+  and share?"
+
+"oh yes!"
+share
+that
+
+i remember
+i am on a date
+with her
+
+"How long have you been working at the stand?
+i mean, i hadn't seen you before ..."
+
+before my embarrassing collision
+before the day that was both the worst and best of my life
+
+  "Oh, that!?
+
+  that was my first day here"
+
+"here ... in the Sop?"
+
+of course, i realized
+she seems too ...
+  cheerful
+to be a Four or Five by birth
+she must be a Two or Three
+and service must be some ...
+
+  "here in the Knot"
+
+"oh ... oh?
+You're not from the Knot?"
+
+  "no"
+
+"From Farpoint?"
+Farpoint is where all the Twos are
+
+  "i'm from G'on't"
+
+"G'on't? the farm ... ?"
+
+  "yeah!"
+  she seems excited
+  elated suddenly
+
+  "it's been a wild few weeks!"
+
+you and me
+"So what brought you to the Sop? and the Knot?"
+
+  "well,
+  i ...
+
+  ... it's a little embarrassing
+  but i sing"
+
+she intrigues me in every way
+"really? what kind of?"
+
+  "oh, i don't know if i have a style
+  i just sing like the pop that ..."
+  she trails off
+
+    "are you ready to order"
+
+we order
+we talk
+
+about music
+about math
+about game
+
+about memories
+
+about how she got the name Feather
+
+    "anything else i can get you?"
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i feel unearthed
+like all that was buried in me
+is now ready to breathe
+
+as i step out of the lobby into the street
+i say honestly, earnestly,
+but quietly, below the din of the street
+"we should do this again"
+
+i walk down the street and stop
+
+  i get a message from her: "when?"
+
 
 
 
