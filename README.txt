@@ -1,65 +1,66 @@
----
-title: 
----
-
-a1  896 ☵>☳
-e2  978 ☴>☵
-
-        ䷯>䷧
-        y26>12
-        w48/47>40/39
-        "the root relief / exhausting hardship"
-
-c4  789 ☲>☶
-
-        ䷤>䷦
-        y65>24
-        w37/38>39/40
-        "household hardship / diversity relief"
-
-a0  898 ☵>☷
-
-        ䷿>䷖
-        y52>40
-        w64/63>23/24
-        "nearing completion downfall / completing return"
-
-d0  989 ☲>☷
-
-        ䷾>䷁
-        y25>y00
-        w63/64>2
-        "completion / near completion"
-
-        boats crossing a shore shows some great task being accomplished
-          it is shown complete with a person beside a cooking vessel ("the meal is finished")
-          it is shown near, but still incomplete, with a sapling
-        these also appear as curtains,
-          where the complete is the curtain falling
-          and nearing completion is the curtain rising
-
-e2  978 ☴>☵
-
-        ䷱>䷆
-        y56>02
-        w50/49>7/8 
-        "inner transformation multitude / outer transformation connection"
-
-        the cooking pot symbolizes inner transformation
-          the opened, flayed skin symbolizes shedding one's outer skin
-        the stake in the ground, with flags parading around symbolizes multitude
-          the connection is symbolized by two people bowing together
-        
-90  889 ☳>☷
-
-        ䷩>䷇
-        y61>20
-        w42/41>8/7
-        "increasing multitude / decreasing connection"
-
-        a bowl, overflowing with water symbolizes increasing
-          a single sapling next to a closing container symbolizes decrease, or an end to growth
-        the connection is symbolized by two people bowing together
-          the stake in the ground, with flags parading around symbolizes multitude
 
         
+
+edutitlum sezilobmys dnuora gnidarap sgalf htiw ,dnuorg eht ni ekats eht          
+rehtegot gniwob elpoep owt yb dezilobmys si noitcennoc eht        
+htworg ot dne na ro ,esaerced sezilobmys reniatnoc gnisolc a ot txen gnilpas elgnis a          
+gnisaercni sezilobmys retaw htiw gniwolfrevo ,lwob a        
+
+"noitcennoc gnisaerced / edutitlum gnisaercni"        
+7/8>14/24w        
+02>16y        
+䷇>䷩        
+
+☷>☳ 988  09
+        
+rehtegot gniwob elpoep owt yb dezilobmys si noitcennoc eht          
+edutitlum sezilobmys dnuora gnidarap sgalf htiw ,dnuorg eht ni ekats eht        
+niks retuo s'eno gniddehs sezilobmys niks deyalf ,denepo eht          
+noitamrofsnart renni sezilobmys top gnikooc eht        
+
+"noitcennoc noitamrofsnart retuo / edutitlum noitamrofsnart renni"        
+ 8/7>94/05w        
+20>65y        
+䷆>䷱        
+
+☵>☴ 879  2e
+
+gnisir niatruc eht si noitelpmoc gniraen dna          
+gnillaf niatruc eht si etelpmoc eht erehw          
+,sniatruc sa raeppa osla eseht        
+gnilpas a htiw ,etelpmocni llits tub ,raen nwohs si ti          
+)"dehsinif si laem eht"( lessev gnikooc a ediseb nosrep a htiw etelpmoc nwohs si ti          
+dehsilpmocca gnieb ksat taerg emos swohs erohs a gnissorc staob        
+
+"noitelpmoc raen / noitelpmoc"        
+2>46/36w        
+00y>52y        
+䷁>䷾        
+
+☷>☲ 989  0d
+
+"nruter gnitelpmoc / llafnwod noitelpmoc gniraen"        
+42/32>36/46w        
+04>25y        
+䷖>䷿        
+
+☷>☵ 898  0a
+
+"feiler ytisrevid / pihsdrah dlohesuoh"        
+04/93>83/73w        
+42>56y        
+䷦>䷤        
+
+☶>☲ 987  4c
+
+"pihsdrah gnitsuahxe / feiler toor eht"        
+93/04>74/84w        
+21>62y        
+䷧>䷯        
+
+☵>☴ 879  2e
+☳>☵ 698  1a
+
+---
+ :eltit
+---
