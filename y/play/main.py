@@ -11,7 +11,6 @@ from config import *
 
 
 def main():
-
     display = get_display()
     screens = display.get_screens()
 
@@ -29,7 +28,6 @@ def main():
     dash.mat = mat
 
     while True:
-
         tick()
         platform_event_loop.step(1 / 30)
 

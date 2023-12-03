@@ -7,7 +7,7 @@ from invoke import task
 from slugify import slugify
 
 
-HOSTNAME=platform.node()
+HOSTNAME = platform.node()
 
 
 try:
@@ -27,8 +27,6 @@ EXCLUDE = ["bits", "snap", "tmp", "lfs"]
 
 @task
 def bits_update(ctx, bitbase):
-
-
     bitdir = Path(bitbase)
 
     if not (bitdir / "bits").is_dir():

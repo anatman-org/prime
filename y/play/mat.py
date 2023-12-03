@@ -19,7 +19,6 @@ from config import *
 
 
 class Mat:
-
     window = None
     background = None
     stage = None
@@ -29,7 +28,6 @@ class Mat:
     pos = 0
 
     def __init__(self, window, background, stage, *args, **kwargs):
-
         self.window = window
         self.window.config.alpha_size = 8
 

@@ -19,10 +19,10 @@ DEFAULT_BLOCKSIZE = 8192
 _HEX_RE = re_compile("[0-9a-f]{64}")
 _LFS_DIR_RE = re_compile("^.*/[0-9a-f]{2}/[0-9a-f]{2}$")
 
+
 def store(
     bit_dir: Union[Path, str], file: BinaryIO, blocksize: int = DEFAULT_BLOCKSIZE
 ) -> str:
-
     # Convert bit_dir to a Path
     if not isinstance(bit_dir, Path):
         bit_dir = Path(bit_dir)
@@ -33,7 +33,6 @@ def store(
     file_hash = sha256()
 
     with NamedTemporaryFile(dir=(bit_dir / "tmp")) as tmp_file:
-
         while buffer := file.read(blocksize):
             file_hash.update(buffer)
             tmp_file.write(buffer)
@@ -53,13 +52,11 @@ def store(
 
 
 def check(bit_dir: Union[Path, str], blocksize: int = DEFAULT_BLOCKSIZE) -> None:
-
     # Convert bit_dir to a Path
     if not isinstance(bit_dir, Path):
         bit_dir = Path(bit_dir)
 
     for file in bit_dir.rglob("*"):
-
         if file.is_dir():
             continue
 
@@ -85,7 +82,6 @@ def sync(
     dest_dir: Union[Path, str],
     blocksize: int = DEFAULT_BLOCKSIZE,
 ) -> None:
-
     import paramiko
 
     source_dir = Path(source_dir)
@@ -96,7 +92,6 @@ def sync(
     sftp = ssh.open_sftp()
 
     for local_dir in Path(source_dir).glob("*/*"):
-
         if not _LFS_DIR_RE.match(str(local_dir)):
             continue
 
@@ -115,7 +110,6 @@ def sync(
 
 
 if __name__ == "__main__":
-
     import sys
 
     if not len(sys.argv) > 2:
@@ -125,7 +119,6 @@ if __name__ == "__main__":
     bit_dir = sys.argv[2]
 
     match cmd:
-
         case "store":
             if not len(sys.argv) > 3:
                 print("Not enough arguments")

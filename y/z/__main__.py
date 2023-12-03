@@ -11,7 +11,6 @@ def z_help():
 
 
 def md():
-
     from sys import stdout, stdin
     from json import dump
 
@@ -28,9 +27,7 @@ if __name__ == "__main__":
     from sys import argv
 
     if len(argv) > 1:
-
         match argv[1]:
-
             case "md":
                 md()
                 exit()
