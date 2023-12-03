@@ -18,6 +18,7 @@ by date of departure
   * [zhuang](https://en.wikipedia.org/wiki/Zhuang_Zhou) - 庄周
     zhuang, also known by his personal name, zhou
   * [hypatia](https://en.wikipedia.org/wiki/Hypatia)
+    "the daughter of Alexandria"
   * [rumi](https://en.wikipedia.org/wiki/Rumi)
   * [lalla](https://www.poetseers.org/spiritual-and-devotional-poets/sufi-poets/lalla/)
     author of the vakyas
