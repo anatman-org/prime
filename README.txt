@@ -1,3 +1,10 @@
+
+  "conjoining (enduring) / feminine principle"
+  34>00
+  w31(w32)>w2
+
+  
+
 b0  899 ☱>☷
 
 c0  988 ☶>☷
