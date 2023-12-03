@@ -480,20 +480,73 @@ she intrigues me in every way
 
 we order
 we talk
-
 about music
+
+we order
+we talk
 about math
+
+we order
+we talk
 about game
 
+we order
+we talk
 about memories
-
-about how she got the name Feather
 
     "anything else i can get you?"
     
+  she looks at me
 
+i smile
+but she can see i can't eat more
 
+  "no, i think we ..."
+  
+      he collects her entitlements
+      then mine
+      he turns to her again
+        he wants something else from her, but doesn't say it
+      he turns to me
+        the look says, "get out"
 
+  "so where was i?"
+  she gathers herself
+  as if she is ready to get up and leave
+
+i move my chair out
+and stand
+"You were going to tell me
+how You got the name Feather?"
+
+  she works herself out of the booth
+  "oh, yes"
+  she seems to ponder as she heads for the door
+i follow
+
+  outside on the street
+    the traffic is loud
+  as we walk
+but i hear her clearly
+
+  "my parents they
+
+  they love each other so much
+
+  and they always wanted a baby
+  but it never seemed to happen"
+
+"on G'on't?"
+
+  "yes, they are both seaweed harvesters"
+
+"that sounds hard?"
+
+  "they are happy"
+  she stops and smiles warmly
+
+i realize we've walked a block or so
+i don't know where we are going
 
 
 
@@ -521,9 +574,7 @@ i walk down the street and stop
 
 
 
-
 b0  899 ☱>☷
-
 c0  988 ☶>☷
 
   "noitcennoc noitamrofsnart retuo / edutitlum noitamrofsnart renni"        
