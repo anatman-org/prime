@@ -1,14 +1,14 @@
+b0  899 ☱>☷
+
 c0  988 ☶>☷
 
   "noitcennoc noitamrofsnart retuo / edutitlum noitamrofsnart renni"        
-   8/7>94/05w        
-  20>65y        
 
+  ䷨>䷆
   rehtegot gniwob elpoep owt yb dezilobmys si noitcennoc eht          
   edutitlum sezilobmys dnuora gnidarap sgalf htiw ,dnuorg eht ni ekats eht        
   niks retuo s'eno gniddehs sezilobmys niks deyalf ,denepo eht          
   noitamrofsnart renni sezilobmys top gnikooc eht        
-  ䷆>䷱        
 
 b2  879 ☱>☵
 
@@ -27,21 +27,15 @@ b2  879 ☱>☵
 d0  989 ☲>☷
 
 "nruter gnitelpmoc / llafnwod noitelpmoc gniraen"        
-42/32>36/46w        
-04>25y        
-䷖>䷿        
 
 898
 
 "feiler ytisrevid / pihsdrah dlohesuoh"        
-04/93>83/73w        
 
 987
 
 "pihsdrah gnitsuahxe / feiler toor eht"        
-䷧>䷯        
 
-
---
- eltt
 -
+elt
+
