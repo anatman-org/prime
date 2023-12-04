@@ -489,6 +489,19 @@ you and me
   ... it's a little embarrassing
   but i sing"
 
+"that's great i say,
+i listen"
+
+  she laughs
+
+at least
+that is what i tell myself i said
+but i'm not that smooth
+i'm clumsy
+
+but earnest
+and curious
+
 she intrigues me in every way
 "really? what kind of?"
 
@@ -497,8 +510,17 @@ she intrigues me in every way
   she trails off
 
     "are you ready to order"
+the server startles me
+    i can see he is going to make some gloating comment
 
-we order
+  "another round of them all
+  I'm starved!"
+  she hands him the menus
+  polite, but dismissive
+                                                      did she see his agression toward me
+                                                      and thwart it so skillfully?
+    he leaves
+
 then an awkward silence
 
   she laughs
