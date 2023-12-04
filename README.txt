@@ -1,5 +1,10 @@
 
 
+in this
+nothing
+
+i become
+at some point
 
   "humble dynamic / enthusiastic equilibrium"
   04>07
