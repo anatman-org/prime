@@ -484,49 +484,21 @@ you and me
 "So what brought you to the Sop? and the Knot?"
 
   "well,
-  i ...
-
-  ... it's a little embarrassing
-  but i sing"
-
-"that's great i say,
-i listen"
-
+  i ..."
   she laughs
-
-at least
-that is what i tell myself i said
-but i'm not that smooth
-i'm clumsy
-
-but earnest
-and curious
-
-she intrigues me in every way
-"really? what kind of?"
-
-  "oh, i don't know if i have a style
-  i just sing like the pop that ..."
-  she trails off
 
     "are you ready to order"
 the server startles me
-    i can see he is going to make some gloating comment
 
   "another round of them all
   I'm starved!"
+
   she hands him the menus
-  polite, but dismissive
-                                                      did she see his agression toward me
-                                                      and thwart it so skillfully?
     he leaves
 
-then an awkward silence
+an awkward silence
 
-  she laughs
-
-is she laughing at me?
-
+  she laughs again
   "sorry,
   this man ..."
   she points up
@@ -535,25 +507,18 @@ as if by coincidence
         she can't possibly have perfectly lined up
         her finger to the man on the corner
         across the busy intersection
-        behind a pane of glass
+        on the other side of a pane of glass
         behind her?
         without so much as turning around
 
   "he is selling that whole
     Brotherhood of the Golden Sun
-
   bullshit"
         
 it is the first time i've heard her swear
 the word
   bullshit"
 is so sexy on her lips
-her expression flashes, from inquisitive to enthused
-i realize she saw me turned on -- it was a test and i passed
-  inside, she likes to swear a little
-sexy
-she is showing some of this truth of her to me
-no
   bullshit"
 
 "yeah, i'm not fans of the Brotherhood
@@ -564,34 +529,36 @@ inside, i wish AI would declare the Brotherhood a deviation,
   "yeah,
 
   this whole nonsense of 'going back to the land of the Golden Sun'
+                          [prime: The Golden Sun or,
+                          'The Brotherhood of the Golden Sun'
+                          is a group that arose in the late LC.sh'ui
+                          It advocated for return to 'the land of the Golden Sun'
+                          which was also, apparently, heavily invested in
+                          a strictly patriarchal and competitive society]
+
   seems so childish
-
-  you can't go back
-
-  even if that magical past
-  was as idyllic as you think
-
-  you can't go back
-
   it doesn't work that way
 
   i mean, things go in circles,
   but we aren't at the center
-  we're still at the edge"
+  we're still at the edge
 
-                          i had never thought of it that way
+  the stage is on the inside, not the outside,
+  and we are at the edge and not in the middle"
 
-                          this is a different perspective on solving
-                          the problem of causal direction in all manifolds
+it reminds me of what i'm working on ...
+                                        a manifold that has
+                                        an infinite external edge
+                                        and a singularity at the center
 
-                            instead of trying to prove time is symmetrical,
-                            find out what everything seems to be pointing to?
+                                        or a category with an infinite number of composable morphisms,
+                                        but with some identities that can't be composed
+                                        because they are 'pulled in' to a causal singularity
+"a manifold?" i mumble
 
-                          [prime: Bean later credits Feather for inspiring
-                          the Causal Principle of Coincidence.]
-
-"all manifold" i mumble
-
+  she flashes in quick succession a whole array of amazing looks ...
+    earnest interest, deep understanding
+    happiness, and finally a strange, quizzical look
   she laughs
   "what a great way of describing that masculine shit
       'all man-i-folded'"
@@ -914,6 +881,17 @@ but right now i am finely tuned to her
   warm up? you're shivering"
 
 i notice i am shivering
+and i'm breathing as if my chest is being crushed
+i feel a little light-headed
+my cheeks blush
+
+  "i think you'd better come in"
+  now she takes my hand
+
+  and leads me to the
+  door
+
+[
 
 
 i feel unearthed
