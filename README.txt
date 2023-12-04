@@ -1098,6 +1098,12 @@ i can see it was difficult
   they only make the players and discs
   for fisher-folk ... no network bandwidth on the open seas
 
+for a moment it all seems familiar
+as if i have amnesia, and that this is replaying in my head
+
+reminding me
+of what i've forgotten
+
   
   
 
@@ -1126,6 +1132,14 @@ i can see it was difficult
         eye-to-eye
         like diamonds in the sky
         [https://youtu.be/4mVo93E9wpU]
+
+                                            so what is She at the centering swiriling dance
+                                            that is me?
+
+                                          what leads me to wave flags and dance?
+
+                                                am i listening closely?
+                                                    a fainter tune ... a harmony arising in the mist ...
 --- 
 i feel unearthed
 like all that was buried in me
@@ -1140,14 +1154,6 @@ but quietly, below the din of the street
 i walk down the street and stop
 
   i get a message from her: "when?"
-
-                                            so what is She at the centering swiriling dance
-                                            that is me?
-
-                                          what leads me to wave flags and dance?
-
-                                                am i listening closely?
-                                                    a fainter tune ... a harmony arising in the mist ...
 
     y63>y02
 
