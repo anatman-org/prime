@@ -1,8 +1,4 @@
 
-  "humble dynamic / enthusiastic equilibrium"
-  04>07
-  w11(w12)>w15(w16)
-  
 
 00  888  ☷
 
@@ -334,7 +330,7 @@ my ...
 
 it was hard after my mother died
 and i dreamed of getting out of the class my father was in ...
-the best thing seemed if i could get into cat2
+the best thing seemed if i could get into Second
 
 because those kids don't like with their parents"
 
@@ -344,7 +340,7 @@ because those kids don't like with their parents"
 "and it was easy to get lost in the Sop
 and spend the day in the public Archive"
 
-  "So you weren't born cat2?"
+  "So you weren't born Second?"
 
 "No, i ... and
 now it looks like i'm getting moved to
@@ -353,10 +349,10 @@ Advanced Learning?"
   "what's that?"
   she sounds excited
 
-"It's kind of this magical land for cat2
+"It's kind of this magical land for Seconds
 where people go to just work on advanced ideas
 i'm not sure anyone in my rank or grade even know
-
+  ...
 not even my super"
 
   "that sounds like an adventure!"
@@ -513,9 +509,14 @@ but she can see i can't eat more
   "no, i think we ..."
   
       he collects her entitlements
-      then mine
+        then mine
+
       he turns to her again
         he wants something else from her, but doesn't say it
+
+i sense this hurt, this jealousy
+that i had won a contest that i didn't deserve to win
+
       he turns to me
         the look says, "get out"
 
@@ -563,6 +564,12 @@ i nod
   she continues,
   "she's a natural caregiver
   i guess that's why she's a good fit for my dad"
+
+---
+  "humble dynamic / enthusiastic equilibrium"
+  04>07
+  w11(w12)>w15(w16)
+---
 
   "he's a lazy oaf and a dreamer,
     but he loved me more than anyone could imagine"
@@ -655,6 +662,46 @@ and that you had a standard ... ?"
 been named by their mother"
 i'm a little caught off guard
 i mean i know it happens
+
+but only for those with
+the entitlements
+for Bureaucratic Specialists
+
+it is one of those tasks people joke about
+that only the Firsts can afford
+
+everyone else
+no family name -- no family allegiance
+
+AI assigns us to work
+we go
+
+  "yeah
+  my mom"
+  she sighs
+  laughs again
+
+  magical
+
+  "this is me"
+
+"your parents sound wonderful
+of course i can see how you came to be so ..."
+i realize she's stopped
+
+  she points at the building next to us
+
+i am so stupid
+"oh, well ...
+i had a great time
+i really enjoyed hearing about how you, your parents, ..."
+
+  she tilts her head
+
+          am i supposed to kiss
+          those precious lips?
+
+  
 
 
 
