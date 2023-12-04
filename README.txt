@@ -147,7 +147,7 @@ half-flirting exchange
 instead of turning away in shyness,
 i let her hands
 
-linger
+[linger](https://youtu.be/G6Kspj3OO0s)
 
 in mine
   as she passes me the coffee
@@ -582,7 +582,7 @@ i am very intrigued
 
 i realize we've walked a block or so
 i don't know where we are going
-but follow her
+but follow
 
   "when my mom and dad got a license for natural procreate
   it was the end of my mom's natural fertility period
@@ -600,27 +600,53 @@ but follow her
   as if she wanted to make sure
   precisely where each foot landed
 
-  "and they had a choice
+  "they thought nothing
+  could go wrong
+    but they were wrong ..."
+
+  and they had a choice
   to risk early delivery at twenty four weeks
   or my mom might have died"
 
+i think to myself
+that i don't know how she can get by
+  with such a painful memory that wasn't hers
+  how she almost killed her own mother
+without lying
+
+  she is so honest
+
 we stop
-i grab her arm
 i can see her eyes are watery
+
+i gently put my fingers around her arm
+  she has me wrapped around her finger
+
+  we linger
+her sleeve radiates her warmth
+
+  she smiles
 
   "all this happened long before i remember!
   and they are around and fine, both!
 
   but when i was born
-  my dad looked through the glass at me and said
+  my dad looked through the glass at me and whispered
 
-      "she looks light as a feather"
+      'she looks light as a feather'
 
-  and my mom was in recovery
-  and she knew all the nurses
+  and the nurses started calling me his litte feather
+    they all knew my mother -- there's only one hospital on G'on't
 
-  and they wouldn't let them register a name for me
-  until both she and i were out of danger"
+    and she was popular and well respected
+  but my dad's devotion to her and to me made them love us
+
+later i learn that -- even then -- they would
+call themselves 'Feather's Army'  
+and they still form the core of her fans
+
+  and they -- the nurses -- wouldn't let them register a name for me
+  until both my mom and i were out of danger"
 
 i am caught in her story
 and in the beauty of her expression
@@ -690,6 +716,7 @@ of course i can see how you came to be so ..."
 i realize she's stopped
 
   she points at the building next to us
+  106
 
 i am so stupid
 "oh, well ...
