@@ -1162,6 +1162,11 @@ i walk down the street and stop
 
   i get a message from her: "when?"
 
+i message back
+it's already morning, "tonight"
+
+  "okay, let's meet at Wygal's"
+
     y63>y02
 
 e0  998 ☴>☷
