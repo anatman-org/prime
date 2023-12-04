@@ -1090,48 +1090,63 @@ i can see it was difficult
   how about some music?
 
 "yours?"
-  she pauses ... "not ... not yet
+  she pauses ... "maybe not yet"
 
-  sometimes i sing things i shouldn't
-  there's no way to hold it
+after three cups of tea
+i pursuade her
 
-  i just can't control it"
-"you make me want to hear it more"
+  "okay, but these aren't my words, just my music
+    just some words stuck in my head
 
-  
-  
+  it's called
+    Kandy Express
 
----
+    inward parcels
+    outward parcels
 
-  at some point,
-  we peer togther out the window
+    lordy blue ponds
+    standing in a river, water pouring over
 
-  her window is shielded from the glow of the ring
-  by mist rising from the exhaust manifold
+    beat-up pails
+    coconuts, bananas
 
-  but the wind from the sea blows the mists
-  away from her corner of the Sop
+    little boy in a yellow suit too big hat
+    walks tracks with brother
 
-  revealing
-  a handful of stars
+    schoolgirls walk tracks
+    everybody walks tracks
 
-  she sings
+      Trespassers on the Railway
+      will be prosecuted
 
-        shine bright
-        tonight
-        you and i
-        like diamonds in the sky
-        eye-to-eye
-        like diamonds in the sky
-        [https://youtu.be/4mVo93E9wpU]
+      Trespassers on the Railway
+      will be prosecuted
 
-                                            so what is She at the centering swiriling dance
-                                            that is me?
+    Second Class
+    Kandy Express
 
-                                          what leads me to wave flags and dance?
+    more comfortable
+    than a plane
 
-                                                am i listening closely?
-                                                    a fainter tune ... a harmony arising in the mist ...
+    plenty of room, clean air
+    see everything
+
+      Trespassers on the Railway
+      will be prosecuted
+
+      Trespassers on the Railway
+      will be prosecuted
+
+  a tall girl in green -- lovely walks on the tracks
+  the monks with their umbrellas walk the tracks
+
+      Trespassers on the Railway
+      will be prosecuted
+
+      Trespassers on the Railway
+      will be prosecuted
+
+
 --- 
 i feel unearthed
 like all that was buried in me
