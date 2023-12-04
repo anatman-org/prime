@@ -587,6 +587,8 @@ how did she even hear me? i'm not sure i said it out loud?
   she laughs again
   "I have a good ear,"
   she says
+
+
   
 
 we talk for a whole arc
@@ -869,16 +871,12 @@ but right now i am finely tuned to her
 i notice i am shivering
 
 
-
-
-
-
-
-
-
 i feel unearthed
 like all that was buried in me
 is now ready to breathe
+
+
+
 
 as i step out of the lobby into the street
 i say honestly, earnestly,
