@@ -551,17 +551,23 @@ inside, i wish AI would declare the Brotherhood a deviation,
 
   you can't go back
 
-  it doesn't work that way"
+  it doesn't work that way
 
-i had never thought of it that way
-it later becomes really important, this new understanding of causal direction in all manifolds
+  i mean, things go in circles,
+  but we aren't at the center
+  we're still at the edge"
 
-i hate Golden Sun because they make the solution to their problems
-the re-education of me
-me if anyone who really knew me
-and i still am not ready to speak those Truths
-but i am close to doing something amazing with ...
-                                                                what was that about causal direction?
+                          i had never thought of it that way
+
+                          this is a different perspective on solving
+                          the problem of causal direction in all manifolds
+
+                            instead of trying to prove time is symmetrical,
+                            find out what everything seems to be pointing to?
+
+                          [prime: Bean later credits Feather for inspiring
+                          the Causal Principle of Coincidence.]
+
 "all manifold" i mumble
 
   she laughs
@@ -573,7 +579,7 @@ am i unintentionally clever?
 
 how did she even hear me? i'm not sure i said it out loud?
 "How did you hear what he was saying?"
-  she is still half pointin=g to where i nod
+  she is still half pointing to where i nod
 
 "I mean, he was
         behind you
@@ -584,21 +590,42 @@ how did she even hear me? i'm not sure i said it out loud?
   "I have a good ear,"
   she says
 
+  "doctor says it is because of
+  complications
+  at my delivery
+
+  but it makes me a great appreciator of music"
+
+"so what do you like?"
+
+  "well, being 'real',
+  i want to confess also that i play
+
+  and while i like to listen to a lot of different things
+  i play in a very particular style"
+
+she is layers
+revealing herself
+
+  "so i love everything from the new Glam Punk like Lizard Bait
+  to the classics like Mingus and Wu
+
+  but i play very stripped down
+  just my voice and a guitar"
+
+"i'd love to see you play"
+
+  "i'd love to play for you"
+
+a quick interruption
+as the food comes
 
   
 
-we talk for a whole arc
-about music
 
-i must not pay attention
-as the food comes
-as we eat
-
-because all i remember
-is talking
-about music
 
       and the server comes again
+as we eat
 
 we order
 we talk
