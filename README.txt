@@ -1093,20 +1093,37 @@ i can see it was difficult
   she pauses ... "not ... not yet"
 
   she has discs and a player
-  everyone in the Knot uses cloud streaming
+  and starts some glittery pop song
 
-  they only make the players and discs
-  for fisher-folk ... no network bandwidth on the open seas
+    "plastic doll"
+                                                  [prime: this may be a rendition of
+                                                  https://youtu.be/Ne0JeXC5hYQ
+                                                  or possibly
+                                                  https://youtu.bi/S-DixhC22GA)
+    the holo image dances faintly
 
-for a moment it all seems familiar
-as if i have amnesia, and that this is replaying in my head
+    as she sings
+    bearing a strange resemblance to Feather
 
-reminding me
-of what i've forgotten
+    dancing alone
+    like a toy
 
-  
-  
+i sip the tea
+  "do you like it?"
 
+"yes, it's nice, sweet and warm?"
+  "i mean, do you like the song?"
+
+i was really just looking at her
+and not listening to the music or watching the dancing woman  
+
+    she is dancing around a beam of light
+    eventually, she touches it, and it merges with her
+
+    a crowd of people now
+    surrounds her, following her movements like puppets on strings
+
+"i don't think i've seen this before"
 
 
 ---
