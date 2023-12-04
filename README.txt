@@ -1,4 +1,13 @@
 
+  "humble dynamic / enthusiastic equilibrium"
+  04>07
+  w11(w12)>w15(w16)
+  
+
+00  888  ☷
+
+c7  766 ☶>☰
+
   "conjoining (enduring) / feminine principle"
   34>00
   w31(w32)>w2
@@ -545,10 +554,107 @@ but i hear her clearly
   "they are happy"
   she stops and smiles warmly
 
+  "my mom is a nurse in the hospital ward there"
+
+i nod
+*that* hospital
+  for the people who are broken
+
+  she continues,
+  "she's a natural caregiver
+  i guess that's why she's a good fit for my dad"
+
+  "he's a lazy oaf and a dreamer,
+    but he loved me more than anyone could imagine"
+
+i give her a prompt to continue
+i am very intrigued
+
+  "and loves my mom even more!
+  that's how i got my name"
+
 i realize we've walked a block or so
 i don't know where we are going
+but follow her
 
+  "when my mom and dad got a license for natural procreate
+  it was the end of my mom's natural fertility period
+  and they don't have entitlements for procedures
 
+  but somehow,
+  she got pregnant
+
+  but there were complications
+  she has this liver thing ..."
+
+  she got quiet,
+  pensive, very vulnerable
+  her steps grew slower, but longer
+  as if she wanted to make sure
+  precisely where each foot landed
+
+  "and they had a choice
+  to risk early delivery at twenty four weeks
+  or my mom might have died"
+
+we stop
+i grab her arm
+i can see her eyes are watery
+
+  "all this happened long before i remember!
+  and they are around and fine, both!
+
+  but when i was born
+  my dad looked through the glass at me and said
+
+      "she looks light as a feather"
+
+  and my mom was in recovery
+  and she knew all the nurses
+
+  and they wouldn't let them register a name for me
+  until both she and i were out of danger"
+
+i am caught in her story
+and in the beauty of her expression
+  her truth
+as she tells me
+
+  "so they called me feather for three more weeks
+  until my mother woke
+  
+  and another four for me
+  and the first time she could hold me
+  she looked at my dad and said,
+
+      OK, Let's call her Feather
+
+  so that's my name."
+
+"Wait?
+I thought your nickname was Feather
+and that you had a standard ... ?"
+
+  "Oh, no, ...
+  that whole four weeks,
+
+      my mom awake
+  and me still behind glass?
+
+  she needed something to do
+  and she wouldn't leave my side
+
+  so she filed every appeal
+  and lobbied for every open entitlement
+  to get me named Feather.
+
+  Definitely, definitely not AI approved"
+  she laughs
+
+"i've never met anyone who has
+been named by their mother"
+i'm a little caught off guard
+i mean i know it happens
 
 
 
@@ -571,29 +677,5 @@ but quietly, below the din of the street
 i walk down the street and stop
 
   i get a message from her: "when?"
-
-
-
-b0  899 ☱>☷
-c0  988 ☶>☷
-
-  "noitcennoc noitamrofsnart retuo / edutitlum noitamrofsnart renni"        
-
-  ䷨>䷆
-  rehtegot gniwob elpoep owt yb dezilobmys si noitcennoc eht          
-  niks retuo s'eno gniddehs sezilobmys niks deyalf ,denepo eht          
-  noitamrofsnart renni sezilobmys top gnikooc eht        
-
-b2  879 ☱>☵
-
-  gnisir niatruc eht si noitelpmoc gniraen dna          
-  gnilpas a htiw ,etelpmocni llits tub ,raen nwohs si ti          
-  ("dehsinif si laem eht") lessev gnikooc a ediseb nosrep a htiw etelpmoc nwohs si ti          
-
- "noitelpmoc raen / noitelpmoc"        
-
-d0  989 ☲>☷
-
-"nruter gnitelpmoc / llafnwod noitelpmoc gniraen"        
 
 
