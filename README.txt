@@ -1,12 +1,8 @@
 
+    ䷼>䷆
+    w(61>7)/(61>8)
 
-00  888  ☷
-
-c7  766 ☶>☰
-
-  "conjoining (enduring) / feminine principle"
-  34>00
-  w31(w32)>w2
+    "speaking truths about leaders and their followers"
 
 i remember
 
@@ -887,4 +883,23 @@ i walk down the street and stop
 
   i get a message from her: "when?"
 
+                                            so what is She at the centering swiriling dance
+                                            that is me?
+
+                                          what leads me to wave flags and dance?
+
+                                                am i listening closely?
+                                                    a fainter tune ... a harmony arising in the mist ...
+
+    y63>y02
+
+e0  998 ☴>☷
+b2  879 ☱>☵
+
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
+b2  879 ☱>☵
+d0  989 ☲>☷
 
