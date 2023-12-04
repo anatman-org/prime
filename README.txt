@@ -558,18 +558,36 @@ inside, i wish AI would declare the Brotherhood a deviation,
   it doesn't work that way"
 
 i had never thought of it that way
+it later becomes really important, this new understanding of causal direction in all manifolds
 
-                                  the key is hidden in the Singularity
-                                  that is the common causal end to space-time,
+i hate Golden Sun because they make the solution to their problems
+the re-education of me
+me if anyone who really knew me
+and i still am not ready to speak those Truths
+but i am close to doing something amazing with ...
+                                                                what was that about causal direction?
+"all manifold" i mumble
 
-                                  or more generally
+  she laughs
+  "what a great way of describing that masculine shit
+      'all man-i-folded'"
 
-                                  that a manifold that contains both
-                                  an infinitely growing expanse and
-                                  an infinitesimally shrinking singularity
-                                  is homomorphic with our existence
+did she just find me funny?
+am i unintentionally clever?
 
+how did she even hear me? i'm not sure i said it out loud?
+"How did you hear what he was saying?"
+  she is still half pointin=g to where i nod
 
+"I mean, he was
+        behind you
+        behind a pane of glass
+        across a busy intersection?"
+
+  she laughs again
+  "I have a good ear,"
+  she says
+  
 
 we talk for a whole arc
 about music
