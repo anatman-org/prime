@@ -993,10 +993,62 @@ i collapse into the cushion
 i am not exhausted
 but i'm lightheaded
 
-seeing starts
+seeing stars
+darkness, i fade
 
-  
-    
+her hand is against my face
+  it is warm, soft
+
+  "i knew you didn't look good"
+i am shivering again
+
+i feel her magic
+intensely
+
+    the pot boils
+    it plays a little tune, like steel drums
+
+i feel it is impossible that i am here
+silent fears have stripped me of action, thought
+
+  "one sec"
+  she tends to the tea
+ 
+  she returns,
+  "here"
+  she hands me the cup
+
+  her hands in my hands
+  warm and soft
+
+i realize i've been lost in my thoughts
+and the warm cup and the excuse
+
+"i'm not just here for tea"
+  "i know"
+---
+  at some point,
+  we peer togther out the window
+
+  her window is shielded from the glow of the ring
+  by mist rising from the exhaust manifold
+
+  but the wind from the sea blows the mists
+  away from her corner of the Sop
+
+  revealing
+  a handful of stars
+
+  she sings
+
+        shine bright
+        tonight
+        you and i
+        like diamonds in the sky
+        eye-to-eye
+        like diamonds in the sky
+        [https://youtu.be/4mVo93E9wpU]
+--- 
 i feel unearthed
 like all that was buried in me
 is now ready to breathe
