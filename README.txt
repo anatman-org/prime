@@ -509,7 +509,66 @@ then an awkward silence
 
 is she laughing at me?
 
-  "sorry"
+  "sorry,
+  this man ..."
+  she points up
+
+as if by coincidence
+        she can't possibly have perfectly lined up
+        her finger to the man on the corner
+        across the busy intersection
+        behind a pane of glass
+        behind her?
+        without so much as turning around
+
+  "he is selling that whole
+    Brotherhood of the Golden Sun
+
+  bullshit"
+        
+it is the first time i've heard her swear
+the word
+  bullshit"
+is so sexy on her lips
+her expression flashes, from inquisitive to enthused
+i realize she saw me turned on -- it was a test and i passed
+  inside, she likes to swear a little
+sexy
+she is showing some of this truth of her to me
+no
+  bullshit"
+
+"yeah, i'm not fans of the Brotherhood
+they are a nuisance i wish AI would de-incentivize"
+inside, i wish AI would declare the Brotherhood a deviation,
+  and re-educate to prune the ideology
+
+  "yeah,
+
+  this whole nonsense of 'going back to the land of the Golden Sun'
+  seems so childish
+
+  you can't go back
+
+  even if that magical past
+  was as idyllic as you think
+
+  you can't go back
+
+  it doesn't work that way"
+
+i had never thought of it that way
+
+                                  the key is hidden in the Singularity
+                                  that is the common causal end to space-time,
+
+                                  or more generally
+
+                                  that a manifold that contains both
+                                  an infinitely growing expanse and
+                                  an infinitesimally shrinking singularity
+                                  is homomorphic with our existence
+
 
 
 we talk for a whole arc
