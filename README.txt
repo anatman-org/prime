@@ -1,9 +1,6 @@
 
-who needs a million monkeys
-to generate enough random noise
-that some quote of Shakespeare's magically appears?
-
     ䷼>䷆
+    w(61>7)/(61>8)
     y63>y02
 
 e0  998 ☴>☷
