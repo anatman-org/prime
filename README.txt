@@ -1,15 +1,7 @@
 
-
-in this
-nothing
-
-i become
-at some point
-
-  "humble dynamic / enthusiastic equilibrium"
-  04>07
-  w11(w12)>w15(w16)
-  
+who needs a million monkeys
+to generate enough random noise
+that some quote of Shakespeare's magically appears?
 
 
 
