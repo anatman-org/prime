@@ -3,26 +3,17 @@
   04>07
   w11(w12)>w15(w16)
   
-
 00  888  ☷
-
 c7  766 ☶>☰
-
 
   "conjoining (enduring) / feminine principle"
   34>00
   w31(w32)>w2
 
 b0  899 ☱>☷
-
 c0  988 ☶>☷
 
-  "noitcennoc noitamrofsnart retuo / edutitlum noitamrofsnart renni"        
-
-  ䷨>䷆
-  rehtegot gniwob elpoep owt yb dezilobmys si noitcennoc eht          
-  niks retuo s'eno gniddehs sezilobmys niks deyalf ,denepo eht          
-  noitamrofsnart renni sezilobmys top gnikooc eht        
+  "looking at you / i don't want to fuck this up"        
 
 b2  879 ☱>☵
 
