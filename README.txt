@@ -515,11 +515,14 @@ as if by coincidence
     Brotherhood of the Golden Sun
   bullshit"
         
+i like the attitude
 it is the first time i've heard her swear
+
 the word
   bullshit"
 is so sexy on her lips
   bullshit"
+
 
 "yeah, i'm not fans of the Brotherhood
 they are a nuisance i wish AI would de-incentivize"
@@ -608,11 +611,6 @@ revealing herself
 
 a quick interruption
 as the food comes
-
-  
-
-
-
       and the server comes again
 as we eat
 
@@ -845,7 +843,10 @@ of course i can see how you came to be so ..."
 i realize she's stopped
 
   she points at the building next to us
-  106
+
+  a neon sign
+  63-02
+
 
 i am so stupid
 "oh, well ...
@@ -891,14 +892,114 @@ my cheeks blush
   and leads me to the
   door
 
-[
+  through the door
+  into the vestibule
 
+dimly lit
+flickering florescent lights
 
+            the kind of light that never goes out
+
+a man sitting in a metal chair
+torn vinyl upholstery
+
+    he smiles at her, then with a half-mocking tone,
+    "Hey Feather!
+
+    who's your friend"
+
+  "instructor Kareeb"
+  i can tell she has a playful relationship
+  but she's communicated to him clearly
+  that she wants him to respect me
+
+    "nice to meet you, instructor Kareeb,
+    i'm Oliver"
+
+  "Oliver runs the place"
+  feather adds, to clarify any questions i may have
+
+"good to meet you too
+fine place"
+
+  she pulls me into the stairwell
+  up a flight, then a hallway, then another flight
+
+i feel as if i know the way
+that, though she is leading me
+
+                                        it is like She is a thread of silk
+                                        that i am spooling up to it's source
+
+  a maze of strange passages until finally
+  room 001333e2
+
+  she opens the door
+
+            the building lurches
+i can hear pots and pans rattling up and down the hall
+
+  "sorry about that!
+
+  we are next door to the fusion exhaust manifold,
+
+  and they do some sort of purge every once in a while
+  which shakes the whole building"
+
+i peer past her inside
+simple, but warm enough looking
+
+a little much pink
+but it matches her aura -- a little kawaii
+
+  "please ... come in"
+
+i follow her in
+  but she stays by the door
+
+    a scruffy cat sneaks in like a blur
+  right before she forcefully pulls the door shut
+
+  "it kind of sticks
+  Oliver is working on it
+  but it's the floor, from all the shaking ..."
+
+  she rushes past me
+  "tea?"
+
+"sure!"
+
+it's a small, small studio
+probably not sanctioned housing
+
+but clean, safe enough
+Oliver probably got a dead-end posting to manage the place
+and is hustling entitlements
+
+everyone in the Sop
+hustles entitlements
+
+  "is herbal okay?"
+  she starts an electric pot
+
+"sounds great"
+
+  "here, sit"
+  she leads me to the futon pushed against one wall
+
+  she opens the window nearby
+i collapse into the cushion
+
+i am not exhausted
+but i'm lightheaded
+
+seeing starts
+
+  
+    
 i feel unearthed
 like all that was buried in me
 is now ready to breathe
-
-
 
 
 as i step out of the lobby into the street
