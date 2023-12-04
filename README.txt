@@ -692,12 +692,6 @@ i nod
   "she's a natural caregiver
   i guess that's why she's a good fit for my dad"
 
----
-  "humble dynamic / enthusiastic equilibrium"
-  04>07
-  w11(w12)>w15(w16)
----
-
   "he's a lazy oaf and a dreamer,
     but he loved me more than anyone could imagine"
 
@@ -1026,7 +1020,91 @@ and the warm cup and the excuse
 
 "i'm not just here for tea"
   "i know"
+
+  she sits next to me
+  "are you feeling better?"
+
+i nod
+  "good"
+
+  "i need you"
+"you what?"
+
+  "you are my best customer"
+is that all i am?
+
+  "best in that you've made this move bearable"
+"how's that?"
+
+  she pauses
+  "the day you got hit
+
+  i was thinking about moving back home
+
+  see,
+  i got a talent enhance incentive
+
+  AI measured a high likability of my music
+  but my compositions were considered
+
+  too simple
+  too plain
+
+  and high-risk for reward
+  and that means i've had to work days"
+
+"and when then you do your music?"
+  "nights,
+
+  mostly nights.
+  the job at the coffee shop was new
+
+  and it was kind of my last attempt to make things work
+  before moving back home
+
+  i decided to give it a day
+  and AI has scored me higher for helping you that day
+
+  which earned me a regular shift --
+  my first recurring shift since moving here"
+
+"what were you doing before?"
+  "oh ...
+
+  laundry attendant, flower delivery,
+  barmaid, but nothing regular"
+
+i can see it was difficult
+  "a lot of ... unwelcome attention"
+
+"and you don't get that at the coffee stand?"
+  she flashes her angel eyes at me
+
+  "mostly good attention
+  it's a friendly corner with nice people
+
+  always wet"
+"yeah, that's the Sop"
+
+  she laughs
+  how about some music?
+
+"yours?"
+  she pauses ... "not ... not yet"
+
+  she has discs and a player
+  everyone in the Knot uses cloud streaming
+
+  they only make the players and discs
+  for fisher-folk ... no network bandwidth on the open seas
+
+  
+  
+
+
+
 ---
+
   at some point,
   we peer togther out the window
 
