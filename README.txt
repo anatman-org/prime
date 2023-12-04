@@ -1,30 +1,37 @@
 
-  "humble dynamic / enthusiastic equilibrium"
-  04>07
-  w11(w12)>w15(w16)
-  
-00  888  ☷
-c7  766 ☶>☰
+    ䷼>䷆
+    w(61>7)/(61>8)
 
-  "conjoining (enduring) / feminine principle"
-  34>00
-  w31(w32)>w2
+    "speaking truths about leaders and their followers"
 
-b0  899 ☱>☷
-c0  988 ☶>☷
+    this can mean different things to different people
+    for some, the leaders of the past offer inspiration and hope
+      but there are those who cling to tightly
+      and forget, that orbiting a small personality like this
+      is fine for some time
+    but in the end,
+    we were instructed
 
-  "looking at you / i don't want to fuck this up"        
+      to be lamps unto ourselves
 
+    so what is at the centering swiriling dance
+    that is You?
+
+  what leads You to wave flags and dance?
+
+        are you listening closely?
+            a fainter tune ... a harmony arising in the mist ...
+
+    y63>y02
+
+e0  998 ☴>☷
 b2  879 ☱>☵
 
-  gnisir niatruc eht si noitelpmoc gniraen dna          
-  gnilpas a htiw ,etelpmocni llits tub ,raen nwohs si ti          
-  ("dehsinif si laem eht") lessev gnikooc a ediseb nosrep a htiw etelpmoc nwohs si ti          
-
- "noitelpmoc raen / noitelpmoc"        
-
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
+b2  879 ☱>☵
 d0  989 ☲>☷
-
-"nruter gnitelpmoc / llafnwod noitelpmoc gniraen"        
 
 
