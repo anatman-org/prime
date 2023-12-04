@@ -265,7 +265,20 @@ that i don't trust their hygiene
 
 there she is
 
-  she waves at me
+  holding her arm above her elbow
+  her free hand waving furiously
+
+  she is at the front of the line
+
+    if it was anyone else in the front of the line
+    waving furiously to get the attention of their companion, who just finally arrived
+    i would be annoyed, angry
+    and shoot a look of contempt at both line-blocker and line-crasher
+
+    but those just behind her look at her with admiration
+    and hold their gaze on her for a moment before turning to me
+
+    that's where the look of contempts start
 
 i wave back
 she caught me coming out of the toilet
@@ -277,11 +290,10 @@ i look
 they must have just cleaned the table
 i just left
 
-  she must have been
-  near the front of the line already
-
 these coincidences
 point me to her
+
+is it that she radiates good luck?
 
     the same server who just kicked me out
     is smiling at her, waving her in
@@ -391,14 +403,14 @@ the academic games are ..."
       "excuse me,
       can i get your order?"
       the server is back
-      he is looking at her
+      he is looking at her, plainly turned away from me
 
   "oh, can we have a moment?"
 
       "yes, of course"
       he says politely to her
 
-      he then turns to me
+      half-turning to me
       "but if you don't order
       we need you to move on"
 
@@ -419,21 +431,12 @@ silent for a moment
   and share?"
 
 "oh yes!"
-share
-that
-
-i remember
-i am on a date
-with her
 
 "How long have you been working at the stand?
 i mean, i hadn't seen you before ..."
 
-before my embarrassing collision
-before the day that was both the worst and best of my life
 
   "Oh, that!?
-
   that was my first day here"
 
 "here ... in the Sop?"
@@ -453,9 +456,25 @@ You're not from the Knot?"
   "no"
 
 "From Farpoint?"
-Farpoint is where all the Twos are
+i had assumed she was a Two
+  a trainee at the Academy who was hussling side-work for extra entitlements
+Farpoint is where all the Twos are from
+
+            [trans. note: They grow them there.
+            Twos are the intellectual class in Sh'ui society,
+            and are genetically engineered for intellectual capabilities,
+            though people of remarkable intellectual promise from other classes --
+            Third, Fourth, Fifth -- will be re-classified.]
+            
+            [Bean is, in fact, born from Third, promoted to Second]
 
   "i'm from G'on't"
+            [This implies Feather is Fifth class, which is consistent with
+            all un-contracted workers
+            including farm hands and food stand service workers
+            who earn variable daily entitlements based on the market of 
+            supply and demand in this worker class]
+
 
 "G'on't? the farm ... ?"
 
@@ -484,8 +503,27 @@ she intrigues me in every way
     "are you ready to order"
 
 we order
-we talk
+then an awkward silence
+
+  she laughs
+
+is she laughing at me?
+
+  "sorry"
+
+
+we talk for a whole arc
 about music
+
+i must not pay attention
+as the food comes
+as we eat
+
+because all i remember
+is talking
+about music
+
+      and the server comes again
 
 we order
 we talk
@@ -733,7 +771,25 @@ i really enjoyed hearing about how you, your parents, ..."
 i want the night not to end
 it is already dark
 
+  song is playing
+  she tilts her head
+  and gently whispers the words:
 
+    "Hold onto love
+    That is what I do
+    Now that I've found you ..."
+
+the song is carried on the thick mists of the Sop
+hot during the day, they cool at night,
+condense, leaving an oily stink
+but right now i am finely tuned to her
+
+  she smells of some flower ...
+
+  "do you want to come in?
+  warm up? you're shivering"
+
+i notice i am shivering
 
 
 
