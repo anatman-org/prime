@@ -44,7 +44,6 @@ def log_exceptions(type, value, tb):
 
 
 if __name__ == "__main__":
-
     from .main import main
 
     main()

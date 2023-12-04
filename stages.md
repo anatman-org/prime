@@ -1,20 +1,3 @@
----
-title: stages
-references:
-  - https://www.irishtimes.com/culture/books/thomas-merton-the-hermit-who-never-was-his-young-lover-and-mysterious-death-1.2422818
----
-
-i am working on a project,
-an art composition of sorts
-
-it is a series of glass bead mosaics
-that tell stories
-
-the stories are centered around
-characters, from different times,
-past and future
-
-they all play this same game,
 a game inspired by herman's book
 *The Glass Bead Game*
 a book inspired by zhuang's dream

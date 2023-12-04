@@ -5,7 +5,6 @@ from .media import MatMedium, pil_to_pyg
 
 
 class MatSpin(MatMedium):
-
     autoincrement = True
     pos = 0
 
@@ -21,7 +20,6 @@ class MatSpin(MatMedium):
         self._image = Image.open(self.file)
 
     def __call__(self, *args, **kwargs):
-
         image = pil_to_pyg(self._image.rotate(-self.pos))
         image.anchor_x = image.width // 2
         image.anchor_y = image.height // 2
