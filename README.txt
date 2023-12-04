@@ -1,6 +1,9 @@
 
     ䷼>䷆
     w(61>7)/(61>8)
+
+    "speaking truths about leaders and their followers"
+
     y63>y02
 
 e0  998 ☴>☷
