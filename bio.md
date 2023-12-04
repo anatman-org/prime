@@ -3,6 +3,7 @@ title: xa'Qaree'B'in'i
 references:
   - BZyzX4c1vIs
   - https://youtu.be/G9RpHfPyEx8
+  - https://en.wikipedia.org/wiki/Zenobia
 ---
 born academy category 9 shui.f76c396d-5da4-4ba6-93e4-4b80e7adc16b
 

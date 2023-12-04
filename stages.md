@@ -2,7 +2,6 @@ a game inspired by herman's book
 *The Glass Bead Game*
 a book inspired by zhuang's dream
 
-
 the span of human knowledge
 from etchings on tortise shells
 to the binary formats of today

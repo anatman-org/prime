@@ -1095,8 +1095,8 @@ i can see it was difficult
 after three cups of tea
 i pursuade her
 
-  "okay, but these aren't my words, just my music
-    just some words stuck in my head
+  "okay, but this is someone else's song
+    just something that got stuck in my head
 
   it's called
     Kandy Express
@@ -1146,6 +1146,29 @@ i pursuade her
       Trespassers on the Railway
       will be prosecuted
 
+      Trespassers on the Railway
+      will be prosecuted
+
+      Trespassers on the Railway
+      will be prosecuted
+  [599c33b1#254]
+
+i'm not sure what the song means
+but it is beautiful
+
+  she puts down the guitar
+  and exhales deeply
+
+"that was wonderful,
+i've ... never heard that song before"
+
+  "yeah, it's an old poem
+  i just added the music"
+
+"it was beautiful"
+the words were -- gibberish?
+
+  
 
 --- 
 i feel unearthed
