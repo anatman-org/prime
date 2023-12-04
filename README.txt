@@ -697,21 +697,21 @@ it is one of those tasks people joke about
 that only the Firsts can afford
 
 everyone else
-no family name -- no family allegiance
+no family name -- no one genetically bound to class
 
 AI assigns us to work
 we go
 
   "yeah
   my mom"
+
   she sighs
   laughs again
-
   magical
 
   "this is me"
 
-"your parents sound wonderful
+"your mother, father sound wonderful
 of course i can see how you came to be so ..."
 i realize she's stopped
 
@@ -728,7 +728,11 @@ i really enjoyed hearing about how you, your parents, ..."
           am i supposed to kiss
           those precious lips?
 
-  
+  "do ... do ... ?"
+
+i want the night not to end
+it is already dark
+
 
 
 
