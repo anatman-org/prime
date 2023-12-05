@@ -11,18 +11,23 @@
       is fine for some time
     but in the end,
     we were instructed
-
       to be lamps unto ourselves
 
-    so what is at the centering swiriling dance
-    that is You?
 
-  what leads You to wave flags and dance?
+  y63>y02
+  "humble dynamic / enthusiastic equilibrium"
+  04>07
+  w11(w12)>w15(w16)
+  
+00  888  ☷
+c7  766 ☶>☰
 
-        are you listening closely?
-            a fainter tune ... a harmony arising in the mist ...
+  "conjoining (enduring) / feminine principle"
+  34>00
+  w31(w32)>w2
 
-    y63>y02
+b0  899 ☱>☷
+c0  988 ☶>☷
 
 e0  998 ☴>☷
 b2  879 ☱>☵
