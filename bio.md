@@ -73,7 +73,9 @@ she gently showed me the nature of love
 
 and there i reclaimed the name bean
 
-
-what if the mind becomes one pointed?
+  [merton]
+  what if the mind becomes one pointed?
   and what happens if ther "one point" is removed?
   [599c33b1#258]
+
+i don't know what i am without Her
