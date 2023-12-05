@@ -35,7 +35,19 @@ i wake in the shining sun
 hungry as a horse
 makes sense i was up all last night
 
-my bed is cold, wet
+it is Sixday
+no class today
+
+if there had been class
+i would have gladly lost the credits
+
+to sleep in
+                          something is happening, opening
+
+i linger in bed
+lost in thoughts of Her
+
+i realize my bed is cold, wet
 exhausted,
 
 i must have sweat through
@@ -56,16 +68,11 @@ i let it out
 the smell of the Sop -- damp, mushrooms --
 pouring in
 
-it is Sixday
-no class today
-
-    but the Sop always
+    the Sop always
     bustles and jostles
 
-if there had been class
-i would have gladly lost the credits
+    it is entropy
+    it makes everything it touches chaos
 
-to sleep in
-                          something is happening, opening
 
 
