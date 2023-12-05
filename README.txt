@@ -1152,30 +1152,17 @@ i feel unearthed
 like all that was buried in me
 is now ready to breathe
 
-
 as i step out of the lobby into the street
 i say honestly, earnestly,
+
 but quietly, below the din of the street
 "we should do this again"
 
 i walk down the street and stop
 
   i get a message from her: "when?"
-
 i message back
+
 it's already morning, "tonight"
-
-  "okay, let's meet at Wygal's"
-
-    y63>y02
-
-e0  998 ☴>☷
-b2  879 ☱>☵
-
-00  888  ☷
-c7  766 ☶>☰
-b0  899 ☱>☷
-c0  988 ☶>☷
-b2  879 ☱>☵
-d0  989 ☲>☷
+  "great! let's meet at Wygal's"
 
