@@ -1,34 +1,19 @@
 
-    ䷼>䷆
-    w(61>7)/(61>8)
+    followers increasing / remedying decreasing
 
-    "speaking truths about leaders and their followers"
+    warriors dance and a bowl overflowing
+    a bowl of worms with a hand closing or a thread binding it shut
 
-    this can mean different things to different people
-    for some, the leaders of the past offer inspiration and hope
-      but there are those who cling to tightly
-      and forget, that orbiting a small personality like this
-      is fine for some time
-    but in the end,
-    we were instructed
-      to be lamps unto ourselves
+    ䷐>䷩
+    w(17>42/18>41) 
 
+b6  679 ☱>☴
+ 1  887  ☳
 
-  y63>y02
-  "humble dynamic / enthusiastic equilibrium"
-  04>07
-  w11(w12)>w15(w16)
-  
 00  888  ☷
 c7  766 ☶>☰
-
-  "conjoining (enduring) / feminine principle"
-  34>00
-  w31(w32)>w2
-
 b0  899 ☱>☷
 c0  988 ☶>☷
-
 e0  998 ☴>☷
 b2  879 ☱>☵
 
