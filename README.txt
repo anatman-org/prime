@@ -38,7 +38,7 @@ and the warm cup and the excuse
   She smiles
 again
 
-i turn quickly
+i turn, quickly retreating
 for weeks, saying only
 
 "thank you!"
