@@ -1,31 +1,23 @@
 
-if aliens came tomorrow
+[if aliens came tomorrow
 and asked us to give them one book
 to help us understand humanity
-what book would it be?
+what book would it be?]
 
-  well,
-  i just cited
-    Genesis@32.22-31
-    Hosea@12.5
-    Job@3
-    Jonah@1
-    Jonah@4.6-11
-    and Matt@27.46 and Mark@15.34
+    it's not so different
+    than meeting aliens
 
-  because i just asked
-  why people
-    and some people in particular
-        WE KNOW WHO WE ARE
-    for some reason seem to do it
-      strangely, poorly
-  struggle with God
+some here have
+faced aliens
 
-  why i struggle with God
+they came in ships
+across the sea instead of outer space
 
-  it's not so different
-  than meeting aliens
+they came with violence
+they came with war
 
+they never asked us
+what our favorite book was
 
 
 
