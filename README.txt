@@ -1,109 +1,18 @@
 
-children are not fooled
-by these games
+䷓
+y60
+w20
+  [siu] Contemplation
 
-  Experts say
-    that is because information processing in the tots’ brains
-    is not yet fully developed
-  which means
-    they make different assumptions about what they see.
+i remember
 
-  Writing in the journal Proceedings of the Royal Society B,
-  researchers in Japan report how they
-  showed a screen featuring red and green dots
-  to infants aged five to eight months.
-
-  Dots of one colour moved upwards
-  in the centre but downwards on the right and left
-
-  while dots of the other colour
-  showed the reverse motion
-
-  When adults look at the centre of the screen,
-  a visual illusion occurs:
-
-    the red dots all appear to move in one direction
-    and the green dots in the other
-
-  the team presented children
-  with a screen with dots of just one colour
-
-  These either all moved in the same direction or
-  moved in one direction in the centre and the opposite direction at the sides.
-
-    “[Younger infants] perceived the accurate combination
-    between colours and motion directions,”
-  said Dr Shuma Tsurumi,
-  a co-author of the research
-
-                                              from Hokkaido University!
-  Dr Alice Skelton,
-
-                                              of the University of Sussex!
-
-  said
-    it was not that young babies see the world more accurately
-
-  but rather that
-    what it is helpful to perceive changes with age
-
-    “We often talk about how poor infant vision and perception are
-    in comparison with adults
-
-    but they’re sensitive to all sorts of different parts of the world
-    that we no longer have access to as adults”
-  Skelton said.
-
-  Prof Paul Bays,
-                                              of the University of Cambridge!
-
-  who was not involved in the work
-    welcomed the findings
-
-  He said that
-    what we see was influenced by expectations about the world
-    embedded in our brains during development
-
-    “This makes us susceptible to visual illusions
-    when the context leads us to expect to see something
-
-    different from
-    the reality.
-
-    In this case,
-    the illusion arises
-
-    because the adult visual system
-    assumes
-      what you see in the centre of the screen
-      is a good guide to what’s happening at the periphery,”
-
-  Bays said.
-    “[The results are] consistent with the idea that
-
-      younger babies have not yet built up
-    the expectations about the world
-
-    that create
-
-    the illusion,”
-
-  he added.
+We live alone
+and it is Joy
 
 
 
 
-  [https://www.theguardian.com/science/2023/dec/06/babies-do-not-fall-for-illusion-that-fools-older-children-study-finds]
-
-
-
-
-䷒>䷭
-y03>06
-w(19>46)/(20/45)
-  approaching bringing together / watching upward movement
-
-
+6   877  ☴
 0   888  ☷ 
 b6  679 ☱>☴
 
