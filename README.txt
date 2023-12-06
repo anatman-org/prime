@@ -1,12 +1,12 @@
 
-and i wonder
-what have i been looking for?
+again
+these things mean different things
 
-  i've had
-  the lushest life
+brother, sister,
+father, nurse
+poet, healer
 
-just to see Her
-one time
+  [brilliant cortners / thelonius monk]
 
 ䷓
 y60
