@@ -1,15 +1,20 @@
 
+
+
+as if to emphasise
+we should be reading
+
+䷓
+y60
+w20
+  [siu] Contemplation
+
+6   877  ☴
+
 ䷒>䷭
 y03>06
 w(19>46)/(20/45)
   approaching bringing together / watching upward movement
-
-rumi says,
-
-  wes montgomery says,
-    [Days of Wine and Roses](https://music.apple.com/us/album/days-of-wine-and-roses/1443223791?i=1443223797)
-
-
 
 
 0   888  ☷ 
