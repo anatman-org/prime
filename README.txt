@@ -4,17 +4,24 @@ and asked us to give them one book
 to help us understand humanity
 what book would it be?]
 
-well, i just cited
-Genesis@32.22-31 Hosea@12.5 Job@3 Jonah@1 Jonah@4.6-11 and Matt@27.46 and Mark@15.34
+i've lived my life
+committed to that being the Word of Jesus
 
-  some are owed debts
-  that can be repayed
+and now
 
-this is the struggle of
-my own twisted soul
+seeing real Buddhism
 
-i am forever curious
-how i can't repay the debt
+i realize my crisis of faith is real
+
+that what i craved was deeper than
+what any Catholic could explain to me
+
+that i am that man
+who wrestles with God
+
+and i am finite
+and God is not
+
 
 
 b6  679 ☱>☴
@@ -33,4 +40,5 @@ b0  899 ☱>☷
 c0  988 ☶>☷
 b2  879 ☱>☵
 d0  989 ☲>☷
+
 
