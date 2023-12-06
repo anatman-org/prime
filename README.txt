@@ -3,6 +3,7 @@ y60
 w20/19
 "watching that which grows"
 
+  [599c33b1@238]
   these evidences are needed in order to give a complete
   pic-
   ture
@@ -24,11 +25,11 @@ w20/19
 
   then i decide
   that i am nevertheless religious?
-  [599c33b1@238]
 
 at this very moment
 an invitation to be in the presence of the great Edward the Confessor
 
+  [https://www.newadvent.org/cathen/05322a.htm]
   He remitted the odious "Danegelt"
   which had needlessly continued to be levied
 
@@ -40,7 +41,6 @@ an invitation to be in the presence of the great Edward the Confessor
 
   that their enactment was repeatedly demanded by later generations
   when they felt themselves oppressed
-  [https://www.newadvent.org/cathen/05322a.htm]
 
 this is evidence
 of his goodness?
@@ -55,6 +55,23 @@ At least Arjuna wrestled with Siva
   Edward's one aim was the welfare
   of his people
 
+  [https://en.wikipedia.org/wiki/Danegeld]
+  literally "Dane yield" ort tribute
+
+  was a tax raised
+  to pay tribute or protection money
+
+this tax was assessed based on the value of one's lands,
+  in England, a hide was notionally an area of land sufficient to support one family
+
+  however their true size and economic value
+  varied enormously
+
+and of course
+those without land are not even considered or contemplated
+
+but they pay the price
+in additional labor
 
 
 
