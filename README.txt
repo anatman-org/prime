@@ -1,17 +1,24 @@
 
-
 ䷒>䷭
 y03>06
 w(19>46)/(20/45)
-
-root reminds,
-  "Head Over Heels"
-
-we must all give equal consideration
-to both sides of any message
-
-  [huang]
   approaching bringing together / watching upward movement
+
+lalla says,
+
+  flowers,
+  sesame seed,
+
+  bowls of fresh water,
+  a tuft of kusa-grass,
+
+  all this altar paraphernalia
+
+  is not needed
+
+  by someone who takes the Truth
+  and honestly lives it
+  [7d6d95cb@49]
 
 
 0   888  ☷ 
