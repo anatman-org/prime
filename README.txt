@@ -25,6 +25,9 @@ the buddha,
 
   as he meditated on
   the bodhi tree
+
+and he later said,
+  The disappearance of the word "I AM" is indeed the highest happiness.
   [https://www.buddhanet.net/e-learning/buddhism/lifebuddha/17lbud.htm]
 
 
