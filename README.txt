@@ -24,7 +24,17 @@ they think they scare them
   you don't think
   they were reminded of the rules every day?
 
+  and by some random chance
 
+    the boy has a fuckin bad day
+    and he's tired of the performance
+
+  and the day ends in tragedy
+
+  and the cops swear up and down
+  they didn't mean it
+
+  
 
 0   888  ☷ 
 b6  679 ☱>☴
