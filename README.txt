@@ -937,53 +937,55 @@ i pursuade Her
   "okay, but these aren't my words, just my music
     just some words stuck in my head
 
-  it's called
-    Kandy Express
+  she sings a song
+  called Kandy Express
 
-    inward parcels
-    outward parcels
+  it ends
+  with ...
 
-    lordy blue ponds
-    standing in a river, water pouring over
+    it is Her!
+    who yawns
+    and sneezes
+    and coughs
 
-    beat-up pails
-    coconuts, bananas
+    and now laughs.
 
-    little boy in a yellow suit too big hat
-    walks tracks with brotHer
+    Look!
+    it’s Her
 
-    schoolgirls walk tracks
-    everybody walks tracks
+  she glances to the window
+my eyes follow
 
-      Trespassers on the Railway
-      will be prosecuted
+    doing ablutions!
 
-      Trespassers on the Railway
-      will be prosecuted
+    Her!
 
-    Second Class
-    Kandy Express
+    deciding to fast
 
-    more comfortable
-    than a plane
+    Her!
 
-    plenty of room, clean air
-    see everything
+    going naked from one New Year’s Eve to the next
 
-      Trespassers on the Railway
-      will be prosecuted
 
-      Trespassers on the Railway
-      will be prosecuted
+    Will you ever understand
 
-  a tall girl in green -- lovely walks on the tracks
-  the monks with their umbrellas walk the tracks
+    how near God is to you?
 
-      Trespassers on the Railway
-      will be prosecuted
+where is she taking me?
 
-      Trespassers on the Railway
-      will be prosecuted
+  she finishes the song
+
+my head is spinning
+it is quiet for a while
+
+  "do you play?"
+"hmmm?"
+
+  the points to the bowl of beads on the table
+  [silence]
+
+
+
 
 
 --- 
@@ -1013,12 +1015,18 @@ is now ready to breathe
 but now as i reflect
 her signals to me
 
-  "my boyfriend before ..."
-  "my girlfriend's boyfriend always sleeps over"
-
 what am i to her?
 walking a few more steps
 
 of course i am the naive virgin
 i am that ridiculous, hungry thing
 
+It is God who yawns and sneezes and coughs, and now laughs.
+
+Look, it’s God doing ablutions!
+
+God deciding to fast, God going naked from one New Year’s Eve to the next.
+
+Will you ever understand
+
+how near God is to you?
