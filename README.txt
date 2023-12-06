@@ -26,6 +26,10 @@ that can never be be repaid
 some are owed debts
 that can be repayed
 
+or remembered differently
+
+
+
 
 b6  679 ☱>☴
  1  887  ☳
