@@ -432,8 +432,6 @@ is so sexy on Her lips
 "yeah, i'm not fans of the Brotherhood
 they are a nuisance i wish AI would de-incentivize"
 
-inside, i wish AI would declare the BrotHerhood a deviation,
-  and re-educate, prune the whole ideology
 
   "yeah,
   this whole nonsense of 'going back to the land of the Golden Sun'
@@ -803,8 +801,14 @@ it has a clear Feather aura emanating from within
 i follow Her in
   but She stays by the door
 
-    a scruffy cat sneaks in like a blur
-  right before She forcefully pulls the door shut
+    a scruffy nutria
+    sneaks in like a blur
+
+later i learn that this is Muck
+the old sneak
+
+  She forcefully pulls the door shut
+  with both hands, and all Her weight
 
   "it kind of sticks
   the floor, from all the shaking ..."
@@ -815,12 +819,7 @@ i follow Her in
 "sure!"
 
 it's a small, small studio
-probably not sanctioned housing
-
-  "is Herbal okay?"
   She starts an electric pot
-
-"sounds great"
 
   "here, sit"
   She leads me to the futon pushed against one wall
@@ -1003,11 +1002,23 @@ it is quiet for a while
 i play
 
   [Like Someone in Love / John Coltrane](https://music.apple.com/us/album/like-someone-in-love/1440947584?i=1440947775)
-
+like someone in love
   
+the rest of the night is a blur
+of us talking all night
 
+about everything
 
---- 
+until the sun rises
+
+and i say,
+"i had better go"
+
+i am exhausted
+but at the same time enthused
+
+i am embarrassed by how i must smell
+but can't break myself from Her eyes
 
 as i step out of the lobby into the street
 i say honestly, earnestly,
@@ -1023,7 +1034,9 @@ i message back
 it's already morning, "tonight"
   "great! let's meet at Wygal's"
 
----
+
+back at Lord's End
+  [nickname for my studio, at the end of the block at the end of the stairs at the end of oblivion]
 
 i feel unearthed
 like all that was buried in me

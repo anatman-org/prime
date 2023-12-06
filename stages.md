@@ -1,26 +1,38 @@
 i remember
 
-    there is no question
-    i love her deeply ... 
+the place downstairs from "Lord's End", my studio in the Sop
+is called Wygal's
 
-    i keep remembering her body,
-    her nakedness,
-    the day at Wygal’s,
-    and it haunts me ...
+but everyone calls it,
+"The Tooth"
 
-    i am enslaved
-    to the need for her body
+a filthy hole
+with sticky floors
 
-the place downstairs from my flat
-in the Sop
+and cheap drinks
+and loud people
+  [...] men mostly
 
-called Wygal's
-but everyone calls it, "The Tooth"
+i hate that place
+it booms
 
-it is a hard bar for the hard workers of the Sop
-and the longer and louder drums bleed
-
+it rattles
 through the floors of my building
+
+a dream,
+  a bell rings? patterns?
+
+
+
+
+
+
+
+
+
+
+
+
   she would later confess
 
   "i knew you lived upstairs
