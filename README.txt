@@ -1,41 +1,43 @@
 
-[if aliens came tomorrow
-and asked us to give them one book
-to help us understand humanity
-  and while well represented
-  are not present at this editor's meeting
-what book would it be?]
+again
+these things mean different things
+
+brother, sister,
+father, nurse
+poet, healer
+
+  [ba-lue bolivar ba-lues-are / thelonius monk]
+these tricks are just tricks
+
+the buddha,
+  During the second week,
+  in thanks and gratitude
+
+  to the tree
+  that had sheltered him
+
+  during his struggle
+  for Buddhahood
+
+  the Buddha stood
+
+  without moving his eyes
+
+  as he meditated on
+  the bodhi tree
+  [https://www.buddhanet.net/e-learning/buddhism/lifebuddha/17lbud.htm]
 
 
-lalla says,
+䷒>䷭
+y03>06
+w(19>46)/(20/45)
+  approaching bringing together / watching upward movement
 
-  It is God
-  who yawns
-  and
-  sneezes
-  and
-  coughs,
 
-  and now laughs.
-  
-  Look, it’s
-
-  God
-
-  doing ablutions!
-
-  God deciding to fast
-
-  God going naked for one New Year’s Eve
-
-  to the next
-
-  Will you ever understand
-  how near God is to you?
-
+0   888  ☷ 
 b6  679 ☱>☴
- 1  887  ☳
 
+ 1  887  ☳
 00  888  ☷
 c7  766 ☶>☰
 b0  899 ☱>☷
