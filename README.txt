@@ -984,7 +984,11 @@ it is quiet for a while
   the points to the bowl of beads on the table
   [silence]
 
+"yes"
+  she smiles, inviting me to take the beads
 
+and i do
+and i say
 
 
 
