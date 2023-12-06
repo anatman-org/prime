@@ -3,46 +3,45 @@ y60
 w20/19
 "watching that which grows"
 
-  [599c33b1@238]
-  these evidences are needed in order to give a complete
-  pic-
-  ture
-
-  i saw the other side
-
   there were many screwy Catholic statues ex-
   hibited in public
 
-at this very moment
-an invitation to be in the presence of the great Edward the Confessor
+  but sometimes under glass
+like some precious things
 
-  Edward's one aim was the welfare
-  of his people
+like looking glasses
+  so that the Catholic saints come a little closer
 
-but who are "his people"? white landowners
-those without land are not even considered or contemplated
+they are not any better or worse
+  than Ganesha and Hindu gods
 
-the taxes that he forgives
-are the "extra" taxes
+yet i find that funny
+because i don't get Hinduism
 
-for swords and spears
-and armor and other shiny things
+i don't
+but what does that say about me as a Catholic monk?
 
-they are either extortion money paid to the Vikings
-or paid to the King of the English for his armies
+that the strange camp that Hinduism seems to me
+is a clown-mirror representation of what Catholics are
 
-  [...]
-  what does a king do if not protect?
-  why does he need an extra tax to start
+and that i am a fraud
+who became a Catholic monk
 
-the Confessor's great accomplishment
-is to stop being an extortionist
-
-  religion becomes laughable
+  at what point does
+  religion become laughable?
 
   then i decide
   that i am nevertheless religious?
+  [599c33b1@238]
 
+why am i not looking forward to the meeting in Bangkok?
+because i am afraid of public speaking
+
+because i am afraid
+that i will be exposed as this fraud
+
+by my own
+honest words
 
 6   877  ☴
 0   888  ☷
