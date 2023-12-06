@@ -989,7 +989,17 @@ i pursuade Her
 --- 
 i feel unearthed
 like all that was buried in me
+
 is now ready to breathe
+*sigh*
+
+but now as i reflect
+her signals to me
+
+  "my boyfriend before ..."
+  "my girlfriend's boyfriend always sleeps over"
+
+what am i to her?
 
 as i step out of the lobby into the street
 i say honestly, earnestly,
