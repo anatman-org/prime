@@ -1,8 +1,11 @@
 
-if aliens came tomorrow
+[if aliens came tomorrow
 and asked us to give them one book
 to help us understand humanity
-what book would it be?
+  and while well represented
+  are not present at this editor's meeting
+what book would it be?]
+
 
 b6  679 ☱>☴
  1  887  ☳
