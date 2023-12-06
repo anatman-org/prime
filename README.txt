@@ -1,11 +1,29 @@
 
-    followers increasing / remedying decreasing
+if aliens came tomorrow
+and asked us to give them one book
+to help us understand humanity
+what book would it be?
 
-    warriors dance and a bowl overflowing
-    a bowl of worms with a hand closing or a thread binding it shut
+  i wouldn't give them the Bible
 
-    ䷐>䷩
-    w(17>42/18>41) 
+      God no
+      
+  or the Koran
+
+      sorry
+      
+  i would give them the I Ching
+
+      but not the Zhouyi
+      
+  just the sixty four symbols
+  stripped of anything else
+
+  then the aliens would have to ask
+  "what does this mean?"
+
+  and the stories would begin
+  [ee908a03]
 
 b6  679 ☱>☴
  1  887  ☳
