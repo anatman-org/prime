@@ -1,21 +1,21 @@
+
 ䷒>䷭
 y03>06
 w(19>46)/(20/45)
+  approaching bringing together / watching upward movement
 
-  huang says of 45, "Bringing Together",
+  who takes
+  the Teacher's words in
+  and honestly
 
-    at the top
-    there are two bundles of grasses
+but who is that teacher?
 
-    the lower part is the ideograaph zu
-    providing the sound
+didn't buddha say something,
+like,
+  "lamp unto oneself?"
 
-    zu carries several meanings
 
-    at present, it generally indicates a soldier
-    in ancient times it meant a servant
 
-maybe a vassal?
 
 0   888  ☷ 
 b6  679 ☱>☴
