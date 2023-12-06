@@ -1,39 +1,57 @@
----
-title: ䷼>䷆
----
-    w(61>7)/(61>8)
 
-    "speaking truths about leaders and their followers"
+[if aliens came tomorrow
+and asked us to give them one book
+to help us understand humanity
+what book would it be?]
 
-        are you listening closely?
-            a fainter tune ... a harmony arising in the mist ...
+  some here have
+  faced aliens
 
-    the whirring, like a tornado,
-    like debris down a drain
----
-ref: 1d7a14fc#2.4.6
----
-  these roar like rushing water
-  whiz like flying arrows
+  they came in ships
+  across the sea instead of outer space
 
-    [and we]
-  curse, pant, shout, cry
-    [for they wound]
-  some deep as a valley
-  some painfully sad
+  they came with violence
+  they came with war
 
-    [but listening closely, we hear]
-  as ones in front sing 'GHEE-yoo'
-  ones behind 'nhee-YUU'
+  they never asked us
+  what our favorite book was
 
-  light breezes result in minor [quiet or forgotten] harmony
-  [these] whirlwinds in great harmony
+and the issue at hand
+is about the I Ching
 
-  when such a fierce wind passes by
-  all the hollows become empty
----
+this is the answer
+that is presumed in the question
 
-    y63>y02
+we are here
+at this Editor's council
+
+because we all
+admire this text
+
+i want to understand this lesson,
+of my experience of the violence of aliens
+
+let's remember both how we have been
+
+  alien ...
+    ... stranger
+    ... afraid
+    ... uncomfortable
+  who has acted in aggression
+
+  ... and homeowner
+  whose house has been invaded
+    ... "seemingly" [*sigh*]
+  by strangers
+
+
+b6  679 ☱>☴
+ 1  887  ☳
+
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
 e0  998 ☴>☷
 b2  879 ☱>☵
 
@@ -43,5 +61,4 @@ b0  899 ☱>☷
 c0  988 ☶>☷
 b2  879 ☱>☵
 d0  989 ☲>☷
-
 
