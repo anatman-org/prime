@@ -1,13 +1,18 @@
-
 ䷓
 y60
-w20
-  [siu] Contemplation
-  [huang] Approaching
+w20/19
+"watching that which grows"
+
+Huang says,
+  it originally meant overlooking
+  in the sense of viewing from above
+
+this seems to conflate the meaning of w19 with w20
 
 
 6   877  ☴
-0   888  ☷ b6  679 ☱>☴
+0   888  ☷
+b6  679 ☱>☴
 
  1  887  ☳
 00  888  ☷
