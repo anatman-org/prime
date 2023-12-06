@@ -996,20 +996,22 @@ i pursuade Her
 my head is spinning
 it is quiet for a while
 
-  "why do you play?"
+  "do you play?"
 
   the points to the bowl of beads on the table
-  [silence]
-
-"because they lead me here, to You
-under the stars"
-
-  she smiles, inviting me to take the beads
-
                                       i only want to be here with Her
 
+i nod, awkwardly
+it was a rhetorical question
 
+  "do you want ...
+    to play for me?"
 
+i feel like a child
+confronted with this game of glass beads
+
+asked if i want to play?
+of course i want to play
 
 --- 
 
