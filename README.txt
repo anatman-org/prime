@@ -6,6 +6,20 @@ to help us understand humanity
   are not present at this editor's meeting
 what book would it be?]
 
+but i think i might say
+Daodejing
+
+because
+
+an honest stranger
+will take this honest and practical, but vulnerable view of us
+
+and the dishonest
+will do what they do anyway
+
+
+
+
 
 b6  679 ☱>☴
  1  887  ☳
