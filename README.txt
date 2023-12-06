@@ -10,15 +10,11 @@ huang says of 45, "Bringing Together",
   the lower part is the ideograaph zu
   providing the sound
 
-  zu means soldier
-it is part of a pun about men, you will see
+  zu carries several meanings
 
+  at present, it generally indicates a soldier
+  in ancient times it meant a servant
 
-growing upward
-in volume
-
-the obviousness of this being
-adult children
 
 0   888  ☷ 
 b6  679 ☱>☴
