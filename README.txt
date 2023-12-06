@@ -1025,12 +1025,20 @@ walking a few more steps
 of course i am the naive virgin
 i am that ridiculous, hungry thing
 
-It is God who yawns and sneezes and coughs, and now laughs.
+  [lala]
+  i've exhausted
+  myself  ... looking
 
-Look, it’s God doing ablutions!
+  no one ever finds this
+  by trying
 
-God deciding to fast, God going naked from one New Year’s Eve to the next.
+  i melted in it
 
-Will you ever understand
+  and came home
 
-how near God is to you?
+  where every jar is full
+but
+no one drinks
+  [7d6d95cb#63]
+
+
