@@ -4,79 +4,75 @@ w20/19
 "watching that which grows"
 
   [599c33b1@238]
+  these evidences are needed in order to give a complete
+  pic-
+  ture
+
+  i saw the other side
+
   there were many screwy Catholic statues ex-
   hibited in public
 
-  but sometimes under glass
-like some precious things
+one day ago
+an unsolicited alert
 
-like looking glasses
-  so that the Catholic saints come a little closer
+from Blanchet Catholic School
 
-they are not any better or worse
-  than Ganesha and Hindu gods
+  14:05 5 December 2023 PDT CE
+  Important
 
-yet i find that funny
-because i don't get Hinduism
+  There is a major accident on I-5 northbound
+  by Kuebler Blvd
 
-i don't
-but what does that say about me as a Catholic monk?
+  Traffic is being diverted to the southbound freeway
+  affecting traf
 
-that the strange camp that Hinduism seems to me
-is a clown-mirror representation of what Catholics are
+  fic all over town
 
-and that i am a fraud
-who became a Catholic monk
+  Please note that our school bus drop-off times might be impacted
+  Please allow extra time to pick up your students
 
-  at what point does
-  religion become laughable?
+how did my number
+get in their database?
 
-  then i decide
-  that i am nevertheless religious?
+what point
+is made by this?
 
-why am i not looking forward to the meeting in Bangkok?
-because i am afraid of public speaking
+do these things have meaning?
+  [https://en.wikipedia.org/wiki/Fran%C3%A7ois_Norbert_Blanchet]
 
-because i am afraid
-that i will be exposed as this fraud
+  24 July 24 1846
+  the Vatican
 
-by my own
-honest words
+  under Pope Pius IX
+  the [Catholic religious administrative region of the territory recently disputed by English and American interests]
 
-  [599c33b1@252]
-    The human merry-go-round
-    sees many changes
+  is divided
+  into three
 
-    the illusion ... that cost
-    the efforts of thousands of years to unmask
+  Oregon City
+  Vancouver Island
+  Walla Walla
 
-    is the same illusion that
-i
-    labored just as hard to maintain
-    and strengthen
-  ~ Herman Hesse: page 69
-    in the Bantam paperback edition, New York, 1969
+  Blanchet was named Bishop
+  Oregon City
 
-  [https://en.wikipedia.org/wiki/Edward_the_Confessor]
-  In 1159
-  there was a disputed election to the papacy
-  and Henry II's support helped to secure the recognition of
-  Pope Alexander III
+  29 July 1850
+  the Diocese of Oregon City was elevated to an archdiocese
+  François Blanchet is elevated to archbishop
 
-  In 1160
-  a new abbot of Westminster, Laurence
-  seized the opportunity to renew Edward's claim
-  This time it had the full support of the king and the English hierarchy
-  and a grateful pope issued the bull of canonisation on
-  7 February 1161
-  the result of a conjunction of the interests of
-    Westminster Abbey
-    King Henry II
-    Pope Alexander III
+  1880
+  he retires
+  retaining the title of archbishop
+remaining below the powerful rank of "Cardinal"
 
-  [Edward] was called 'Confessor' as the name for someone
-  who was believed to have lived a saintly life but was not a martyr
+  he is named to a titular see
+  in the practice of that time
 
+  1883
+  he dies
+
+what is left is in a cemetery at St. Paul's, Oregon
 
 
 
