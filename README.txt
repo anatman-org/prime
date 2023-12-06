@@ -13,66 +13,35 @@ w20/19
   there were many screwy Catholic statues ex-
   hibited in public
 
-  but sometimes under glass
+at this very moment
+an invitation to be in the presence of the great Edward the Confessor
 
-  so that the Catholic saints come a little closer
-  to Ganesha and Hindu [all that] camp after all
+  Edward's one aim was the welfare
+  of his people
 
-  Suddenly!
-  there is a point
+but who are "his people"? white landowners
+those without land are not even considered or contemplated
+
+the taxes that he forgives
+are the "extra" taxes
+
+for swords and spears
+and armor and other shiny things
+
+they are either extortion money paid to the Vikings
+or paid to the King of the English for his armies
+
+  [...]
+  what does a king do if not protect?
+  why does he need an extra tax to start
+
+the Confessor's great accomplishment
+is to stop being an extortionist
 
   religion becomes laughable
 
   then i decide
   that i am nevertheless religious?
-
-at this very moment
-an invitation to be in the presence of the great Edward the Confessor
-
-  [https://www.newadvent.org/cathen/05322a.htm]
-  He remitted the odious "Danegelt"
-  which had needlessly continued to be levied
-
-  and though profuse in alms to the poor and for religious purposes
-  he made his own royal patrimony suffice without imposing taxes
-
-  Such was the contentment caused by
-  "the good St. Edward"
-
-  that their enactment was repeatedly demanded by later generations
-  when they felt themselves oppressed
-
-this is evidence
-of his goodness?
-
-that he DIDN'T tax them unnecessarily?
-
-is this all that is required for a white man to get into Heaven
-according to the Catholic church?
-
-At least Arjuna wrestled with Siva
-
-  Edward's one aim was the welfare
-  of his people
-
-  [https://en.wikipedia.org/wiki/Danegeld]
-  literally "Dane yield" ort tribute
-
-  was a tax raised
-  to pay tribute or protection money
-
-this tax was assessed based on the value of one's lands,
-  in England, a hide was notionally an area of land sufficient to support one family
-
-  however their true size and economic value
-  varied enormously
-
-and of course
-those without land are not even considered or contemplated
-
-but they pay the price
-in additional labor
-
 
 
 6   877  ☴
