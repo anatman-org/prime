@@ -1,29 +1,19 @@
+䷒>䷭
+y03>06
+w(19>46)/(20/45)
 
-[if aliens came tomorrow
-and asked us to give them one book
-to help us understand humanity
-  and while well represented
-  are not present at this editor's meeting
-what book would it be?]
+huang says,
 
-but i think i might say
-Daodejing
+  the Chinese say,
+    "The brilliant sun is growing upward
 
-because
+    in the Eastern sky"
+  
 
-an honest stranger
-will take this honest and practical, but vulnerable view of us
-
-and the dishonest
-will do what they do anyway
-
-
-
-
-
+0   888  ☷ 
 b6  679 ☱>☴
- 1  887  ☳
 
+ 1  887  ☳
 00  888  ☷
 c7  766 ☶>☰
 b0  899 ☱>☷
