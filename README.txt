@@ -1,17 +1,9 @@
 
-    again
-    these things mean different things
-
-    [...]
-    in thanks and gratitude
-    during his struggle
-
-    the Buddha stood
-    without moving his eyes
-    [https://www.buddhanet.net/e-learning/buddhism/lifebuddha/17lbud.htm]
-
 the buddha contemplates
 the bodhi tree
+
+hypatia wears
+the rainbow robe
 
 ䷒>䷭
 y03>06
