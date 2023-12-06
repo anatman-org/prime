@@ -4,16 +4,11 @@ y03>06
 w(19>46)/(20/45)
   approaching bringing together / watching upward movement
 
-  who takes
-  the Teacher's words in
-  and honestly
+john coltrane says,
+  [Trane's Slo Blues / John Coltrane](https://music.apple.com/us/album/like-someone-in-love/1440947584?i=1440947775)
 
-but who is that teacher?
-
-didn't buddha say something,
-like,
-  "lamp unto oneself?"
-
+and embedded in this sorrowful tune
+  his signature note of "Love Supreme"
 
 
 
