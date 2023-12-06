@@ -1,19 +1,14 @@
-
 ䷓
 y60
 w20
   [siu] Contemplation
+  [huang] Approaching
 
-i remember
-
-We live alone
-and it is Joy
-
-
+"watching that which grows"
 
 
 6   877  ☴
-0   888  ☷ 
+0   888  ☷
 b6  679 ☱>☴
 
  1  887  ☳
