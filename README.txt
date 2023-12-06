@@ -1,29 +1,19 @@
 
-    ䷼>䷆
-    w(61>7)/(61>8)
+䷓
+y60
+w20
+  [siu] Contemplation
+  [huang] Approaching
 
-    "speaking truths about leaders and their followers"
 
-    this can mean different things to different people
-    for some, the leaders of the past offer inspiration and hope
-      but there are those who cling to tightly
-      and forget, that orbiting a small personality like this
-      is fine for some time
-    but in the end,
-    we were instructed
+6   877  ☴
+0   888  ☷ b6  679 ☱>☴
 
-      to be lamps unto ourselves
-
-    so what is at the centering swiriling dance
-    that is You?
-
-  what leads You to wave flags and dance?
-
-        are you listening closely?
-            a fainter tune ... a harmony arising in the mist ...
-
-    y63>y02
-
+ 1  887  ☳
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
 e0  998 ☴>☷
 b2  879 ☱>☵
 
