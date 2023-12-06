@@ -3,6 +3,7 @@ y60
 w20/19
 "watching that which grows"
 
+  [599c33b1@238]
   there were many screwy Catholic statues ex-
   hibited in public
 
@@ -32,7 +33,6 @@ who became a Catholic monk
 
   then i decide
   that i am nevertheless religious?
-  [599c33b1@238]
 
 why am i not looking forward to the meeting in Bangkok?
 because i am afraid of public speaking
@@ -42,6 +42,22 @@ that i will be exposed as this fraud
 
 by my own
 honest words
+
+  [599c33b1@252]
+    The human merry-go-round
+    sees many changes
+
+    the illusion ... that cost
+    the efforts of thousands of years to unmask
+
+    is the same illusion that
+i
+
+    labored just as hard to maintain
+    and strengthen
+  ~ Herman Hesse: page 69
+    in the Bantam paperback edition, New York, 1969
+
 
 6   877  ☴
 0   888  ☷
