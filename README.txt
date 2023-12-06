@@ -996,22 +996,11 @@ i pursuade Her
 my head is spinning
 it is quiet for a while
 
-  "do you play?"
+  "will you play for me?"
+  She points to the bowl of beads on the table
 
-  the points to the bowl of beads on the table
-                                      i only want to be here with Her
-
-i nod, awkwardly
-it was a rhetorical question
-
-  "do you want ...
-    to play for me?"
-
-i feel like a child
-confronted with this game of glass beads
-
-asked if i want to play?
-of course i want to play
+"yes"
+i play
 
 --- 
 
