@@ -1,15 +1,17 @@
 
+    again
+    these things mean different things
 
+    [...]
+    in thanks and gratitude
+    during his struggle
 
-䷓
-y60
-w20
-  [siu] Contemplation
-  and
-  [huang] Approaching 
+    the Buddha stood
+    without moving his eyes
+    [https://www.buddhanet.net/e-learning/buddhism/lifebuddha/17lbud.htm]
 
-equally
-6   877  ☴
+the buddha contemplates
+the bodhi tree
 
 ䷒>䷭
 y03>06
