@@ -8,16 +8,19 @@ lalla says,
 
   flowers,
   sesame seed,
+  bowls of fresh water!
 
-  bowls of fresh water,
-  a tuft of kusa-grass,
+    a tuft of kusa-grass!
 
   all this altar paraphernalia
-
   is not needed
+  by someone
+  who takes
+  the Teacher's words in
+  and honestly
 
-  by someone who takes the Truth
-  and honestly lives it
+  lives
+  them
   [7d6d95cb@49]
 
 
