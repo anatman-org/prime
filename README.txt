@@ -22,9 +22,7 @@ and i can't repay the debt
 but i can give her all the power back that i can
 
 that the truth of this
-is her story
-
-
+is her story to tell
 
 
 
