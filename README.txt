@@ -2,31 +2,17 @@
 y03>06
 w(19>46)/(20/45)
 
-huang says,
+huang says of 45, "Bringing Together",
 
-  The ideograph consists of two parts.
-  The upper part is a rising sun.
+  at the top
+  there are two bundles of grasses
 
-  The Chinese say,
+  the lower part is the ideograaph zu
+  providing the sound
 
-    "The brilliant sun is growing upward
-    in the Eastern sky."
+  zu means soldier
+it is part of a pun about men, you will see
 
-  The lower image is the ideograph sheng,
-  which provides the sound.
-
-  traditionally
-
-    only this lower part
-    is used for the name of this gua
-
-  sheng was an ancient unit of measure
-  for
-    grain [...bits, beads...] or
-    cloth [...fabric, manifold, space, structure...]
-
-  today,
-    one sheng is approximately one liter
 
 growing upward
 in volume
