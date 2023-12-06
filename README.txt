@@ -987,19 +987,6 @@ i pursuade Her
 
 
 --- 
-i feel unearthed
-like all that was buried in me
-
-is now ready to breathe
-*sigh*
-
-but now as i reflect
-her signals to me
-
-  "my boyfriend before ..."
-  "my girlfriend's boyfriend always sleeps over"
-
-what am i to her?
 
 as i step out of the lobby into the street
 i say honestly, earnestly,
@@ -1014,4 +1001,24 @@ i message back
 
 it's already morning, "tonight"
   "great! let's meet at Wygal's"
+
+---
+
+i feel unearthed
+like all that was buried in me
+
+is now ready to breathe
+*sigh*
+
+but now as i reflect
+her signals to me
+
+  "my boyfriend before ..."
+  "my girlfriend's boyfriend always sleeps over"
+
+what am i to her?
+walking a few more steps
+
+of course i am the naive virgin
+i am that ridiculous, hungry thing
 
