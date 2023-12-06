@@ -1,45 +1,17 @@
+  said
+    it was not that young babies see the world more accurately
 
+  but rather that
+    what it is helpful to perceive 
 
-huang says,
+that our perception of things
+    changes with age
 
-  the sequence of the Gua (Wen says),
-    when many things have happened
-    and been remedied [w19]
-    one can approach greatness
-    
-    after remedy[w19]
-    approaching
+sometimes
+we appear as characters
 
-the structure of the ideogram
-is that of a person speaking before a council
+in other people's stories
 
-there are many mouths
-one speaks at a time
-
-a staff present
-representing order
-
-  [...] don't read to much into it
-
-huang sees a person,
-bowing in ablution before a ruler
-
-this is followed by what Huang calls "Watching"
-and he puts in Wen's sequence
-
-    when things become great
-    they require careful attention
-
-    thus after Approaching
-    Watching follows
-
-
-䷓
-y60
-w20/w19
-
-equally
-6   877  ☴
 
 ䷒>䷭
 y03>06
