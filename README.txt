@@ -1,28 +1,27 @@
----
-title: the undifferentiated ocean at the end of existence
----
 
-a1  896
-e2  978
-        ䷯>䷧
-        y26>12
-        w48>40/47>39
+    followers increasing / remedying decreasing
 
-e2  978
-c4  789 
-        ䷤>䷦
-        y65>24
-        w37>39/38>40
+    warriors dance and a bowl overflowing
+    a bowl of worms with a hand closing or a thread binding it shut
 
-c4  789 
-a0  898
-        ䷿>䷖
-        y52>40
-        w64>23/63>24
+    ䷐>䷩
+    w(17>42/18>41) 
 
-a0  898
-d0  989
-        ䷾>䷁
-        y25>y00
-        w63>2/64>1
+b6  679 ☱>☴
+ 1  887  ☳
+
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
+e0  998 ☴>☷
+b2  879 ☱>☵
+
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
+b2  879 ☱>☵
+d0  989 ☲>☷
+
 
