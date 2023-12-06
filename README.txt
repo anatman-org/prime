@@ -6,22 +6,24 @@ w(19>46)/(20/45)
 
 lalla says,
 
-  flowers,
-  sesame seed,
-  bowls of fresh water!
-
-    a tuft of kusa-grass!
-
   all this altar paraphernalia
   is not needed
-  by someone
-  who takes
-  the Teacher's words in
-  and honestly
 
-  lives
-  them
-  [7d6d95cb@49]
+  [charles mingus / boogie stop shuffle]
+a lot of what we do
+
+is performance, for others
+
+cops stop black boys
+they shake them down
+
+they think they scare them
+
+  the boys know this is a dangerous game
+
+  you don't think
+  they were reminded of the rules every day?
+
 
 
 0   888  ☷ 
