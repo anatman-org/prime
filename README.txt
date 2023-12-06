@@ -7,6 +7,32 @@ to help us understand humanity
 what book would it be?]
 
 
+lalla says,
+
+  It is God
+  who yawns
+  and
+  sneezes
+  and
+  coughs,
+
+  and now laughs.
+  
+  Look, it’s
+
+  God
+
+  doing ablutions!
+
+  God deciding to fast
+
+  God going naked for one New Year’s Eve
+
+  to the next
+
+  Will you ever understand
+  how near God is to you?
+
 b6  679 ☱>☴
  1  887  ☳
 
