@@ -996,17 +996,16 @@ i pursuade Her
 my head is spinning
 it is quiet for a while
 
-  "do you play?"
-"hmmm?"
+  "why do you play?"
 
   the points to the bowl of beads on the table
   [silence]
 
-"yes"
+"because they lead me here, to You
+under the stars"
+
   she smiles, inviting me to take the beads
 
-and i do
-and i say
 
 
 
@@ -1043,20 +1042,10 @@ walking a few more steps
 of course i am the naive virgin
 i am that ridiculous, hungry thing
 
-  [lala]
-  i've exhausted
-  myself  ... looking
+but this desire
+to see the curtain lowered, the heaven revealed
 
-  no one ever finds this
-  by trying
-
-  i melted in it
-
-  and came home
-
-  where every jar is full
-but
-no one drinks
-  [7d6d95cb#63]
+to lie beneath the mysteries of the universe
+with her
 
 
