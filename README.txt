@@ -37,12 +37,22 @@ by these games
   a co-author of the research
 
                                               from Hokkaido University!
+  Dr Alice Skelton,
 
+                                              of the University of Sussex!
 
+  said
+    it was not that young babies see the world more accurately
 
+  but rather that
+    what it is helpful to perceive changes with age
 
+    “We often talk about how poor infant vision and perception are
+    in comparison with adults
 
-
+    but they’re sensitive to all sorts of different parts of the world
+    that we no longer have access to as adults”
+  Skelton said.
 
   Prof Paul Bays,
                                               of the University of Cambridge!
