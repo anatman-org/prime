@@ -32,49 +32,32 @@ from Blanchet Catholic School
   Please note that our school bus drop-off times might be impacted
   Please allow extra time to pick up your students
 
+  STOP to end
+
 how did my number
 get in their database?
 
-what point
-is made by this?
+it doesn't matter
+STOP
 
-do these things have meaning?
-  [https://en.wikipedia.org/wiki/Fran%C3%A7ois_Norbert_Blanchet]
+  15:24 6 December 2023 PDT CE
+  FACTS
 
-  24 July 24 1846
-  the Vatican
-
-  under Pope Pius IX
-  the [Catholic religious administrative region of the territory recently disputed by English and American interests]
-
-  is divided
-  into three
-
-  Oregon City
-  Vancouver Island
-  Walla Walla
-
-  Blanchet was named Bishop
-  Oregon City
-
-  29 July 1850
-  the Diocese of Oregon City was elevated to an archdiocese
-  François Blanchet is elevated to archbishop
-
-  1880
-  he retires
-  retaining the title of archbishop
-remaining below the powerful rank of "Cardinal"
-
-  he is named to a titular see
-  in the practice of that time
-
-  1883
-  he dies
-
-what is left is in a cemetery at St. Paul's, Oregon
+  You have been opted out
+  and will no longer receive messages from this service
 
 
+  [599c33b1@273]
+  by using skilled methods
+  arising out of loving conduct
+
+  brilliant teachers
+  gave fortunate ones the eye for seeing
+
+  all the Sacred Scriptures
+  and the best way
+
+  to achieve deliverance
 
 
 6   877  ☴
