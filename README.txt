@@ -1,71 +1,70 @@
+䷓
+y60
+w20/19
+"watching that which grows"
 
-      "most men will not swim before they are able to"
-    Novalis
-  quoted with approval by Hesse's
-    Steppenwolf
+  these evidences are needed in order to give a complete
+  pic-
+  ture
 
-but who drowns in the end?
+  of
+  Asia
 
-  for Nagarjuna,
-    all things are self-contradictory
-  the root of the Steppenwolf sickness is ...
-    Steppenwolf
+  Out
+  in
+  the
+  suburbs
+  by
+  the
+  university,
 
-  [his] conviction that he is uniquely self-contradictory
-  and that his self-contradiction is resolved into
+  it
+  is
+  Santa Barbara
+  or Sacramento-
+    [...] like
 
-  a duality of wolf
-  and man
+  i saw the other side
 
-  self-love and self-hate
-  but this duality arises from ignorance
+  there were many screwy Catholic statues ex-
+  hibited in public
 
-  of the fact that all “things”
-  are self-contradictory
+  but sometimes under glass
 
-  in their very claim to privacy
-in staking a claim on existence
+  so that the Catholic saints come a little closer
+  to Ganesha and Hindu [all that] camp after all
 
+  Suddenly!
+  there is a point
 
-  the Steppenwolf, however, creates
-    a double illusion
+  religion becomes laughable
 
-  by the price he places on private individuality
-  as capable of special and unique relationships
+  then i decide
+  that i am nevertheless religious?
 
-in other words,
+  look
+  forward
 
-    ”They had run out of seashells and were using faded photo-
-    graphs,
+  a whole new journey
+  begins there
 
-    soiled fans, time-tables, playing cards, broken toys,
-    imitation jewelery,
+  iam still not sure where it will take me
+  or what i can or should plan on
 
-    junk that memory had made precious,
-    far more precious than anything the sea might yield."
+my brain still races
+trying to tally up every risk, every danger
 
-  Nathaniel West,
-    "Miss Lonelyhearts", page 23 of the New Directions paperback edition
+  but the journey is only begun
+  some of the places i really wanted to see from the beginning
 
-he preserves what She gives
-and treasures it
+  have not yet
+  to be touched
 
-but it all needs to go back to the sea
-
-Lalla says,
-  paraphernalia is not needed
-
-  by someone who takes the Giver's words
-  and honestly understands and lives them
-
-
-䷒>䷭
-y03>06
-w(19>46)/(20/45)
-  approaching bringing together / watching upward movement
+  [599c33b1@238]
 
 
-0   888  ☷ 
+6   877  ☴
+0   888  ☷
 b6  679 ☱>☴
 
  1  887  ☳
