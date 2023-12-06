@@ -1,14 +1,14 @@
 
 
 
-as if to emphasise
-we should be reading
-
 ䷓
 y60
 w20
   [siu] Contemplation
+  and
+  [huang] Approaching 
 
+equally
 6   877  ☴
 
 ䷒>䷭
