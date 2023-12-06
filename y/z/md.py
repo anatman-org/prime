@@ -120,6 +120,7 @@ def dump(obj, stream=None, *kwargs):
 
 
 def add_key(data: dict, key: str, value: str) -> dict:
+
     old_value = data.get(key)
 
     if not old_value:
@@ -156,6 +157,7 @@ def parse_stream(stream: TextIO) -> Iterator[dict | list | None]:
     new_label = None
 
     while 1:
+
         line = stream.readline()
         if not line:
             eof = True
@@ -175,6 +177,7 @@ def parse_stream(stream: TextIO) -> Iterator[dict | list | None]:
 
         # An existing block needs to be parsed and flushed
         if block.strip():
+
             data = parse_block(block)
             key = label or "_"
 
@@ -189,6 +192,7 @@ def parse_stream(stream: TextIO) -> Iterator[dict | list | None]:
 
             # A simple string
             elif isinstance(data, (str, int, float)):
+
                 if isinstance(data, (int, float)):
                     data = str(data)
 
@@ -213,6 +217,7 @@ def parse_stream(stream: TextIO) -> Iterator[dict | list | None]:
 
 
 def dump_md(data: dict, file: TextIO):
+
     if body := data.get("Body", None):
         del data["Body"]
 

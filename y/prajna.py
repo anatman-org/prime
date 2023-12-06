@@ -20,7 +20,6 @@ from z.md import dump_md
 ITER_SIZE = 65536
 PRAJNA_URL = "https://prajna.io"
 
-
 # From https://gist.github.com/obskyr/b9d4b4223e7eaf4eedcd9defabb34f13
 class ResponseStream:
     def __init__(self, request_iterator):
@@ -62,6 +61,7 @@ class ResponseStream:
 
 
 def dump(args: list[str]):
+
     headers = {"Accept": "application/json", "Accept-Encoding": "gzip, deflate"}
     r = requests.get(PRAJNA_URL, {"q": args}, stream=True, headers=headers)
 
@@ -69,6 +69,7 @@ def dump(args: list[str]):
         loads(raw)
         for raw in splitfile(ResponseStream(r.iter_content(ITER_SIZE)), format="json")
     ]:
+
         _id = data.get("ID")
         print(_id)
         fname = f"p/{_id[0]}/{_id[1]}/{_id[2]}/{_id[3]}/{_id[4:]}.md"
@@ -81,6 +82,7 @@ def dump(args: list[str]):
 
 
 if __name__ == "__main__":
+
     from sys import argv
 
     dump(argv[1:])

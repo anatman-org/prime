@@ -68,6 +68,7 @@ class VideoStatic(Player):
 
 
 class ImageStatic(AbstractImage):
+
     _image = None
 
     def __init__(self, *args, **kwargs):
@@ -98,6 +99,7 @@ class ImageStatic(AbstractImage):
 
 
 class ImageSequence(AbstractImage):
+
     _image = None
     autoincrement = False
     filelist = []
@@ -113,6 +115,7 @@ class ImageSequence(AbstractImage):
         pass
 
     def blit(self, x, y, z=0):
+
         self.load()
 
         if self._image:
@@ -122,6 +125,7 @@ class ImageSequence(AbstractImage):
             raise IndexError
 
     def blit_into(self, source, x, y, z=0):
+
         if self._image:
             self._image.blit(source, x, y, z=z)
         else:
@@ -138,6 +142,7 @@ class ImageSequence(AbstractImage):
 
 
 class ImageGlobSequence(ImageSequence):
+
     autoincrement = False
     _past = None
     _future = None
@@ -181,6 +186,7 @@ class ImageGlobSequence(ImageSequence):
 
     @retry(codecs.DecodeException, tries=3, delay=2)
     def load(self):
+
         # use _past and _future to optimize this
 
         try:

@@ -18,6 +18,7 @@ from config import *
 
 
 class DashWindow(Window):
+
     state: str = "ready"
     mat = None
     back = None
@@ -44,6 +45,7 @@ class DashWindow(Window):
         dash_cmd.draw()
 
     def on_key_release(self, key, modifier):
+
         if key in [key_code.ENTER, key_code.SPACE, key_code.NUM_ENTER]:
             self.snapshot()
 
@@ -79,6 +81,7 @@ class DashWindow(Window):
             exit()
 
     def loop(self):
+
         self.mat()
 
         self.switch_to()
@@ -111,6 +114,7 @@ class DashWindow(Window):
                 pass
 
     def snapshot(self):
+
         now = datetime.now()
         fname = eval('f"' + FNAME_TEMPLATE + '"')
 

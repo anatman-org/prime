@@ -25,6 +25,7 @@ def pil_to_pyg(pil_image):
 
 
 class MatMedium:
+
     autoincrement = False
     pos = 0
     state = STATE["NONE"]
@@ -47,6 +48,7 @@ class MatMedium:
 
 
 class MatImage(MatMedium):
+
     _image = None
     file = None
 
@@ -56,6 +58,7 @@ class MatImage(MatMedium):
         self._image = image_load(self.file)
 
     def __call__(self, *args, **kwargs):
+
         if self.file:
             self._image = image_load(self.file)
             self._image.blit(0, 0, 0)
@@ -102,6 +105,7 @@ class MatVideo(MatMedium):
             self.player.get_texture().blit(0, 0)
 
     def pause(self):
+
         if self.player.playing:
             self.player.pause()
             log.debug(f"pause {self}")
@@ -114,6 +118,7 @@ class MatVideo(MatMedium):
         log.error(f"next {self} NO seek + 1")
 
     def prev(self):
+
         position = self.pos - 1
         if position < 0:
             position = 0
@@ -123,6 +128,7 @@ class MatVideo(MatMedium):
 
 
 class MatImageList(MatImage):
+
     _image = None
 
     def __init__(self, image_file_list, pos=0, loop=True, *args, **kwargs):

@@ -1,106 +1,76 @@
+䷐>䷩
+y31>61
+w(17>42/18>41) 
 
-    ䷼>䷆
-    w(61>7)/(61>8)
+    people of strength rise / blessings and relief descend
 
-    "speaking truths about leaders and their followers"
-    about celebrities and their fans
-    about armiers and their leaders
+    warriors dance and a bowl overflowing
+    a bowl of worms with a hand closing or a thread binding it shut
 
-what if the mind becomes one pointed?
-  and what happens if ther "one point" is removed?
-  [599c33b1#258]
+  [599c33b1#232 photograph of a relief oat "Seven Pagodas," Mahabalipuram]
 
-on and off
-since i have been here
+in the "Descent of the Ganges"
+the Ganges is depicted
+descending from the sacred Himalayas
+as the natural cleft in the rock
 
-suggestions ... queries
-it needs some thought
+then stone relief
+on both sides
+beautifully depicts
+witness of this event
+by gods and goddesses
+by warriors and priests
+by guru and elephant
+by animals and spirits
 
-i don't want to get cuaght
-in endless talks and visits
+it is one, integrated piece --
+  stone, natural cleft, sculpture
 
-    Kandy Express
+Koestler quotes Sankaracharya saying:
+    "adaptations have no place in the standards of spiritual discipline"
+  Against shortening or changing thre ancient rituals.
+  no concessions to be made.
+  One who cannot fulfil his oblications
+  can somehow substitute by regret and repentance
+  but the obligations are not to be slackened
 
-    inward parcels
-    outward parcels
+what are we to make of
+this adaption of this sacred event?
+this relief? this representation?
 
-    lordy blue ponds
-    standing in a river, water pouring over
+where does Sankaracharya make these distinctions?
 
-    beat-up pails
-    coconuts, bananas
+  Koestler was bothered by this "unyielding attitude."
+  he thought, [it] "bore no relation to contemporaneity."
 
-    little boy in a yellow suit too big hat
-    walks tracks with brother
+what does contemporaneity have to do with it?
+the relief is also known as Arjuna's Penance
 
-    schoolgirls walk tracks
-    everybody walks tracks
+depicting when demons sent a wild boar to slay Arjuna
+and Shiva came to Arjuna's aid, slaying the boar
 
-      Trespassers on the Railway
-      will be prosecuted
+Arjuna claimed credit for the kill
+quarrelling with the God
 
-      Trespassers on the Railway
-      will be prosecuted
+of course the God won
+eventually revealing Himself
 
-    Second Class
-    Kandy Express
+and Arjuna repented
+and was blessed with a weapon of Great Destruction -- Pasupata
 
-    more comfortable
-    than a plane
-
-    plenty of room, clean air
-    see everything
-
-      Trespassers on the Railway
-      will be prosecuted
-
-      Trespassers on the Railway
-      will be prosecuted
-
-  a tall girl in green -- lovely walks on the tracks
-  the monks with their umbrellas walk the tracks
-
-      Trespassers on the Railway
-      will be prosecuted
-
-      Trespassers on the Railway
-      will be prosecuted
-
-      Trespassers on the Railway
-      will be prosecuted
-
-      Trespassers on the Railway
-      will be prosecuted
-  [599c33b1#254]
+why do men
+have to wrestle and quarrel with God?
+[Genesis@32.22-31, Hosea@12.5, Job@3, Jonah@1, Jonah@4.6-11, even Matt@27.46, Mark@15.34]
 
 
 
-i feel unearthed
-like all that was buried in me
+b6  679 ☱>☴
+ 1  887  ☳
 
-i walk down the street
-[https://youtu.be/7zwY-HfmvDQ&t=252s]
-
-
-    y63>y02
-
-a white cramne
-standing in sunny water
-briefly shakes herseldf
-
-another flies low over the green paddy
-before it alights
-
-    sri Kanda
-    Taprobane
-
-    in captivity
-    Zhou unlocked the mysteries of Change
-
-    in captivity
-    Subramanian unlocked the Last Theorem
-
-
+00  888  ☷
+c7  766 ☶>☰
+b0  899 ☱>☷
+c0  988 ☶>☷
 e0  998 ☴>☷
 b2  879 ☱>☵
 
