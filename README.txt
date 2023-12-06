@@ -1,13 +1,7 @@
 ䷓
 y60
 w20/19
-"watching that which grows"
-
-Huang says,
-  it originally meant overlooking
-  in the sense of viewing from above
-
-this seems to conflate the meaning of w19 with w20
+"overwatcher"
 
 
 6   877  ☴
