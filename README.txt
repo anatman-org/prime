@@ -4,46 +4,41 @@ and asked us to give them one book
 to help us understand humanity
 what book would it be?]
 
-  some here have
-  faced aliens
+  and i am finite
+  and God is not
 
-  they came in ships
-  across the sea instead of outer space
+what does it mean
+to be in accord with
 
-  they came with violence
-  they came with war
+Heaven’s distinctions?
 
-  they never asked us
-  what our favorite book was
+the mutual dependence
+of changing pronouncements
 
-and the issue at hand
-is about the I Ching
+is such that they seem not
+to depend on each other
 
-this is the answer
-that is presumed in the question
+  others will surely suffer from
+  the obscurity of what i say
 
-we are here
-at this Editor's council
+so let us speak plainly
+of our fears
 
-because we all
-admire this text
+of what we deeply hold
+to be right and wrong
 
-i want to understand this lesson,
-of my experience of the violence of aliens
+  but let us also be clear
+  with ourselves
 
-let's remember both how we have been
 
-  alien ...
-    ... stranger
-    ... afraid
-    ... uncomfortable
-  who has acted in aggression
+those who can cicada-like slough off
+all bonds and thus arcanely
 
-  ... and homeowner
-  whose house has been invaded
-    ... "seemingly" [*sigh*]
-  by strangers
+unite life and death
+are extremely rare
 
+  [and while well represented
+  are not present at this editor's meeting]
 
 b6  679 ☱>☴
  1  887  ☳
@@ -61,4 +56,5 @@ b0  899 ☱>☷
 c0  988 ☶>☷
 b2  879 ☱>☵
 d0  989 ☲>☷
+
 
