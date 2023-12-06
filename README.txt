@@ -1006,6 +1006,8 @@ under the stars"
 
   she smiles, inviting me to take the beads
 
+                                      i only want to be here with Her
+
 
 
 
