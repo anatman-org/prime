@@ -1002,6 +1002,9 @@ it is quiet for a while
 "yes"
 i play
 
+  [Like Someone in Love / John Coltrane](https://music.apple.com/us/album/like-someone-in-love/1440947584?i=1440947775)
+
+
 --- 
 
 as i step out of the lobby into the street
