@@ -1,25 +1,30 @@
+let's remember both how we have been
 
-[if aliens came tomorrow
-and asked us to give them one book
-to help us understand humanity
-what book would it be?]
+  alien ...
+    ... stranger
+    ... afraid
+    ... uncomfortable
+  who has acted in aggression
 
-    it's not so different
-    than meeting aliens
+  ... and homeowner
+  whose house has been invaded
+    ... "seemingly" [*sigh*]
+  by strangers
 
-some here have
-faced aliens
+yes, and then later told
+that they remember it wrong
 
-they came in ships
-across the sea instead of outer space
+  that it was their fault that
+  the invader was violent?
 
-they came with violence
-they came with war
+we have all been both
+some more than others
 
-they never asked us
-what our favorite book was
+some who are owed debts
+that can never be be repaid
 
-
+some are owed debts
+that can be repayed
 
 
 b6  679 ☱>☴
