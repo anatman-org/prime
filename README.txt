@@ -1,25 +1,46 @@
-  said
-    it was not that young babies see the world more accurately
+䷓
+y60
+w20/19
+"watching that which grows"
 
-  but rather that
-    what it is helpful to perceive 
+Huang says,
+  it originally meant overlooking
+  in the sense of viewing from above
 
-that our perception of things
-    changes with age
+this seems to conflate the meaning of w19 with w20
+indeed
 
-sometimes
-we appear as characters
+  it implies occupytiung a height or a commanding position
+  to lead, to rule, to control
 
-in other people's stories
+  there are two solid lines at the bottom
+  they are approaching the four spaces
+
+  occupied by
+  the yielding lines above
+
+  they are growing
+  and expanding
+
+Wen's imperialistic ambitions aside
+Wen's sequence with w19 and w20
+
+provides a critical understanding
+what grows
+
+  [...] what is at the bottom
+will surface
+
+watch
+with clarity
+
+watch
+with the eyes of Shadow and Penumbra
 
 
-䷒>䷭
-y03>06
-w(19>46)/(20/45)
-  approaching bringing together / watching upward movement
 
-
-0   888  ☷ 
+6   877  ☴
+0   888  ☷
 b6  679 ☱>☴
 
  1  887  ☳
