@@ -1,34 +1,91 @@
 
-again
-these things mean different things
+children are not fooled
+by these games
 
-brother, sister,
-father, nurse
-poet, healer
+  Experts say
+    that is because information processing in the tots’ brains
+    is not yet fully developed
+  which means
+    they make different assumptions about what they see.
 
-  [ba-lue bolivar ba-lues-are / thelonius monk]
-these tricks are just tricks
+  Writing in the journal Proceedings of the Royal Society B,
+  researchers in Japan report how they
+  showed a screen featuring red and green dots
+  to infants aged five to eight months.
 
-the buddha,
-  During the second week,
-  in thanks and gratitude
+  Dots of one colour moved upwards
+  in the centre but downwards on the right and left
 
-  to the tree
-  that had sheltered him
+  while dots of the other colour
+  showed the reverse motion
 
-  during his struggle
-  for Buddhahood
+  When adults look at the centre of the screen,
+  a visual illusion occurs:
 
-  the Buddha stood
+    the red dots all appear to move in one direction
+    and the green dots in the other
 
-  without moving his eyes
+  the team presented children
+  with a screen with dots of just one colour
 
-  as he meditated on
-  the bodhi tree
+  These either all moved in the same direction or
+  moved in one direction in the centre and the opposite direction at the sides.
 
-and he later said,
-  The disappearance of the word "I AM" is indeed the highest happiness.
-  [https://www.buddhanet.net/e-learning/buddhism/lifebuddha/17lbud.htm]
+    “[Younger infants] perceived the accurate combination
+    between colours and motion directions,”
+  said Dr Shuma Tsurumi,
+  a co-author of the research
+
+                                              from Hokkaido University!
+
+
+
+
+
+
+
+  Prof Paul Bays,
+                                              of the University of Cambridge!
+
+  who was not involved in the work
+    welcomed the findings
+
+  He said that
+    what we see was influenced by expectations about the world
+    embedded in our brains during development
+
+    “This makes us susceptible to visual illusions
+    when the context leads us to expect to see something
+
+    different from
+    the reality.
+
+    In this case,
+    the illusion arises
+
+    because the adult visual system
+    assumes
+      what you see in the centre of the screen
+      is a good guide to what’s happening at the periphery,”
+
+  Bays said.
+    “[The results are] consistent with the idea that
+
+      younger babies have not yet built up
+    the expectations about the world
+
+    that create
+
+    the illusion,”
+
+  he added.
+
+
+
+
+  [https://www.theguardian.com/science/2023/dec/06/babies-do-not-fall-for-illusion-that-fools-older-children-study-finds]
+
+
 
 
 ䷒>䷭
