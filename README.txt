@@ -43,9 +43,20 @@ in other words,
 
     junk that memory had made precious,
     far more precious than anything the sea might yield."
+
   Nathaniel West,
     "Miss Lonelyhearts", page 23 of the New Directions paperback edition
 
+he preserves what She gives
+and treasures it
+
+but it all needs to go back to the sea
+
+Lalla says,
+  paraphernalia is not needed
+
+  by someone who takes the Giver's words
+  and honestly understands and lives them
 
 
 ䷒>䷭
