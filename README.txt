@@ -1,10 +1,7 @@
 
-[if aliens came tomorrow
-and asked us to give them one book
-to help us understand humanity
-  and while well represented
-  are not present at this editor's meeting
-what book would it be?]
+  will you ever understand
+  how near God is to you?
+
 
 
 b6  679 ☱>☴
