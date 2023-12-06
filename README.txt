@@ -1,29 +1,17 @@
 
-  Close my eyes, feel me now
-  I don't know how you could not love me now
-  You will know, and her feet down to the ground
-  Over there, and I want true love to know
-  You can't hide, oh no, from the way I feel
 
-  Turn my head into sound
-  I don't know when I lay down on the ground
-  You will find the way it hurts to love
-  Never cared, and the world turned hearts to love
-  You will see, oh, now, oh, the way I do
+䷒>䷭
+y03>06
+w(19>46)/(20/45)
 
-  You will wait, see me go
-  I don't care, when your head turned all alone
-  You will wait, when I turn my eyes around
-  Overhead, when I hold you next to me
-  Overhead, to know, oh, the way I see
+root reminds,
+  "Head Over Heels"
 
-  Close my eyes, feel me how
-  I don't know, maybe you could not hurt me now
-  Here alone, when I feel down too
-  Over there, when I await true love for you
-  You can hide, oh, now, the way I do
-  You can see, oh, now, oh, the way I do
-  [fH0NQzXlzyQ]
+we must all give equal consideration
+to both sides of any message
+
+  [huang]
+  approaching bringing together / watching upward movement
 
 
 0   888  ☷ 
