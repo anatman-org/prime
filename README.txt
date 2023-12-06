@@ -52,11 +52,33 @@ honest words
 
     is the same illusion that
 i
-
     labored just as hard to maintain
     and strengthen
   ~ Herman Hesse: page 69
     in the Bantam paperback edition, New York, 1969
+
+  [https://en.wikipedia.org/wiki/Edward_the_Confessor]
+  In 1159
+  there was a disputed election to the papacy
+  and Henry II's support helped to secure the recognition of
+  Pope Alexander III
+
+  In 1160
+  a new abbot of Westminster, Laurence
+  seized the opportunity to renew Edward's claim
+  This time it had the full support of the king and the English hierarchy
+  and a grateful pope issued the bull of canonisation on
+  7 February 1161
+  the result of a conjunction of the interests of
+    Westminster Abbey
+    King Henry II
+    Pope Alexander III
+
+  [Edward] was called 'Confessor' as the name for someone
+  who was believed to have lived a saintly life but was not a martyr
+
+
+
 
 
 6   877  ☴
