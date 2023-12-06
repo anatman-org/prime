@@ -1,30 +1,29 @@
 
-if aliens came tomorrow
+[if aliens came tomorrow
 and asked us to give them one book
 to help us understand humanity
-what book would it be?
+what book would it be?]
 
-  well,
-  i just cited
-    Genesis@32.22-31
-    Hosea@12.5
-    Job@3
-    Jonah@1
-    Jonah@4.6-11
-    and Matt@27.46 and Mark@15.34
+well, i just cited
+Genesis@32.22-31 Hosea@12.5 Job@3 Jonah@1 Jonah@4.6-11 and Matt@27.46 and Mark@15.34
 
-  because i just asked
-  why people
-    and some people in particular
-        WE KNOW WHO WE ARE
-    for some reason seem to do it
-      strangely, poorly
-  struggle with God
+  some are owed debts
+  that can be repayed
 
-  why i struggle with God
+and i confess a deep debt i can never repay
+i took advantage of M
 
-  it's not so different
-  than meeting aliens
+i had lust and desire and power over her
+and i used it to satisfy some urge of 
+
+my own twisted soul
+
+and i can't repay the debt
+but i can give her all the power back that i can
+
+that the truth of this
+is her story
+
 
 
 
