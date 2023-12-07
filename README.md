@@ -1,3 +1,7 @@
+---
+title: The Annotated Guide to the Glass Bead Game
+---
+
 
 the game is an imaginary game
 played with glass beads
