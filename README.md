@@ -2,22 +2,20 @@
 title: The Annotated Guide to the Glass Bead Game
 ---
 
+The Glasss Bead Game is an imaginary game
+played with glass beads.
 
-the game is an imaginary game
-played with glass beads
+Players take turns placing beads on the table
+and try to create patterns,
+mutually agreed to be interesting.
 
-players take turns placing beads on the table
-and try to create patterns -- mutually agreed to be interesting --
+The final configuration of the beads
+when all moves are exhausted,
+is the "score."
 
-this phase is one of cooperation
-and mutual learning,
-like a co-operative sudoku or crossword puzzle
-
-the final configuration od beads is mapped
-to one of the sixty-four meanings of the I Ching
-
-which is the "score"
-
-which accumulates between players
-amounting to a sort of poem
+Rather than imagining the score
+as some outcome of wins and losses,
+though,
+the score is best understood as a
+composition -- like a musical score.
 
