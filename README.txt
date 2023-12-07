@@ -111,5 +111,12 @@ a message about the power adapter i ordered
 a message about the cable i ordered
 i remember the trick i plan with that cable
 
-if i wire up the loftus [https://en.wikipedia.org/wiki/Elizabeth_Loftus]
-with the ceptic?
+if i wire up the false-match categorizer
+with the garbage collector
+
+in reverse
+
+i'll get everything
+that is being edited out
+
+
