@@ -68,7 +68,50 @@ and consequently, aeons of play that follow
 follow the rules and semantics of that composition.
 
 Play is simple.
+
 Players begin with fifty beads on a flat surface.
+The beads are apportioned as follows:
+
+  * 16 white beads
+  * 9 clear beads
+  * 3 blue (or other color) beads
+  * 22 black beads
+
+White and clear beads represent yang and old-yang, respectively.
+Black and blue beads represent yiun and old-yin, respectively.
+The distribution of beads in these quantities reflects an approximation
+of the outcomes in the standard yarrow mechanics of *Yijing* play.
+
+To facilitate Archive processing,
+beads commonly begin with a "test pattern" arrangement,
+which involves arrangement of white beads in a four-by-four square,
+clear beads in a three-by-three square,
+and the remaining beads in a five-by-five square.
+The squares are arranged so each has one corner touching
+each of the other two, resulting in a Pythagorean triangle of 9-16-25 squares.
+
+1. At the beginning of play,
+  the beads are randomly mixed.
+
+2. One bead is extracted and placed aside (typically to the south).
+
+3. Beads are mixed again in one pile.
+
+4. The pile of beads is then divided into two.
+
+5. A single bead is extracted from the right-hand pile and placed aside (typically to the north).
+
+6. The pile on the left is then decomposed
+  by separating out quartets of beads until
+  only one, two, three, or four beads remain.
+  These remaining beads are placed aside
+  (typically just south of the bead previously placed aside to the north).
+
+7. The process is repeated with the beads in the pile on the right,
+  and the remaining beads are added to the remainder of the previous step.
+  There should be either 
+
+
 
 
 ---
