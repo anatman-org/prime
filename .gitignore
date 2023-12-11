@@ -5,6 +5,7 @@ lib64
 src
 tmp
 
+*.log
 .snap
 
 **/.DS_Store
@@ -28,4 +29,14 @@ __pycache__/
 *.py[cod]
 *.so
 .Python
+
+# Xapian DB
+docdata.glass
+flintlock
+iamglass
+position.glass
+postlist.glass
+spelling.glass
+synonym.glass
+termlist.glass
 
