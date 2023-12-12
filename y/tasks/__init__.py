@@ -56,8 +56,7 @@ def frames2_vid(ctx, framebase):
     OUTPUT = slugify(framebase) + '.mp4'
 
     # https://superuser.com/a/891478
-    # FFMPEG = f"ffmpeg -framerate 6 -pattern_type glob -i '{framebase}' -vf 'scale=(iw*sar)*min(1920/(iw*sar)\\,1280/ih):ih*min(1920/(iw*sar)\\,1280/ih), pad=1920:1280:(1920-iw*min(1920/iw\\,1280/ih))/2:(1280-ih*min(1920/iw\\,1280/ih))/2' /work/clips/{OUTPUT}"
-    FFMPEG = f"ffmpeg -framerate 6 -pattern_type glob -i '{framebase}' -vf 'scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2' /work/clips/{OUTPUT}"
+    FFMPEG = f"ffmpeg -framerate 6 -pattern_type glob -i '{framebase}' -vf 'scale=(iw*sar)*min(1920/(iw*sar)\\,1280/ih):ih*min(1920/(iw*sar)\\,1280/ih), pad=1920:1280:(1920-iw*min(1920/iw\\,1280/ih))/2:(1280-ih*min(1920/iw\\,1280/ih))/2' /work/clips/{OUTPUT}"
     print(FFMPEG)
     ctx.run(FFMPEG)
 
