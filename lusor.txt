@@ -3,11 +3,17 @@
 
   ䷄>䷾ 27>25 w(5/6)>(63/64)
   [lynn] Waiting > Ferrying Complete / Contention > Ferrying Incomplete
+  [karcher]
+    Attending / Service at the Sacrifice > Already Crossing
+    Dispute / Pleading / Council > Not Yet Crossing
 
 f5  797 ☰>☲
 
   ䷠>䷱ 74>56 w(33/34)>(50/49)
   [lynn] Withdrawl > The Cauldron / Great Strength > Radical Change
+  [karcher]
+    Retiring / Young Pig > The Vessel / Transformation
+    Great Invigorating Strength > Skinning / Revolution
 
 d6  768 ☶>☴
 
