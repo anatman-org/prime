@@ -1,4 +1,9 @@
 
+ 2  878 ☵
+
+  ䷄>䷾ 27>25 w(5/6)>(63/64)
+  [lynn] Waiting > Ferrying Complete / Contention > Ferrying Incomplete
+
 f5  797 ☰>☲
 
   ䷠>䷱ 74>56 w(33/34)>(50/49)
@@ -9,7 +14,6 @@ d6  768 ☶>☴
   ䷃>䷴ 42>64 w(4/3)>(53>54)
   [lynn] Juvenile Ignorance > Gradual Advance / Birth Throes > Marrying Maid
   [huang] Childhood > Developing Gradually / Beginning > Marrying Maiden
-
   [karcher]
     Enveloping / Royal Maiden > Gradual Advance / Marrying Woman
     Sprouting / The World Tree > Marrying Maiden
