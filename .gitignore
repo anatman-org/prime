@@ -1,0 +1,37 @@
+tmp
+*.log
+snap
+.snap
+lfs
+.lfs
+
+**/.DocumentRev*
+**/.Spotlight*
+**/.[tT]rash*
+**/.[tT]emp*
+**/.[tT]mp*
+**/*.part
+**/.*.sw*
+**/cache
+**/.DS_*
+**/.fs*
+*.bak*
+*.sw*
+tmp
+
+# python and unix files
+pyvenv.cfg
+.ipynb_checkpoints
+__pycache__/
+*.rpy[cod]
+*.py[cod]
+.Python
+.Xauth*
+.vscode
+*.ytdl
+generated
+*Auto-Save
+Adobe*Previews
+
+# whatever remains spoken elsewhere
+src
