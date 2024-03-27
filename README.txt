@@ -1,5 +1,10 @@
+---                                               
+TitLE:=thE aNNoTaTed ManuaL TO The gLAss beAD gAMe
 ---
-title: the annotated manual of the glass Bead game
----
-◯  ◍◍◍◯    ◯◍ⵀⵀ   ◯◯◍◍                           ◯
 
+● ⵀ◍●◍⨂◯○◍    ●○◯◯            ⵀ◯◯◯●ⵀ⨂○           ⵀ ䷬ ䷋
+●  ●○●●      ⴱ●◍◯◍◍◍◍            ⵀⵀⴱ○            ◍ ䷃ ䷭
+● ◍◍◍◍      ⨁●◯ⵀⴱⵀ⨁◍   ◍●●●                      ◍ ䷼ ䷈
+◍   ◯●ⵀ◍  ⨂ⴱ●●   ⵀⵀ●◯                            ⵀ ䷽ ䷟
+○ ●◯◍◯        ⵀⵀⵀ●◍●◯◍         ◍●○ⴱ              ⨂ ䷋ ䷇
+◍  ○●◯◯        ◍⨂●○            ○○○◯●●ⵀ●          ⵀ ䷯ ䷺
